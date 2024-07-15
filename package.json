@@ -1,0 +1,9 @@
+{
+  "name": "mindlogic-language-pack",
+  "version": "0.1.0",
+  "description": "Package to manage the different translations across Mindlogic's products",
+  "main": "index.js",
+  "repository": "https://github.com/mindlogic-ai/language-pack",
+  "author": "Sean Park <seanpark1107@gmail.com>",
+  "license": "MIT"
+}
