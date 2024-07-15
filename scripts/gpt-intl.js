@@ -13,7 +13,18 @@ program
   .version("0.0.1");
 
 // Options
-program.option("-d, --debug", "output extra debugging", false);
+program
+  .option("-d, --debug", "output extra debugging", false)
+  .option(
+    "-l, --languages",
+    "comma-separated list of language codes to translate to",
+    "ko,en,es,ja,zh"
+  )
+  .option(
+    "-srcLang, --sourceLanguage",
+    "preferred source language to translate from when multiple language values already exist",
+    "en"
+  );
 
 program.parse();
 
