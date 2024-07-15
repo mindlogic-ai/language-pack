@@ -2,7 +2,7 @@ const { program } = require("commander");
 const axios = require("axios");
 var fs = require("fs");
 const { isObject } = require("lodash");
-var glob = require("glob");
+var { glob } = require("glob");
 
 const API_URL =
   "http://ec2-3-37-133-37.ap-northeast-2.compute.amazonaws.com/api/utils/intl/";
@@ -87,15 +87,15 @@ const processFile = (sourceFilePath) => {
   });
 };
 
-glob("**/*/**.translations.json", options, function (er, files) {
-  // files is an array of filenames.
-  // If the `nonull` option is set, and nothing
-  // was found, then files is ["**/*.js"]
-  // er is an error object or null.
+const processFiles = async () => {
+  const files = await glob("**/*.translations.json", {
+    ignore: "node_modules/**",
+  });
   files
     // .filter(filepath => !sourceFilePath || sourceFilePath === filepath)
     .map((filepath) => {
       console.log(`Processing ${filepath}...`);
       processFile(filepath);
     });
-});
+};
+processFiles();

@@ -1,0 +1,93 @@
+{
+  "onboarding_guide_1_text_4": {
+    "ko": "기뻤는지",
+    "en": "Was happy",
+    "zh": "是否高兴",
+    "es": "Estaba feliz",
+    "ja": "嬉しかったか"
+  },
+  "onboarding_guide_3_button_text": {
+    "ko": "시작하기",
+    "en": "Get Started",
+    "zh": "开始",
+    "es": "Comenzar",
+    "ja": "始める"
+  },
+  "onboarding_guide_2_text_4": {
+    "ko": "오늘 들은 음악",
+    "en": "Music listened to today",
+    "zh": "今天听的音乐",
+    "es": "Música escuchada hoy",
+    "ja": "今日聴いた音楽"
+  },
+  "onboarding_guide_1_text_5": {
+    "ko": "n슬펐는지",
+    "en": "n was sad",
+    "zh": "n很伤心",
+    "es": "n estaba triste",
+    "ja": "nは悲しかった"
+  },
+  "onboarding_guide_1_text_1": {
+    "ko": "내 최애는 뭐하고 있지?",
+    "en": "What my bias is doing?",
+    "zh": "我的偏爱在做什么？",
+    "es": "¿Qué está haciendo mi favorito?",
+    "ja": "私の推しは何をしているの？"
+  },
+  "onboarding_guide_2_text_3": {
+    "ko": "친구랑 싸운 얘기",
+    "en": "A story about fighting with a friend",
+    "zh": "和朋友吵架的故事",
+    "es": "Una historia sobre pelear con un amigo",
+    "ja": "友達と喧嘩した話"
+  },
+  "onboarding_guide_1_text_2": {
+    "ko": "잠은 잘 잤는지",
+    "en": "Did you sleep well?",
+    "zh": "你睡得好吗？",
+    "es": "¿Dormiste bien?",
+    "ja": "よく眠れましたか？"
+  },
+  "onboarding_guide_2_text_5": {
+    "ko": "너한테만 하고 싶은 말이 있을 때",
+    "en": "When I have something to say only to you",
+    "zh": "当我有话只想对你说时",
+    "es": "Cuando tengo algo que decir solo a ti",
+    "ja": "君にだけ言いたいことがあるとき"
+  },
+  "onboarding_guide_1_text_3": {
+    "ko": "뭘 먹었는지",
+    "en": "What did you eat",
+    "zh": "你吃了什么",
+    "es": "Qué comiste",
+    "ja": "何を食べたの"
+  },
+  "onboarding_guide_2_text_2": {
+    "ko": "고민이 있을 때",
+    "en": "When in doubt",
+    "zh": "当有疑虑时",
+    "es": "Cuando tengas dudas",
+    "ja": "悩んでいるとき"
+  },
+  "onboarding_guide_2_text_1": {
+    "ko": "최애가 내 말을 들어준다면?",
+    "en": "What if my favorite person listens to me?",
+    "zh": "如果我最喜欢的人听我说话怎么办？",
+    "es": "¿Qué pasa si mi persona favorita me escucha?",
+    "ja": "推しが私の話を聞いてくれたら？"
+  },
+  "onboarding_guide_3_text_1": {
+    "ko": "아티스트와 24/7 연결할 수 있습니다",
+    "en": "You can connect to the artist 24/7",
+    "zh": "您可以全天候与艺术家联系",
+    "es": "Puedes conectarte con el artista 24/7",
+    "ja": "アーティストと24時間いつでもつながることができます"
+  },
+  "onboarding_guide_1_text_6": {
+    "ko": "내가 너에 대해 궁금할 때 내 편견이 내 말을 듣는다면",
+    "en": "What if my bias listens to me when I'm curious about you",
+    "zh": "如果我对你感到好奇时，我的偏见会听我的话",
+    "es": "¿Qué pasaría si mi sesgo me escuchara cuando tengo curiosidad por ti?",
+    "ja": "私があなたに興味を持っているときに、私の偏見が私の言うことを聞いたらどうなるでしょう"
+  }
+}
