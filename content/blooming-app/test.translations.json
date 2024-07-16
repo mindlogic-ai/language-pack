@@ -5,5 +5,12 @@
     "zh": "注册",
     "es": "Regístrate",
     "ja": "サインアップ"
+  },
+  "test_text": {
+    "ko": "가입하기",
+    "en": "Sign Up",
+    "zh": "注册",
+    "es": "Regístrate",
+    "ja": "サインアップ"
   }
 }
