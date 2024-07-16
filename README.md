@@ -24,4 +24,4 @@ yarn sync-gs-data
 yarn gpt-intl
 ```
 
-The scripts don't currently support easy ways of updating text through the Google sheet that already exists in JSON. This is done intentionally to allow easy overriding for the developer. To replace existing text, either update the JSON files directly or delete the edited JSON file and re-run the scripts.
+The scripts don't currently support easy ways of updating text through the Google sheet that already exists in JSON. This is done intentionally to allow easy overriding for the developer. To replace existing text, either update the JSON files directly or delete the edited JSON file and re-run the scripts!
