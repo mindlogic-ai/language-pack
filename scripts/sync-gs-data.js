@@ -47,7 +47,7 @@ const fetchGoogleSheetData = async () => {
 
       Object.keys(columnMappings).forEach((colIndex) => {
         const columnName = columnMappings[colIndex];
-        const cellValue = row[colIndex - 1] || ""; // Adjust for 0-based index
+        const cellValue = row[colIndex - 1] || undefined; // Adjust for 0-based index
 
         if (columnName === "pageName") {
           pageName = cellValue;

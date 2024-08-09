@@ -1,25 +1,4 @@
 {
-  "profile_music": {
-    "ko": "프로필 음악",
-    "en": "Profile Music",
-    "zh": "个人资料音乐",
-    "es": "Música de Perfil",
-    "ja": "プロフィール音楽"
-  },
-  "profile_artist_1": {
-    "ko": "{artist_genuine_name}",
-    "en": "{artist_genuine_name}",
-    "zh": "{artist_genuine_name}",
-    "es": "{artist_genuine_name}",
-    "ja": "{artist_genuine_name}"
-  },
-  "profile_cta_1": {
-    "ko": "DM 보내기",
-    "en": "Send DM",
-    "zh": "发送私信",
-    "es": "Enviar DM",
-    "ja": "DMを送る"
-  },
   "profile_artist_2": {
     "ko": "{artist_name}",
     "en": "{artist_name}",
@@ -27,18 +6,39 @@
     "es": "{artist_name}",
     "ja": "{artist_name}"
   },
-  "profile_agency": {
-    "ko": "기관",
-    "en": "agency",
-    "zh": "机构",
-    "es": "agencia",
-    "ja": "代理店"
-  },
   "profile_1_status": {
     "ko": "{status_message}",
     "en": "{status_message}",
     "zh": "{status_message}",
     "es": "{status_message}",
     "ja": "{status_message}"
+  },
+  "profile_agency": {
+    "ko": "{agency}",
+    "en": "{agency}",
+    "zh": "{agency}",
+    "es": "{agency}",
+    "ja": "{agency}"
+  },
+  "profile_music": {
+    "ko": "프로필 뮤직",
+    "en": "Profile Music",
+    "zh": "个人资料音乐",
+    "es": "Música de Perfil",
+    "ja": "プロフィール音楽"
+  },
+  "profile_cta_1": {
+    "ko": "DM 시작",
+    "en": "Send DM",
+    "zh": "开始 DM",
+    "es": "Enviar DM",
+    "ja": "DMを開始"
+  },
+  "profile_artist_1": {
+    "ko": "{artistGenuineName}",
+    "en": "{artist_genuine_name}",
+    "zh": "{artistGenuineName}",
+    "es": "{artist_genuine_name}",
+    "ja": "{artistGenuineName}"
   }
 }

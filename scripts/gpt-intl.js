@@ -36,17 +36,6 @@ const preferredSourceLanguage = options.sourceLanguage;
 const hasSameElements = (arr1, arr2) =>
   arr1.sort().join(",") === arr2.sort().join(",");
 
-const getReferenceText = (strOrObj) => {
-  if (isObject(strOrObj)) {
-    return strOrObj[preferredSourceLanguage]
-      ? strOrObj[preferredSourceLanguage]
-      : // if no preferred source language, default to first key
-        strOrObj[Object.keys(strOrObj)[0]];
-  } else {
-    return strOrObj;
-  }
-};
-
 const processFile = (sourceFilePath) => {
   let NEW_OBJ = {};
 
@@ -66,10 +55,13 @@ const processFile = (sourceFilePath) => {
     } else {
       // send API request
       try {
-        const reference_text = getReferenceText(localeValues);
-        console.log("translating reference text", key, reference_text);
+        console.log(
+          "translating reference text",
+          key,
+          JSON.stringify(localeValues)
+        );
         const res = await axios.post(API_URL, {
-          reference_text,
+          reference_text: JSON.stringify(localeValues),
         });
         console.log("completed translation for:", key);
         NEW_OBJ[key] = res.data.translations;

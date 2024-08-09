@@ -1,87 +1,17 @@
 {
-  "music_toast_2": {
-    "ko": "{folderWithartist_name} 폴더가 Apple Music에 추가되었습니다.",
-    "en": "{folderWithartist_name} folder has been added in Apple Music.",
-    "zh": "{folderWithartist_name} 文件夹已添加到 Apple Music。",
-    "es": "La carpeta {folderWithartist_name} se ha añadido a Apple Music.",
-    "ja": "{folderWithartist_name} フォルダが Apple Music に追加されました。"
-  },
-  "music_title_2": {
-    "ko": "{num_of_Playlists}",
-    "en": "{num_of_Playlists}",
-    "zh": "{num_of_Playlists}",
-    "es": "{num_of_Playlists}",
-    "ja": "{num_of_Playlists}"
+  "music_playlist_2": {
+    "ko": "{singer_name}",
+    "en": "{singer_name}",
+    "zh": "{singer_name}",
+    "es": "{singer_name}",
+    "ja": "{singer_name}"
   },
   "music_onboarding_cta_1_2": {
-    "ko": "Spotify에 연결",
+    "ko": "Apple Music 연동",
     "en": "Connect to Spotify",
-    "zh": "连接到Spotify",
+    "zh": "Apple Music 连接",
     "es": "Conectar a Spotify",
-    "ja": "Spotifyに接続"
-  },
-  "music_cta_1": {
-    "ko": "+ Apple Music 연결",
-    "en": "+ Connect Apple Music",
-    "zh": "+ 连接 Apple Music",
-    "es": "+ Conectar Apple Music",
-    "ja": "+ Apple Music を接続"
-  },
-  "music_playlist_2": {
-    "ko": "{가수_이름}",
-    "en": "{singer_name}",
-    "zh": "{歌手_名字}",
-    "es": "{nombre_del_cantante}",
-    "ja": "{歌手_名前}"
-  },
-  "music_onboarding_cta_1_1": {
-    "ko": "전체 노래 듣기",
-    "en": "Listen to full song",
-    "zh": "听完整的歌曲",
-    "es": "Escuchar la canción completa",
-    "ja": "フルソングを聴く"
-  },
-  "music_popup_1_2": {
-    "ko": "삭제",
-    "en": "Delete",
-    "zh": "删除",
-    "es": "Eliminar",
-    "ja": "削除"
-  },
-  "music_onboarding_text_2": {
-    "ko": "최근에 이 노래에 푹 빠졌어요",
-    "en": "I've been hooked on this song recently",
-    "zh": "我最近迷上了这首歌",
-    "es": "Me he enganchado a esta canción recientemente",
-    "ja": "最近この曲にハマっています"
-  },
-  "music_title_1": {
-    "ko": "플레이리스트 {artist_name}",
-    "en": "Playlist with {artist_name}",
-    "zh": "播放列表与 {artist_name}",
-    "es": "Lista de reproducción con {artist_name}",
-    "ja": "{artist_name} のプレイリスト"
-  },
-  "music_popup_1_3": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
-  },
-  "music_onboarding_cta_2": {
-    "ko": "노래 미리 듣기",
-    "en": "Listen to song preview",
-    "zh": "试听歌曲",
-    "es": "Escuchar vista previa de la canción",
-    "ja": "曲のプレビューを聴く"
-  },
-  "music_text_1": {
-    "ko": "노래 미리 듣기",
-    "en": "Preview song",
-    "zh": "预览歌曲",
-    "es": "Vista previa de la canción",
-    "ja": "曲をプレビュー"
+    "ja": "Apple Music 連携"
   },
   "music_playlist_1": {
     "ko": "{song_name}",
@@ -90,46 +20,116 @@
     "es": "{song_name}",
     "ja": "{song_name}"
   },
-  "music_toast_1": {
-    "ko": "아티스트에게 노래를 요청하세요!",
-    "en": "Request a song from the artist!",
-    "zh": "向艺术家点播歌曲！",
-    "es": "¡Solicita una canción al artista!",
-    "ja": "アーティストに曲をリクエストしてください！"
+  "music_title_2": {
+    "ko": "{num_of_Playlists}",
+    "en": "{num_of_Playlists}",
+    "zh": "{num_of_Playlists}",
+    "es": "{num_of_Playlists}",
+    "ja": "{num_of_Playlists}"
+  },
+  "music_onboarding_cta_2": {
+    "ko": "미리듣기 음원 사용",
+    "en": "Listen to song preview",
+    "zh": "使用试听音源",
+    "es": "Escuchar la vista previa de la canción",
+    "ja": "試聴音源を使用"
+  },
+  "music_cta_1": {
+    "ko": "+ Apple Music 연동",
+    "en": "+ Connect Apple Music",
+    "zh": "+ Apple Music 连接",
+    "es": "+ Conectar Apple Music",
+    "ja": "+ Apple Music 連携"
+  },
+  "music_onboarding_cta_1_1": {
+    "ko": "전체 음원 사용",
+    "en": "Listen to full song",
+    "zh": "使用完整音源",
+    "es": "Escuchar la canción completa",
+    "ja": "全体音源を使用"
+  },
+  "music_text_1": {
+    "ko": "미리듣기 음원 사용 중",
+    "en": "Preview song",
+    "zh": "正在使用试听音源",
+    "es": "Canción de vista previa",
+    "ja": "プレビュー曲を使用中"
   },
   "music_onboarding_title_1": {
-    "ko": "함께 들었던 음악🎵",
+    "ko": "같이 들은 음악🎵",
     "en": "Music we listened to together🎵",
     "zh": "我们一起听的音乐🎵",
     "es": "Música que escuchamos juntos🎵",
     "ja": "一緒に聴いた音楽🎵"
   },
-  "music_onboarding_text_3": {
-    "ko": "나와 함께 들을래?",
-    "en": "Do you want to listen with me?",
-    "zh": "你想和我一起听吗？",
-    "es": "¿Quieres escuchar conmigo?",
-    "ja": "一緒に聞きたいですか？"
+  "music_toast_1": {
+    "ko": "제목과 함께 음악을 요청해 보세요.",
+    "en": "Request a song from the artist!",
+    "zh": "请向艺术家请求一首歌！",
+    "es": "¡Solicita una canción del artista!",
+    "ja": "アーティストに曲をリクエストしてください！"
   },
-  "music_onboarding_text_4": {
-    "ko": "좋아하는 음악에 대해 아티스트와 이야기하세요. \n 아티스트에게 노래를 연주해 달라고 요청할 수 있습니다.",
-    "en": "Talk about your favorite music with your artist. \n You can ask the artist to play a song",
-    "zh": "与您的艺术家谈论您最喜欢的音乐。 \n 您可以要求艺术家演奏一首歌",
-    "es": "Habla sobre tu música favorita con tu artista. \n Puedes pedirle al artista que toque una canción",
-    "ja": "お気に入りの音楽についてアーティストと話しましょう。 \n アーティストに曲を演奏してもらうように頼むことができます"
+  "music_onboarding_text_3": {
+    "ko": "같이 들을까?",
+    "en": "Do you want to listen with me?",
+    "zh": "一起听吗？",
+    "es": "¿Quieres escuchar conmigo?",
+    "ja": "一緒に聞きますか？"
   },
   "music_onboarding_text_1": {
-    "ko": "무슨 음악을 듣고 있었어요?",
+    "ko": "요즘 무슨 노래 제일 많이 들어?",
     "en": "What have you been listening to?",
-    "zh": "你最近在听什么？",
+    "zh": "最近你听什么歌最多？",
     "es": "¿Qué has estado escuchando?",
-    "ja": "何を聴いていましたか？"
+    "ja": "最近どんな曲を一番聴いているの？"
+  },
+  "music_title_1": {
+    "ko": "{artist_name}과 함께 들은 노래",
+    "en": "Playlist with {artist_name}",
+    "zh": "{artist_name}一起听的歌",
+    "es": "Lista de reproducción con {artist_name}",
+    "ja": "{artist_name}と一緒に聴いた曲"
+  },
+  "music_popup_1_2": {
+    "ko": "삭제",
+    "en": "Delete",
+    "zh": "删除",
+    "es": "Eliminar",
+    "ja": "削除"
+  },
+  "music_popup_1_3": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "music_onboarding_text_4": {
+    "ko": "아티스트와 음악으로 소통해 보세요. \\n음악을 틀어달라고 하거나 같이 들을 수 있어요.",
+    "en": "Talk about your favorite music with your artist. \\n You can ask the artist to play a song",
+    "zh": "与艺术家通过音乐交流。\\n你可以要求艺术家播放一首歌或一起听。",
+    "es": "Habla sobre tu música favorita con tu artista. \\n Puedes pedirle al artista que toque una canción",
+    "ja": "アーティストと音楽でコミュニケーションをとりましょう。\\n音楽をかけてもらったり、一緒に聴いたりすることができます。"
   },
   "music_popup_1_1": {
-    "ko": "재생 목록에서 {song_name}을(를) 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",
-    "en": "Are you sure you want to delete {song_name} from your playlist? This action cannot be undone.",
-    "zh": "您确定要从播放列表中删除 {song_name} 吗？此操作无法撤销。",
-    "es": "¿Estás seguro de que quieres eliminar {song_name} de tu lista de reproducción? Esta acción no se puede deshacer.",
-    "ja": "プレイリストから {song_name} を削除してもよろしいですか？この操作は元に戻せません。"
+    "ko": "{song_name}을 목록에서 삭제할까요? 삭제하면 실행취소할 수 없습니다.",
+    "en": "Are you sure you want to delete\n{song_name} from your playlist?\nThis action cannot be undone.",
+    "zh": "您确定要从播放列表中删除{song_name}吗？删除后无法撤销。",
+    "es": "¿Estás seguro de que quieres eliminar\n{song_name} de tu lista de reproducción?\nEsta acción no se puede deshacer.",
+    "ja": "{song_name}をプレイリストから削除しますか？削除すると元に戻せません。"
+  },
+  "music_toast_2": {
+    "ko": "Apple Music {folderWithartist_name}에\n폴더를 추가했어요.",
+    "en": "{folderWithartist_name} folder has been added in Apple Music.",
+    "zh": "已在 Apple Music 中添加 {folderWithartist_name} 文件夹。",
+    "es": "La carpeta {folderWithartist_name} se ha añadido en Apple Music.",
+    "ja": "Apple Music に {folderWithartist_name} フォルダーを追加しました。"
+  },
+  "music_onboarding_text_2": {
+    "ko": "요즘은 이 노래가 내 플리 1번이야!",
+    "en": "I've been hooked on this song recently",
+    "zh": "最近这首歌是我播放列表的第一首！",
+    "es": "¡Últimamente estoy enganchado a esta canción!",
+    "ja": "最近この曲にハマっているんだ！"
   }
 }

@@ -13,32 +13,11 @@
     "es": "%@",
     "ja": "%@"
   },
-  "collect_book_cta_text": {
-    "ko": "구독",
-    "en": "Subscribe",
-    "zh": "订阅",
-    "es": "Suscribirse",
-    "ja": "購読"
-  },
-  "collect_book_title": {
-    "ko": "콜렉트북",
-    "en": "Collectbook",
-    "zh": "收藏册",
-    "es": "Libro de colección",
-    "ja": "コレクトブック"
-  },
-  "collect_book_text_1": {
-    "ko": "지금 구독하고 \n{artistName}의 포토카드를 모으세요.",
-    "en": "Subscribe now and \ncollect {artistName}'s photocards.",
-    "zh": "立即订阅并\n收集{artistName}的照片卡。",
-    "es": "Suscríbete ahora y \ncolecciona las fototarjetas de {artistName}.",
-    "ja": "今すぐ購読して、\n{artistName}のフォトカードを集めよう。"
-  },
   "home_day_count_text": {
-    "ko": "{artist_name}와 친구가 된 지 {day_count}일",
+    "ko": "{artist_name}와 특별한 친구가 된지 {day_count}일째",
     "en": "{day_count} days since I became friends with {artist_name}",
-    "zh": "自从我和{artist_name}成为朋友已经{day_count}天了",
+    "zh": "{artist_name}和我成为特别朋友已经{day_count}天了",
     "es": "{day_count} días desde que me hice amigo de {artist_name}",
-    "ja": "{artist_name}と友達になってから{day_count}日"
+    "ja": "{artist_name}と特別な友達になってから{day_count}日目"
   }
 }
