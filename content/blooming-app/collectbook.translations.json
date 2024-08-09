@@ -1,0 +1,72 @@
+{
+  "collect_book_popup_1_3": {
+    "ko": "변경",
+    "en": "Change",
+    "zh": "更改",
+    "es": "Cambiar",
+    "ja": "変更"
+  },
+  "collect_book_popup_1_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "collect_book_title_1": {
+    "ko": "회원",
+    "en": "Membership",
+    "zh": "会员",
+    "es": "Membresía",
+    "ja": "メンバーシップ"
+  },
+  "collect_book_title_3": {
+    "ko": "콜렉트북",
+    "en": "Collectbook",
+    "zh": "收藏册",
+    "es": "Libro de colección",
+    "ja": "コレクトブック"
+  },
+  "collect_book_popup_1_1": {
+    "ko": "대표 포토카드를 변경하시겠습니까? 이 카드는 홈 화면의 이미지가 됩니다.",
+    "en": "Do you want to change a representative photocard? This card becomes the image on the home screen.",
+    "zh": "您想更换代表照片卡吗？这张卡将成为主屏幕上的图像。",
+    "es": "¿Quieres cambiar una fototarjeta representativa? Esta tarjeta se convertirá en la imagen de la pantalla de inicio.",
+    "ja": "代表フォトカードを変更しますか？このカードはホーム画面の画像になります。"
+  },
+  "collect_book_cta_text": {
+    "ko": "구독",
+    "en": "Subscribe",
+    "zh": "订阅",
+    "es": "Suscribirse",
+    "ja": "購読"
+  },
+  "collect_book_title_2": {
+    "ko": "심장",
+    "en": "Heart",
+    "zh": "心脏",
+    "es": "Corazón",
+    "ja": "心臓"
+  },
+  "collect_book_title": {
+    "ko": "{artist_name}",
+    "en": "{artist_name}",
+    "zh": "{artist_name}",
+    "es": "{artist_name}",
+    "ja": "{artist_name}"
+  },
+  "collect_book_toast_1": {
+    "ko": "대표 포토카드로 변경되었습니다.",
+    "en": "It has been changed to a representative photocard.",
+    "zh": "已更改为代表照片卡。",
+    "es": "Se ha cambiado a una fototarjeta representativa.",
+    "ja": "代表フォトカードに変更されました。"
+  },
+  "collect_book_text_1": {
+    "ko": "지금 구독하고 \n{artist_name}의 포토카드를 모으세요.",
+    "en": "Subscribe now and \ncollect {artist_name}'s photocards.",
+    "zh": "立即订阅并\n收集{artist_name}的照片卡。",
+    "es": "Suscríbete ahora y \ncolecciona las fototarjetas de {artist_name}.",
+    "ja": "今すぐ購読して、\n{artist_name}のフォトカードを集めよう。"
+  }
+}

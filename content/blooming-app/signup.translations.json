@@ -145,5 +145,12 @@
     "zh": "请输入您希望 {artistName} 称呼您的昵称。",
     "es": "Por favor, ingrese el apodo con el que le gustaría que {artistName} lo llame.",
     "ja": "{artistName} に呼んでほしいニックネームを入力してください。"
+  },
+  "signup_2_error_text_2": {
+    "ko": "인증 코드가 만료되었습니다. \n{signup_2_link_text_1}을(를) 해주세요.",
+    "en": "The verification code has expired. \nPlease {signup_2_link_text_1}.",
+    "zh": "验证码已过期。\n请{signup_2_link_text_1}。",
+    "es": "El código de verificación ha expirado. \nPor favor, {signup_2_link_text_1}.",
+    "ja": "認証コードの有効期限が切れました。\n{signup_2_link_text_1}してください。"
   }
 }

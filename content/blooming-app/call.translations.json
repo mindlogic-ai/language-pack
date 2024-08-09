@@ -1,0 +1,65 @@
+{
+  "call_4_title_1": {
+    "ko": "통화 {artist_name}",
+    "en": "Calls with {artist_name}",
+    "zh": "与 {artist_name} 通话",
+    "es": "Llamadas con {artist_name}",
+    "ja": "{artist_name} との通話"
+  },
+  "call_popup_1_3": {
+    "ko": "삭제",
+    "en": "Delete",
+    "zh": "删除",
+    "es": "Eliminar",
+    "ja": "削除"
+  },
+  "call_popup_1_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "call_4_cta_1": {
+    "ko": "더 보기 >",
+    "en": "More >",
+    "zh": "更多 >",
+    "es": "Más >",
+    "ja": "もっと見る >"
+  },
+  "call_1_toast_1": {
+    "ko": "통화 1분당 10개의 메시지가 사용됩니다.",
+    "en": "10 messages will be used per minute of call.",
+    "zh": "每分钟通话将使用10条消息。",
+    "es": "Se utilizarán 10 mensajes por minuto de llamada.",
+    "ja": "通話1分あたり10メッセージが使用されます。"
+  },
+  "call_1_label_1": {
+    "ko": "통화 중...",
+    "en": "Calling...",
+    "zh": "正在呼叫...",
+    "es": "Llamando...",
+    "ja": "呼び出し中..."
+  },
+  "call_popup_1_1": {
+    "ko": "통화가 제대로 저장되지 않았습니다. \n 통화를 삭제하시겠습니까?",
+    "en": "The call was not saved properly. \n Do you want to delete the call?",
+    "zh": "通话未正确保存。 \n 您要删除通话吗？",
+    "es": "La llamada no se guardó correctamente. \n ¿Desea eliminar la llamada?",
+    "ja": "通話が正しく保存されませんでした。 \n 通話を削除しますか？"
+  },
+  "call_3_toast_1": {
+    "ko": "통화 기록을 저장하는 동안 앱을 닫지 마십시오.",
+    "en": "Do not close the app while saving your call history.",
+    "zh": "保存通话记录时请勿关闭应用程序。",
+    "es": "No cierre la aplicación mientras guarda su historial de llamadas.",
+    "ja": "通話履歴を保存している間はアプリを閉じないでください。"
+  },
+  "call_2_toast_1": {
+    "ko": "다시 들을 준비를 하는 동안 앱을 끄지 마세요.",
+    "en": "Do not turn off the app while getting ready to listen again.",
+    "zh": "在准备再次收听时不要关闭应用程序。",
+    "es": "No apagues la aplicación mientras te preparas para escuchar de nuevo.",
+    "ja": "再度聞く準備をしている間はアプリをオフにしないでください。"
+  }
+}

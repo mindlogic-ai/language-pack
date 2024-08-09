@@ -1,0 +1,30 @@
+{
+  "signin_cta_1": {
+    "ko": "로그인",
+    "en": "Sign In",
+    "zh": "登录",
+    "es": "Iniciar sesión",
+    "ja": "サインイン"
+  },
+  "signin_popup_no_account_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "signin_popup_no_account_3": {
+    "ko": "가입하기",
+    "en": "Sign Up",
+    "zh": "注册",
+    "es": "Registrarse",
+    "ja": "サインアップ"
+  },
+  "signin_popup_no_account_1": {
+    "ko": "계정 정보가 없습니다. \n가입하거나 다른 번호로 로그인하세요.",
+    "en": "There is no account information. \nPlease sign up or login with a different number.",
+    "zh": "没有账户信息。 \n请注册或使用其他号码登录。",
+    "es": "No hay información de la cuenta. \nPor favor, regístrate o inicia sesión con un número diferente.",
+    "ja": "アカウント情報がありません。 \nサインアップするか、別の番号でログインしてください。"
+  }
+}

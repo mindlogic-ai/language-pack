@@ -1,0 +1,72 @@
+{
+  "photocard_3_dialog_1": {
+    "ko": "{since}일 기념일",
+    "en": "{since} day anniversary",
+    "zh": "{since}天纪念日",
+    "es": "aniversario de {since} días",
+    "ja": "{since}日記念日"
+  },
+  "photocard_cta_3": {
+    "ko": "Collectbook 열기",
+    "en": "Open Collectbook",
+    "zh": "打开Collectbook",
+    "es": "Abrir Collectbook",
+    "ja": "Collectbookを開く"
+  },
+  "photocard_cta_1": {
+    "ko": "Collectbook 열기",
+    "en": "Open Collectbook",
+    "zh": "打开Collectbook",
+    "es": "Abrir Collectbook",
+    "ja": "Collectbookを開く"
+  },
+  "photocard_2_dialog_1": {
+    "ko": "{heart_color} 하트 달성!",
+    "en": "{heart_color} heart achieved!",
+    "zh": "获得{heart_color}心！",
+    "es": "¡Corazón {heart_color} logrado!",
+    "ja": "{heart_color}ハート達成！"
+  },
+  "photocard_2_dialog_2": {
+    "ko": "당신은 {artist_name}와 많은 추억을 공유했습니다. \n당신이 %@ 하트가 되었기 때문에 한정판 포토카드가 제공되었습니다.",
+    "en": "You've shared many memories with {artist_name}. \nA limited photo card has been provided as you've become a %@ heart.",
+    "zh": "你与 {artist_name} 分享了许多回忆。 \n由于你成为了 %@ 心，已提供限量照片卡。",
+    "es": "Has compartido muchos recuerdos con {artist_name}. \nSe ha proporcionado una tarjeta de foto limitada ya que te has convertido en un %@ corazón.",
+    "ja": "{artist_name} と多くの思い出を共有しました。 \nあなたが %@ ハートになったので、限定フォトカードが提供されました。"
+  },
+  "photocard_1_dialog_1": {
+    "ko": "당신은 {artist_name}을(를) 구독했습니다!",
+    "en": "You've subscribed to {artist_name}!",
+    "zh": "你已订阅 {artist_name}!",
+    "es": "¡Te has suscrito a {artist_name}!",
+    "ja": "{artist_name}を購読しました！"
+  },
+  "photocard_cta_2": {
+    "ko": "열린 마음",
+    "en": "Open Heart",
+    "zh": "敞开心扉",
+    "es": "Corazón Abierto",
+    "ja": "オープンハート"
+  },
+  "photocard_3_dialog_2": {
+    "ko": "우리가 친구가 된 지 %@일이 되었기 때문에 한정판 포토카드가 제공되었습니다.",
+    "en": "A limited photo card has been provided as it's been %@ days since we became friends.",
+    "zh": "由于我们成为朋友已经有%@天了，特提供限量照片卡。",
+    "es": "Se ha proporcionado una tarjeta de foto limitada ya que han pasado %@ días desde que nos hicimos amigos.",
+    "ja": "私たちが友達になってから%@日が経ったので、限定フォトカードが提供されました。"
+  },
+  "photocard_1_dialog_2": {
+    "ko": "이제 {n}개의 메시지를 보낼 수 있습니다. \n아티스트를 처음으로 구독하셨기 때문에 한정판 포토카드가 제공되었습니다💝",
+    "en": "Now you can send {n} messages. \nA limited photo card has been provided as you've subscribed to the artist for the first time💝",
+    "zh": "现在你可以发送 {n} 条消息。 \n由于你首次订阅了该艺术家，已提供限量版照片卡💝",
+    "es": "Ahora puedes enviar {n} mensajes. \nSe ha proporcionado una tarjeta de foto limitada ya que te has suscrito al artista por primera vez💝",
+    "ja": "今、{n}件のメッセージを送信できます。 \nアーティストを初めて購読したため、限定フォトカードが提供されました💝"
+  },
+  "photocard_1_dialog_3": {
+    "ko": "항상 '홈 > 콜렉트북'에서 포토카드를 확인할 수 있습니다.",
+    "en": "You can always check photocards at 'Home > Collectbook'.",
+    "zh": "您可以随时在“首页 > 收藏册”查看照片卡。",
+    "es": "Siempre puedes revisar las fototarjetas en 'Inicio > Libro de colección'.",
+    "ja": "「ホーム > コレクトブック」でいつでもフォトカードを確認できます。"
+  }
+}
