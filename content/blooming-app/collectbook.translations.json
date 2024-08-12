@@ -68,5 +68,12 @@
     "zh": "立即订阅并收集{artist_name}的照片卡。",
     "es": "Suscríbete ahora y \ncolecciona las fototarjetas de {artist_name}.",
     "ja": "今すぐ購読して、{artist_name}のフォトカードを集めましょう。"
+  },
+  "collect_book_label_1": {
+    "ko": "{number_string} 포토카드",
+    "en": "{number_string} Photocards",
+    "zh": "{number_string} 张照片卡",
+    "es": "{number_string} Tarjetas de fotos",
+    "ja": "{number_string} 枚のフォトカード"
   }
 }
