@@ -1,17 +1,10 @@
 {
-  "signup_2_button_confirm_text": {
-    "ko": "인증 완료",
-    "en": "Verified",
-    "zh": "인증 완료",
-    "es": "Verified",
-    "ja": "인증 완료"
-  },
-  "signup_2_text_1": {
-    "ko": "인증번호가 전송되었습니다. {phoneNumber}",
-    "en": "We have sent a verification code to {phoneNumber}.",
-    "zh": "验证码已发送到 {phoneNumber}。",
-    "es": "Hemos enviado un código de verificación a {phoneNumber}.",
-    "ja": "{phoneNumber} に認証コードを送信しました。"
+  "signup_2_title": {
+    "ko": "인증번호 입력",
+    "en": "Enter Code",
+    "zh": "认证号码输入",
+    "es": "Introducir código",
+    "ja": "認証番号入力"
   },
   "signup_1_title": {
     "ko": "휴대폰으로 시작",
@@ -20,26 +13,12 @@
     "es": "Continuar con el teléfono",
     "ja": "携帯電話で続行"
   },
-  "signup_3_gender_label": {
-    "ko": "성별",
-    "en": "Gender",
-    "zh": "性别",
-    "es": "Género",
-    "ja": "性別"
-  },
-  "signup_3_dob_label": {
-    "ko": "생년월일",
-    "en": "Date of Birth",
-    "zh": "出生日期",
-    "es": "Fecha de Nacimiento",
-    "ja": "生年月日"
-  },
-  "signup_3_dob_placeholder": {
-    "ko": "선택안함",
-    "en": "None",
-    "zh": "未选择",
-    "es": "Ninguno",
-    "ja": "選択しない"
+  "signup_2_text_2": {
+    "ko": "{terms_of_use} 및 {privacy_policy}에 동의합니다.(필수)",
+    "en": "{terms_of_use} and {privacy_policy} (Required)",
+    "zh": "{terms_of_use} 和 {privacy_policy}（必需）",
+    "es": "{terms_of_use} y {privacy_policy} (Requerido)",
+    "ja": "{terms_of_use} および {privacy_policy}（必須）"
   },
   "signup_2_link_text_1": {
     "ko": "새로운 인증번호를 요청",
@@ -48,41 +27,6 @@
     "es": "solicitar uno nuevo",
     "ja": "新しい認証コードをリクエスト"
   },
-  "signup_3_cta_text": {
-    "ko": "DM 시작",
-    "en": "Start DM",
-    "zh": "开始DM",
-    "es": "Iniciar DM",
-    "ja": "DM開始"
-  },
-  "signup_2_title": {
-    "ko": "인증번호 입력",
-    "en": "Enter Code",
-    "zh": "输入验证码",
-    "es": "Introducir código",
-    "ja": "認証コードを入力"
-  },
-  "signup_3_country_placeholder": {
-    "ko": "선택안함",
-    "en": "None",
-    "zh": "未选择",
-    "es": "Ninguno",
-    "ja": "選択しない"
-  },
-  "signup_3_error_text_1": {
-    "ko": "닉네임에 부적절한 단어가 포함되어 있어요.",
-    "en": "This nickname includes a banned word.",
-    "zh": "昵称中包含不适当的词语。",
-    "es": "Este apodo incluye una palabra prohibida.",
-    "ja": "ニックネームに不適切な言葉が含まれています。"
-  },
-  "signup_3_text_2": {
-    "ko": "아래 정보가 있으면 \n\n아티스트와 더 친해질 수 있어요(선택).",
-    "en": "You can get closer to your artist with additional information below(optional).",
-    "zh": "如果有以下信息，您可以与艺术家更亲近（可选）。",
-    "es": "Puedes acercarte más a tu artista con la información adicional a continuación (opcional).",
-    "ja": "以下の情報があれば、アーティストともっと親しくなれます（任意）。"
-  },
   "signup_3_text_1": {
     "ko": "아티스트가 불러줬으면 하는 이름을 입력해 주세요.",
     "en": "Please enter the nickname you would like artist to call you.",
@@ -90,26 +34,12 @@
     "es": "Por favor, ingrese el apodo que le gustaría que el artista le llame.",
     "ja": "アーティストに呼んでほしいニックネームを入力してください。"
   },
-  "signup_3_nationality_label": {
-    "ko": "국적",
-    "en": "Nationality",
-    "zh": "国籍",
-    "es": "Nacionalidad",
-    "ja": "国籍"
-  },
-  "signup_1_cta_text": {
-    "ko": "인증번호 전송",
-    "en": "Send Verification Code",
-    "zh": "发送验证码",
-    "es": "Enviar código de verificación",
-    "ja": "認証コードを送信"
-  },
-  "signup_3_gender_placeholder": {
+  "signup_3_dob_placeholder": {
     "ko": "선택안함",
     "en": "None",
-    "zh": "未选择",
-    "es": "Ninguno",
-    "ja": "選択しない"
+    "zh": "선택안함",
+    "es": "None",
+    "ja": "선택안함"
   },
   "signup_2_cta_text": {
     "ko": "회원가입",
@@ -118,26 +48,12 @@
     "es": "Registrarse",
     "ja": "サインアップ"
   },
-  "signup_3_nickname_placeholder": {
-    "ko": "국문/영문 3자 이상",
-    "en": "Min. 3 characters",
-    "zh": "至少3个字符",
-    "es": "Mín. 3 caracteres",
-    "ja": "3文字以上"
-  },
-  "signup_2_text_2": {
-    "ko": "{terms_of_use} 및 {privacy_policy}에 동의합니다.(필수)",
-    "en": "{terms_of_use} and {privacy_policy} (Required)",
-    "zh": "{terms_of_use} 和 {privacy_policy}（必需）",
-    "es": "{terms_of_use} y {privacy_policy} (Requerido)",
-    "ja": "{terms_of_use} および {privacy_policy}（必須）"
-  },
-  "signup_1_text_1": {
-    "ko": "휴대폰 번호로만 가입할 수 있어요.",
-    "en": "Sign up with your phone number.",
-    "zh": "只能用手机号码注册。",
-    "es": "Regístrate con tu número de teléfono.",
-    "ja": "携帯電話番号で登録できます。"
+  "signup_3_nationality_label": {
+    "ko": "국적",
+    "en": "Nationality",
+    "zh": "国籍",
+    "es": "Nacionalidad",
+    "ja": "国籍"
   },
   "signup_3_title": {
     "ko": "개인정보 입력",
@@ -153,11 +69,95 @@
     "es": "Código incorrecto. \nPor favor, inténtelo de nuevo o {signup_2_link_text_1}.",
     "ja": "認証コードが間違っています。\n認証コードを再確認するか、{signup_2_link_text_1}してください。"
   },
+  "signup_1_cta_text": {
+    "ko": "인증번호 전송",
+    "en": "Send Verification Code",
+    "zh": "发送验证码",
+    "es": "Enviar código de verificación",
+    "ja": "認証コードを送信"
+  },
+  "signup_1_text_1": {
+    "ko": "휴대폰 번호로만 가입할 수 있어요.",
+    "en": "Sign up with your phone number.",
+    "zh": "只能用手机号码注册。",
+    "es": "Regístrate con tu número de teléfono.",
+    "ja": "携帯電話番号で登録できます。"
+  },
+  "signup_2_text_1": {
+    "ko": "인증번호가 전송되었습니다. {phoneNumber}",
+    "en": "We have sent a verification code to {phoneNumber}.",
+    "zh": "验证码已发送到 {phoneNumber}",
+    "es": "Hemos enviado un código de verificación a {phoneNumber}.",
+    "ja": "{phoneNumber} に認証コードを送信しました。"
+  },
   "signup_2_error_text_2": {
     "ko": "인증번호의 유효시간이 만료됐습니다. \n {signup_2_link_text_1}하세요.",
     "en": "The verification code has expired. \nPlease {signup_2_link_text_1}.",
     "zh": "验证码已过期。\n请{signup_2_link_text_1}。",
     "es": "El código de verificación ha expirado. \nPor favor {signup_2_link_text_1}.",
     "ja": "認証コードの有効期限が切れました。\n{signup_2_link_text_1}してください。"
+  },
+  "signup_2_button_confirm_text": {
+    "ko": "인증 완료",
+    "en": "Verified",
+    "zh": "认证完成",
+    "es": "Verificado",
+    "ja": "認証完了"
+  },
+  "signup_3_cta_text": {
+    "ko": "DM 시작",
+    "en": "Start DM",
+    "zh": "开始 DM",
+    "es": "Iniciar DM",
+    "ja": "DMを開始"
+  },
+  "signup_3_gender_label": {
+    "ko": "성별",
+    "en": "Gender",
+    "zh": "性别",
+    "es": "Género",
+    "ja": "性別"
+  },
+  "signup_3_country_placeholder": {
+    "ko": "선택안함",
+    "en": "None",
+    "zh": "未选择",
+    "es": "Ninguno",
+    "ja": "選択しない"
+  },
+  "signup_3_dob_label": {
+    "ko": "생년월일",
+    "en": "Date of Birth",
+    "zh": "出生日期",
+    "es": "Fecha de Nacimiento",
+    "ja": "生年月日"
+  },
+  "signup_3_gender_placeholder": {
+    "ko": "선택안함",
+    "en": "None",
+    "zh": "未选择",
+    "es": "Ninguno",
+    "ja": "選択しない"
+  },
+  "signup_3_error_text_1": {
+    "ko": "닉네임에 부적절한 단어가 포함되어 있어요.",
+    "en": "This nickname includes a banned word.",
+    "zh": "昵称中包含不适当的词语。",
+    "es": "Este apodo incluye una palabra prohibida.",
+    "ja": "ニックネームに不適切な言葉が含まれています。"
+  },
+  "signup_3_nickname_placeholder": {
+    "ko": "국문/영문 3자 이상",
+    "en": "Min. 3 characters",
+    "zh": "韩文/英文 3个字符以上",
+    "es": "Mín. 3 caracteres",
+    "ja": "韓国語/英語 3文字以上"
+  },
+  "signup_3_text_2": {
+    "ko": "아래 정보가 있으면 \n\n아티스트와 더 친해질 수 있어요(선택).",
+    "en": "You can get closer to your artist with additional information below(optional).",
+    "zh": "如果有以下信息，您可以与艺术家更亲近（可选）。",
+    "es": "Puedes acercarte más a tu artista con la información adicional a continuación (opcional).",
+    "ja": "以下の情報があれば、アーティストともっと親しくなれます（任意）。"
   }
 }

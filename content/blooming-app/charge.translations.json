@@ -1,31 +1,10 @@
 {
-  "charge_2_text_2": {
-    "ko": "{numToCharge} 건",
-    "en": "{numToCharge} ",
-    "zh": "{numToCharge} 件",
-    "es": "{numToCharge} ",
-    "ja": "{numToCharge} 件"
-  },
-  "charge_2_cta": {
-    "ko": "충전",
-    "en": "Charge",
-    "zh": "充电",
-    "es": "Cargar",
-    "ja": "充電"
-  },
-  "charge_2_text_4": {
-    "ko": "추천",
-    "en": "Recommended",
-    "zh": "推荐",
-    "es": "Recomendado",
-    "ja": "おすすめ"
-  },
-  "charge_1_cta": {
-    "ko": "충전",
-    "en": "Charge",
-    "zh": "充电",
-    "es": "Cargar",
-    "ja": "充電"
+  "charge_2_text_1": {
+    "ko": "메시지 + 통화 통합",
+    "en": "Messages(voice call included)",
+    "zh": "消息+通话整合",
+    "es": "Mensajes (incluye llamada de voz)",
+    "ja": "メッセージ+通話統合"
   },
   "charge_2_title": {
     "ko": "충전 완료!",
@@ -34,6 +13,20 @@
     "es": "¡Has cargado mensajes adicionales!",
     "ja": "充電完了！"
   },
+  "charge_2_text_4": {
+    "ko": "추천",
+    "en": "Recommended",
+    "zh": "推荐",
+    "es": "Recomendado",
+    "ja": "おすすめ"
+  },
+  "charge_2_cta": {
+    "ko": "충전",
+    "en": "Charge",
+    "zh": "充电",
+    "es": "Cargar",
+    "ja": "充電"
+  },
   "charge_2_text_3": {
     "ko": "30일",
     "en": "30days",
@@ -41,19 +34,26 @@
     "es": "30 días",
     "ja": "30日"
   },
-  "charge_2_text_1": {
-    "ko": "메시지 + 통화 통합",
-    "en": "Messages(voice call included)",
-    "zh": "消息+通话整合",
-    "es": "Mensajes (incluye llamada de voz)",
-    "ja": "メッセージ+通話統合"
+  "charge_2_text_2": {
+    "ko": "{numToCharge} 건",
+    "en": "{numToCharge} ",
+    "zh": "{numToCharge} 件",
+    "es": "{numToCharge} ",
+    "ja": "{numToCharge} 件"
+  },
+  "charge_1_cta": {
+    "ko": "충전",
+    "en": "Charge",
+    "zh": "充电",
+    "es": "Cargar",
+    "ja": "充電"
   },
   "charge_1_text": {
     "ko": "이번 달 메시지를 다 사용했어요. \n 메시지를 충전하고 대화를 이어가 보세요.",
     "en": "You used up all messages for this month. \n Charge extra messages and continue the conversation then.",
-    "zh": "本月的消息已用完。 \n 充值额外的消息，然后继续对话。",
-    "es": "Has usado todos los mensajes de este mes. \n Carga mensajes adicionales y continúa la conversación.",
-    "ja": "今月のメッセージをすべて使い切りました。 \n 追加のメッセージをチャージして、会話を続けてください。"
+    "zh": "你已经用完了本月的所有消息。\n 充值额外的消息，然后继续对话。",
+    "es": "Has usado todos los mensajes de este mes. \n Recarga mensajes adicionales y continúa la conversación.",
+    "ja": "今月のメッセージをすべて使い切りました。\n 追加のメッセージをチャージして、会話を続けてください。"
   },
   "charge_2_text": {
     "ko": "메시지 100건이 충전되었어요.\n{artist_name}와 즐거운 대화 나누세요 💝",

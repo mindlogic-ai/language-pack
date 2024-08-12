@@ -61,10 +61,18 @@ const fetchGoogleSheetData = async () => {
           data[pageName] = {};
         }
         data[pageName][rowData.translateKey] = {
-          ko: rowData.ko?.replaceAll("\\n", "\n"),
-          en: rowData.en?.replaceAll("\\n", "\n"),
-          zh: rowData.zh?.replaceAll("\\n", "\n"),
-          ja: rowData.ja?.replaceAll("\\n", "\n"),
+          ko: rowData.ko
+            ?.replaceAll("\\n", "\n")
+            .replaceAll(/[\u2028\u2029]/g, ""),
+          en: rowData.en
+            ?.replaceAll("\\n", "\n")
+            .replaceAll(/[\u2028\u2029]/g, ""),
+          zh: rowData.zh
+            ?.replaceAll("\\n", "\n")
+            .replaceAll(/[\u2028\u2029]/g, ""),
+          ja: rowData.ja
+            ?.replaceAll("\\n", "\n")
+            .replaceAll(/[\u2028\u2029]/g, ""),
         };
       }
     });
