@@ -61,10 +61,10 @@ const fetchGoogleSheetData = async () => {
           data[pageName] = {};
         }
         data[pageName][rowData.translateKey] = {
-          ko: rowData.ko,
-          en: rowData.en,
-          zh: rowData.zh,
-          ja: rowData.ja,
+          ko: rowData.ko?.replaceAll("\\n", "\n"),
+          en: rowData.en?.replaceAll("\\n", "\n"),
+          zh: rowData.zh?.replaceAll("\\n", "\n"),
+          ja: rowData.ja?.replaceAll("\\n", "\n"),
         };
       }
     });
