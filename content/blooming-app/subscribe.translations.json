@@ -166,5 +166,19 @@
     "zh": "您可以给AI艺术家打电话。\n当您想听到他的声音或无法使用键盘时，请拨打电话。",
     "es": "Llama al AI de tu artista \n cuando quieras escuchar algo en su voz o cuando no puedas usar el teclado.",
     "ja": "AIアーティストに電話できます。\n彼/彼女の声で何かを聞きたいときや、キーボードが使えないときに電話をかけてください。"
+  },
+  "subscribe_1_cta_1": {
+    "ko": "자세히 보기",
+    "en": "More",
+    "zh": "查看更多",
+    "es": "Más",
+    "ja": "もっと見る"
+  },
+  "subscribe_subtitle_3": {
+    "ko": "통화 포함",
+    "en": "Voice call included",
+    "zh": "包含语音通话",
+    "es": "Llamada de voz incluida",
+    "ja": "通話を含む"
   }
 }

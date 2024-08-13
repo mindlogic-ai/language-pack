@@ -278,5 +278,26 @@
     "zh": "时间限制过后可以查看DM。",
     "es": "Vuelve más tarde para ver el mensaje.",
     "ja": "制限時間が過ぎるとDMを確認できます。"
+  },
+  "dm_2_bubble_1": {
+    "ko": "To Everyone",
+    "en": "To Everyone",
+    "zh": "모두에게",
+    "es": "A todos",
+    "ja": "皆さんへ"
+  },
+  "dm_2_bubble_2": {
+    "ko": "To Me",
+    "en": "To Me",
+    "zh": "给我",
+    "es": "Para mí",
+    "ja": "私に"
+  },
+  "dm_2_bubble_3": {
+    "ko": "sending...",
+    "en": "sending...",
+    "zh": "보내는 중...",
+    "es": "enviando...",
+    "ja": "送信中..."
   }
 }

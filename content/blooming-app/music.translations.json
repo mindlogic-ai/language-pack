@@ -131,5 +131,12 @@
     "zh": "您确定要从播放列表中删除{song_name}吗？删除后无法撤销。",
     "es": "¿Estás seguro de que quieres eliminar\n{song_name} de tu lista de reproducción?\nEsta acción no se puede deshacer.",
     "ja": "{song_name}をプレイリストから削除しますか？削除すると元に戻せません。"
+  },
+  "music_cta_2": {
+    "ko": "Spotify 연동",
+    "en": "Connect Spotify",
+    "zh": "连接Spotify",
+    "es": "Conectar Spotify",
+    "ja": "Spotifyを接続"
   }
 }

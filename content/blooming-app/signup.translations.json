@@ -187,5 +187,26 @@
     "zh": "错误的认证号码。\n请重新确认认证号码或{signup_2_link_text_1}。",
     "es": "Código incorrecto. \nPor favor, inténtelo de nuevo o {signup_2_link_text_1}.",
     "ja": "間違った認証番号です。\n認証番号を再確認するか、{signup_2_link_text_1}してください。"
+  },
+  "signup_3_nickname_error_text_1": {
+    "ko": "부적절한 단어가 포함되어 있습니다.",
+    "en": "Inappropriate words are included.",
+    "zh": "包含不适当的词语。",
+    "es": "Se incluyen palabras inapropiadas.",
+    "ja": "不適切な言葉が含まれています。"
+  },
+  "signup_3_nickname_error_text_3": {
+    "ko": "서버에 에러가 발생했습니다. 다시 시도해주세요",
+    "en": "An error occurred on the server. Please try again.",
+    "zh": "服务器发生错误。请再试一次。",
+    "es": "Ocurrió un error en el servidor. Por favor, inténtelo de nuevo.",
+    "ja": "サーバーでエラーが発生しました。もう一度お試しください。"
+  },
+  "signup_3_nickname_error_text_2": {
+    "ko": "3자 이상의 한/영 문자로 작성해주세요.",
+    "en": "Please write in Korean/English characters with more than 3 characters.",
+    "zh": "请用超过3个字符的韩文/英文字符书写。",
+    "es": "Por favor, escriba en caracteres coreanos/ingleses con más de 3 caracteres.",
+    "ja": "3文字以上の韓国語/英語の文字で書いてください。"
   }
 }

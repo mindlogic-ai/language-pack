@@ -404,5 +404,12 @@
     "zh": "如果关闭音源服务连接，\n只能听预览长度的音源。\n\n仍然要关闭连接吗？",
     "es": "Si desconectas Apple Music, solo podrás escuchar la canción de vista previa. \n\n¿Aún quieres desconectarlo?",
     "ja": "音源サービスの連携を切ると、\n音源をプレビューの長さでしか聞けません。\n\nそれでも連携を切りますか？"
+  },
+  "setting_1_label_16": {
+    "ko": "스포티파이 연동",
+    "en": "Access Spotify",
+    "zh": "连接 Spotify",
+    "es": "Acceder a Spotify",
+    "ja": "Spotify にアクセス"
   }
 }
