@@ -1,5 +1,5 @@
 {
-  "common_api_error_4": {
+  "common_api_error_5": {
     "ko": "",
     "en": "",
     "zh": "",
@@ -13,14 +13,7 @@
     "es": "Error desconocido",
     "ja": "不明なエラー"
   },
-  "common_api_error_2": {
-    "ko": "네트워크 상태가 좋지 않습니다.",
-    "en": "The network connection is unstable.",
-    "zh": "网络连接不稳定。",
-    "es": "La conexión de red es inestable.",
-    "ja": "ネットワーク接続が不安定です。"
-  },
-  "common_api_error_5": {
+  "common_api_error_4": {
     "ko": "",
     "en": "",
     "zh": "",
@@ -33,5 +26,12 @@
     "zh": "消息发送失败。",
     "es": "No se pudo enviar el mensaje.",
     "ja": "メッセージの送信に失敗しました。"
+  },
+  "common_api_error_2": {
+    "ko": "네트워크 상태가 좋지 않습니다.",
+    "en": "The network connection is unstable.",
+    "zh": "网络连接不稳定。",
+    "es": "La conexión de red es inestable.",
+    "ja": "ネットワーク接続が不安定です。"
   }
 }

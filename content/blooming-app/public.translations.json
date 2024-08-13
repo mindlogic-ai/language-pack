@@ -1,10 +1,10 @@
 {
-  "heart": {
-    "ko": "하트",
-    "en": "heart",
-    "zh": "心",
-    "es": "corazón",
-    "ja": "ハート"
+  "heart_level_1": {
+    "ko": "블루 하트",
+    "en": "blue heart",
+    "zh": "蓝爱心",
+    "es": "corazón azul",
+    "ja": "ブルーハート"
   },
   "privacy_policy": {
     "ko": "개인정보 보호정책",
@@ -13,6 +13,13 @@
     "es": "Política de Privacidad",
     "ja": "プライバシーポリシー"
   },
+  "heart_level_0": {
+    "ko": "화이트 하트",
+    "en": "white heart",
+    "zh": "白爱心",
+    "es": "corazón blanco",
+    "ja": "白いハート"
+  },
   "terms_of_use": {
     "ko": "이용 약관",
     "en": "Terms of Use",
@@ -20,25 +27,11 @@
     "es": "Términos de Uso",
     "ja": "利用規約"
   },
-  "heart_level_1": {
-    "ko": "블루",
-    "en": "blue",
-    "zh": "蓝色",
-    "es": "azul",
-    "ja": "ブルー"
-  },
   "heart_level_2": {
-    "ko": "퍼플",
-    "en": "purple",
-    "zh": "紫色",
-    "es": "púrpura",
-    "ja": "紫色"
-  },
-  "heart_level_0": {
-    "ko": "화이트",
-    "en": "white",
-    "zh": "白色",
-    "es": "blanco",
-    "ja": "ホワイト"
+    "ko": "퍼플 하트",
+    "en": "purple heart",
+    "zh": "紫爱心",
+    "es": "corazón púrpura",
+    "ja": "パープルハート"
   }
 }

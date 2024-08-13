@@ -1,4 +1,18 @@
 {
+  "charge_2_text_4": {
+    "ko": "추천",
+    "en": "Recommended",
+    "zh": "推荐",
+    "es": "Recomendado",
+    "ja": "おすすめ"
+  },
+  "charge_2_text_2": {
+    "ko": "{numToCharge} 건",
+    "en": "{numToCharge} credits",
+    "zh": "{numToCharge} 件",
+    "es": "{numToCharge} créditos",
+    "ja": "{numToCharge} 件"
+  },
   "charge_2_text_0": {
     "ko": "",
     "en": "",
@@ -6,7 +20,14 @@
     "es": "",
     "ja": ""
   },
-  "charge_2_cta": {
+  "charge_2_title": {
+    "ko": "충전 완료!",
+    "en": "You've charged extra messages!",
+    "zh": "充电完成！",
+    "es": "¡Has cargado mensajes adicionales!",
+    "ja": "充電完了！"
+  },
+  "charge_1_cta": {
     "ko": "충전",
     "en": "Charge",
     "zh": "充电",
@@ -20,28 +41,7 @@
     "es": "30 días",
     "ja": "30日"
   },
-  "charge_2_title": {
-    "ko": "충전 완료!",
-    "en": "You've charged extra messages!",
-    "zh": "充电完成！",
-    "es": "¡Has cargado mensajes adicionales!",
-    "ja": "充電完了！"
-  },
-  "charge_2_text_4": {
-    "ko": "추천",
-    "en": "Recommended",
-    "zh": "推荐",
-    "es": "Recomendado",
-    "ja": "推薦"
-  },
-  "charge_2_text_2": {
-    "ko": "{numToCharge} 건",
-    "en": "{numToCharge} credits",
-    "zh": "{numToCharge} 件",
-    "es": "{numToCharge} créditos",
-    "ja": "{numToCharge} 件"
-  },
-  "charge_1_cta": {
+  "charge_2_cta": {
     "ko": "충전",
     "en": "Charge",
     "zh": "充电",
@@ -55,18 +55,18 @@
     "es": "Mensajes (incluye llamada de voz)",
     "ja": "メッセージ+通話統合"
   },
-  "charge_1_text": {
-    "ko": "이번 달 메시지를 다 사용했어요.\n메시지를 충전하고 대화를 이어가 보세요.",
-    "en": "You used up all messages for this month.\nCharge extra messages and continue the conversation then.",
-    "zh": "这个月的消息已用完。\n请充值额外的消息，然后继续对话。",
-    "es": "Has usado todos los mensajes de este mes.\nCarga mensajes adicionales y continúa la conversación.",
-    "ja": "今月のメッセージをすべて使い切りました。\n追加のメッセージをチャージして会話を続けてください。"
-  },
   "charge_2_text": {
     "ko": "메시지 100건이 충전되었어요.\n{artist_name}와 즐거운 대화 나누세요 💝",
     "en": "You can send 100 more messages. Have a nice chat with {artist_name}💝",
     "zh": "您可以再发送100条消息。和{artist_name}愉快聊天吧💝",
     "es": "Puedes enviar 100 mensajes más. Ten una buena charla con {artist_name}💝",
     "ja": "メッセージを100件送信できます。{artist_name}と楽しいチャットを💝"
+  },
+  "charge_1_text": {
+    "ko": "이번 달 메시지를 다 사용했어요.\n메시지를 충전하고 대화를 이어가 보세요.",
+    "en": "You used up all messages for this month.\nCharge extra messages and continue the conversation then.",
+    "zh": "本月的消息已用完。\n请充值消息并继续对话。",
+    "es": "Has usado todos los mensajes de este mes.\nCarga mensajes adicionales y continúa la conversación.",
+    "ja": "今月のメッセージをすべて使い切りました。\nメッセージをチャージして会話を続けてください。"
   }
 }

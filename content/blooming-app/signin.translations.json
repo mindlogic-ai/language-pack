@@ -2,9 +2,9 @@
   "signin_popup_no_account_3": {
     "ko": "회원가입",
     "en": "Sign Up",
-    "zh": "会员注册",
+    "zh": "注册",
     "es": "Registrarse",
-    "ja": "会員登録"
+    "ja": "サインアップ"
   },
   "signin_popup_no_account_1": {
     "ko": "회원 정보가 없어요.\n다른 번호로 로그인하거나 가입해 주세요.",
