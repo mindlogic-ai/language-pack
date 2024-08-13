@@ -2,7 +2,7 @@
   "home_day_count_text": {
     "ko": "{artist_name}와 특별한 친구가 된지 {day_count}일째",
     "en": "{day_count} days since I became friends with {artist_name}",
-    "zh": "{artist_name}和特别的朋友已经{day_count}天了",
+    "zh": "{artist_name}和我成为特别朋友已经{day_count}天了",
     "es": "{day_count} días desde que me hice amigo de {artist_name}",
     "ja": "{artist_name}と特別な友達になってから{day_count}日目"
   }

@@ -1,4 +1,60 @@
 {
+  "heart_1_label_4": {
+    "ko": "대화",
+    "en": "Conversation",
+    "zh": "对话",
+    "es": "Conversación",
+    "ja": "会話"
+  },
+  "heart_2_title_1": {
+    "ko": "하트 레벨",
+    "en": "Heart Level",
+    "zh": "心脏等级",
+    "es": "Nivel de Corazón",
+    "ja": "ハートレベル"
+  },
+  "heart_1_label_3": {
+    "ko": "DM 출석",
+    "en": "DM attendance",
+    "zh": "DM出席",
+    "es": "Asistencia de DM",
+    "ja": "DM出席"
+  },
+  "heart_3_label_1": {
+    "ko": "DM 출석 점수",
+    "en": "DM attendance",
+    "zh": "DM出席分数",
+    "es": "Asistencia de DM",
+    "ja": "DM出席点数"
+  },
+  "heart_3_text_2_2": {
+    "ko": "욕설이나 비방을 하면 점수가 회수돼요.",
+    "en": "If you use abusive language or slander, your score will be deducted.",
+    "zh": "如果使用辱骂或诽谤语言，分数将被扣除。",
+    "es": "Si usas lenguaje abusivo o calumnias, tu puntuación será deducida.",
+    "ja": "暴言や中傷をすると、スコアが減点されます。"
+  },
+  "heart_3_text_1_2": {
+    "ko": "매일 DM을 하면 연속 출석 보너스 점수를 받아요.",
+    "en": "Receive consecutive attendance bonus points by sending a DM every day.",
+    "zh": "每天发送DM可获得连续出勤奖励积分。",
+    "es": "Recibe puntos de bonificación por asistencia consecutiva enviando un DM todos los días.",
+    "ja": "毎日DMを送ると、連続出席ボーナスポイントがもらえます。"
+  },
+  "heart_3_label_2": {
+    "ko": "대화 점수",
+    "en": "Conversation",
+    "zh": "对话分数",
+    "es": "Conversación",
+    "ja": "会話スコア"
+  },
+  "heart_1_text_4": {
+    "ko": "최고 레벨을 달성했어요!",
+    "en": "You've reached the highest heart level possible!",
+    "zh": "你已经达到了最高等级！",
+    "es": "¡Has alcanzado el nivel de corazón más alto posible!",
+    "ja": "最高レベルに達しました！"
+  },
   "heart_1_label_1": {
     "ko": "포인트",
     "en": "Points",
@@ -13,26 +69,12 @@
     "es": "Hoy",
     "ja": "今日"
   },
-  "heart_1_label_3": {
-    "ko": "DM 출석",
-    "en": "DM attendance",
-    "zh": "DM 出席",
-    "es": "Asistencia de DM",
-    "ja": "DM 出席"
-  },
-  "heart_1_text_4": {
-    "ko": "최고 레벨을 달성했어요!",
-    "en": "You've reached the highest heart level possible!",
-    "zh": "你已经达到了最高等级！",
-    "es": "¡Has alcanzado el nivel de corazón más alto posible!",
-    "ja": "最高レベルに達しました！"
-  },
-  "heart_1_text_2": {
-    "ko": "{next_heart_color} 하트 레벨까지 {points_for_next}점 남았어요!",
-    "en": "{points_for_next} points left until {next_heart_color} level.",
-    "zh": "{next_heart_color} 心级还剩 {points_for_next} 分！",
-    "es": "{points_for_next} puntos restantes hasta el nivel {next_heart_color}.",
-    "ja": "{next_heart_color} ハートレベルまであと {points_for_next} ポイント！"
+  "heart_1_text_3": {
+    "ko": "매일 매일 점수를 모아서\n레벨을 올리고 모든 포토카드를 모아 보세요!",
+    "en": "Collect points every day to level up and collect all photo cards!",
+    "zh": "每天收集积分，升级并收集所有照片卡！",
+    "es": "¡Recoge puntos todos los días para subir de nivel y coleccionar todas las tarjetas de fotos!",
+    "ja": "毎日ポイントを集めてレベルアップし、すべてのフォトカードを集めましょう！"
   },
   "heart_3_title_1": {
     "ko": "하트 포인트",
@@ -41,54 +83,12 @@
     "es": "Punto de corazón",
     "ja": "ハートポイント"
   },
-  "heart_3_label_2": {
-    "ko": "대화 점수",
-    "en": "Conversation",
-    "zh": "对话分数",
-    "es": "Conversación",
-    "ja": "対話スコア"
-  },
-  "heart_1_label_4": {
-    "ko": "대화",
-    "en": "Conversation",
-    "zh": "对话",
-    "es": "Conversación",
-    "ja": "会話"
-  },
-  "heart_3_label_1": {
-    "ko": "DM 출석 점수",
-    "en": "DM attendance",
-    "zh": "DM出勤分数",
-    "es": "Asistencia de DM",
-    "ja": "DM出席スコア"
-  },
-  "heart_2_title_1": {
-    "ko": "하트 레벨",
-    "en": "Heart Level",
-    "zh": "心脏等级",
-    "es": "Nivel de Corazón",
-    "ja": "ハートレベル"
-  },
-  "heart_1_text_3": {
-    "ko": "매일 매일 점수를 모아서\n레벨을 올리고 모든 포토카드를 모아 보세요!",
-    "en": "Collect points every day to level up and collect all photo cards!",
-    "zh": "每天收集积分，升级并收集所有照片卡！",
-    "es": "¡Recoge puntos todos los días para subir de nivel y coleccionar todas las tarjetas de fotos!",
-    "ja": "毎日ポイントを集めてレベルアップし、すべてのフォトカードを集めましょう！"
-  },
-  "heart_3_text_2_1": {
-    "ko": "아티스트에게 사랑을 담은 대화를 할수록 점수를 더 많이 받아요.",
-    "en": "The more you have loving conversations with the artist, the more points you earn.",
-    "zh": "与艺术家进行充满爱的对话，您会获得更多积分。",
-    "es": "Cuantas más conversaciones amorosas tengas con el artista, más puntos ganarás.",
-    "ja": "アーティストと愛情のこもった会話をすればするほど、より多くのポイントを獲得できます。"
-  },
-  "heart_3_text_1_1": {
-    "ko": "아티스트와의 DM창을 열면 하루에 한 번 출석 점수를 받아요.",
-    "en": "If you open a DM window with the artist, you will receive attendance points once a day.",
-    "zh": "如果你打开与艺术家的DM窗口，你每天会收到一次出勤积分。",
-    "es": "Si abres una ventana de DM con el artista, recibirás puntos de asistencia una vez al día.",
-    "ja": "アーティストとのDMウィンドウを開くと、1日に1回出席ポイントがもらえます。"
+  "heart_3_text_1": {
+    "ko": "아티스트와 대화하면 점수를 받아요.\n점수를 모아서 하트 등급에 따라 공개되는 포토카드를 모아 보세요.",
+    "en": "When you open a DM with an artist, you get DM attendance score once a day.\nIf you DM every day, you will get bonus points for consecutive attendance.",
+    "zh": "与艺术家对话时，您会获得积分。\n收集积分并根据心等级收集公开的照片卡。",
+    "es": "Cuando abres un DM con un artista, obtienes una puntuación de asistencia de DM una vez al día.\nSi envías DM todos los días, obtendrás puntos de bonificación por asistencia consecutiva.",
+    "ja": "アーティストと会話するとポイントがもらえます。\nポイントを集めて、ハートランクに応じて公開されるフォトカードを集めましょう。"
   },
   "heart_1_text_1": {
     "ko": "{user_name}과 {artist_name}은 {heart_color} 레벨이에요",
@@ -96,13 +96,6 @@
     "zh": "{user_name}和{artist_name}在{heart_color}级别",
     "es": "{user_name} y {artist_name} están en el nivel {heart_color}",
     "ja": "{user_name}と{artist_name}は{heart_color}レベルです"
-  },
-  "heart_3_text_2_2": {
-    "ko": "욕설이나 비방을 하면 점수가 회수돼요.",
-    "en": "If you use abusive language or slander, your points will be deducted.",
-    "zh": "如果使用辱骂或诽谤语言，积分将被扣除。",
-    "es": "Si usas lenguaje abusivo o calumnias, se te restarán puntos.",
-    "ja": "暴言や中傷をすると、ポイントが差し引かれます。"
   },
   "heart_3_text_2": {
     "ko": "아티스트에게 사랑을 담은 대화를 할수록 점수를 더 많이 받아요.\n욕설이나 비방을 하면 점수가 회수돼요.",
@@ -116,20 +109,27 @@
     "en": "You get points when you talk to artists.\nWhy don't you get points to collect photocards that are revealed according to your heart level.",
     "zh": "与艺术家交谈时会获得积分。\n收集积分以根据心级别收集公开的照片卡。",
     "es": "Obtienes puntos cuando hablas con artistas.\n¿Por qué no obtienes puntos para coleccionar fotocards que se revelan según tu nivel de corazón?",
-    "ja": "アーティストと話すとポイントがもらえます。\nポイントを集めて、ハートレベルに応じて公開されるフォトカードを集めましょう。"
+    "ja": "アーティストと話すとポイントがもらえます。\nハートレベルに応じて公開されるフォトカードを集めるためにポイントを集めましょう。"
   },
-  "heart_3_text_1_2": {
-    "ko": "매일 DM을 하면 연속 출석 보너스 점수를 받아요.",
-    "en": "Receive consecutive attendance bonus points by sending a DM every day.",
-    "zh": "每天发送DM可获得连续出勤奖励积分。",
-    "es": "Recibe puntos de bonificación por asistencia consecutiva enviando un DM todos los días.",
-    "ja": "毎日DMを送ると連続出席ボーナスポイントがもらえます。"
+  "heart_3_text_2_1": {
+    "ko": "아티스트에게 사랑을 담은 대화를 할수록 점수를 더 많이 받아요.",
+    "en": "The more you have loving conversations with the artist, the more points you earn.",
+    "zh": "与艺术家进行充满爱的对话，您会获得更多积分。",
+    "es": "Cuantas más conversaciones amorosas tengas con el artista, más puntos ganarás.",
+    "ja": "アーティストと愛のある会話をすればするほど、より多くのポイントを獲得できます。"
   },
-  "heart_3_text_1": {
-    "ko": "아티스트와 대화하면 점수를 받아요.\n점수를 모아서 하트 등급에 따라 공개되는 포토카드를 모아 보세요.",
-    "en": "When you open a DM with an artist, you get DM attendance score once a day.\nIf you DM every day, you will get bonus points for consecutive attendance.",
-    "zh": "与艺术家对话时，您会获得积分。\n收集积分并根据心等级收集公开的照片卡。",
-    "es": "Cuando abres un DM con un artista, obtienes una puntuación de asistencia de DM una vez al día.\nSi envías DM todos los días, obtendrás puntos de bonificación por asistencia consecutiva.",
-    "ja": "アーティストと会話するとポイントがもらえます。\nポイントを集めて、ハートランクに応じて公開されるフォトカードを集めましょう。"
+  "heart_3_text_1_1": {
+    "ko": "아티스트와의 DM창을 열면 하루에 한 번 출석 점수를 받아요.",
+    "en": "Open a DM with the artist to receive attendance points once a day.",
+    "zh": "打开与艺术家的私信窗口，每天可以获得一次出勤积分。",
+    "es": "Abre un DM con el artista para recibir puntos de asistencia una vez al día.",
+    "ja": "アーティストとのDMを開くと、1日に1回出席ポイントがもらえます。"
+  },
+  "heart_1_text_2": {
+    "ko": "{next_heart_color} 하트 레벨까지 {points_for_next}점 남았어요!",
+    "en": "{points_for_next} points left until {next_heart_color} level.",
+    "zh": "{next_heart_color} 心级还剩 {points_for_next} 分！",
+    "es": "{points_for_next} puntos restantes hasta el nivel {next_heart_color}.",
+    "ja": "{next_heart_color} ハートレベルまであと {points_for_next} ポイントです！"
   }
 }

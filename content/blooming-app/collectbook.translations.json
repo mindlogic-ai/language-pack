@@ -1,10 +1,17 @@
 {
-  "collect_book_title_2": {
-    "ko": "하트",
-    "en": "Heart",
-    "zh": "心",
-    "es": "Corazón",
-    "ja": "ハート"
+  "collect_book_title_3": {
+    "ko": "콜렉트북",
+    "en": "Collectbook",
+    "zh": "收集书",
+    "es": "Libro de colección",
+    "ja": "コレクトブック"
+  },
+  "collect_book_cta_text": {
+    "ko": "구독",
+    "en": "Subscribe",
+    "zh": "订阅",
+    "es": "Suscribirse",
+    "ja": "購読"
   },
   "collect_book_popup_1_2": {
     "ko": "취소",
@@ -17,22 +24,15 @@
     "ko": "변경",
     "en": "Change",
     "zh": "变更",
-    "es": "Cambiar",
+    "es": "Cambio",
     "ja": "変更"
   },
-  "collect_book_cta_text": {
-    "ko": "구독",
-    "en": "Subscribe",
-    "zh": "订阅",
-    "es": "Suscribirse",
-    "ja": "購読"
-  },
-  "collect_book_title_3": {
-    "ko": "콜렉트북",
-    "en": "Collectbook",
-    "zh": "收集书",
-    "es": "Libro de colección",
-    "ja": "コレクトブック"
+  "collect_book_title_2": {
+    "ko": "하트",
+    "en": "Heart",
+    "zh": "心",
+    "es": "Corazón",
+    "ja": "ハート"
   },
   "collect_book_title_1": {
     "ko": "멤버쉽",
@@ -41,6 +41,13 @@
     "es": "Membresía",
     "ja": "メンバーシップ"
   },
+  "collect_book_label_1": {
+    "ko": "{number_string} 포토카드",
+    "en": "{number_string} Photocards",
+    "zh": "{number_string} 照片卡",
+    "es": "{number_string} Tarjetas de fotos",
+    "ja": "{number_string} フォトカード"
+  },
   "collect_book_toast_1": {
     "ko": "대표 포토카드로 변경됐어요.",
     "en": "It has been changed to a representative photocard.",
@@ -48,25 +55,18 @@
     "es": "Se ha cambiado a una fototarjeta representativa.",
     "ja": "代表フォトカードに変更されました。"
   },
-  "collect_book_text_1": {
-    "ko": "지금 바로 구독하고 {artist_name}의 포토카드를 모아보세요.",
-    "en": "Subscribe now and\ncollect {artist_name}'s photocards.",
-    "zh": "立即订阅并收集{artist_name}的照片卡。",
-    "es": "Suscríbete ahora y\ncolecciona las fototarjetas de {artist_name}.",
-    "ja": "今すぐ購読して、{artist_name}のフォトカードを集めましょう。"
-  },
   "collect_book_popup_1_1": {
     "ko": "대표 포토카드로 변경할까요?\n해당 카드가 홈 화면의 이미지가 돼요.",
     "en": "Do you want to change a representative photocard? This card becomes the image on the home screen.",
-    "zh": "要更换代表照片卡吗？这张卡片将成为主屏幕上的图像。",
+    "zh": "要更换代表照片卡吗？这张卡片会成为主屏幕的图片。",
     "es": "¿Quieres cambiar la fototarjeta representativa? Esta tarjeta se convierte en la imagen en la pantalla de inicio.",
     "ja": "代表フォトカードに変更しますか？このカードがホーム画面の画像になります。"
   },
-  "collect_book_label_1": {
-    "ko": "{number_string} 포토카드",
-    "en": "{number_string} Photocards",
-    "zh": "{number_string} 照片卡",
-    "es": "{number_string} Tarjetas de fotos",
-    "ja": "{number_string} フォトカード"
+  "collect_book_text_1": {
+    "ko": "지금 바로 구독하고 {artist_name}의 포토카드를 모아보세요.",
+    "en": "Subscribe now and\ncollect {artist_name}'s photocards.",
+    "zh": "现在订阅并收集{artist_name}的照片卡。",
+    "es": "Suscríbete ahora y\ncolecciona las fototarjetas de {artist_name}.",
+    "ja": "今すぐ購読して、{artist_name}のフォトカードを集めましょう。"
   }
 }
