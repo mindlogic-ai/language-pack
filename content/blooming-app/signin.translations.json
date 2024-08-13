@@ -1,10 +1,17 @@
 {
-  "signin_popup_no_account_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
+  "signin_popup_no_account_3": {
+    "ko": "회원가입",
+    "en": "Sign Up",
+    "zh": "会员注册",
+    "es": "Registrarse",
+    "ja": "会員登録"
+  },
+  "signin_popup_no_account_1": {
+    "ko": "회원 정보가 없어요.\n다른 번호로 로그인하거나 가입해 주세요.",
+    "en": "There is no account information.\nPlease sign up or login with a different number.",
+    "zh": "没有会员信息。\n请使用其他号码登录或注册。",
+    "es": "No hay información de la cuenta.\nPor favor, regístrate o inicia sesión con un número diferente.",
+    "ja": "会員情報がありません。\n別の番号でログインするか、登録してください。"
   },
   "signin_cta_1": {
     "ko": "로그인",
@@ -13,18 +20,11 @@
     "es": "Iniciar sesión",
     "ja": "ログイン"
   },
-  "signin_popup_no_account_3": {
-    "ko": "회원가입",
-    "en": "Sign Up",
-    "zh": "회원가입",
-    "es": "Sign Up",
-    "ja": "회원가입"
-  },
-  "signin_popup_no_account_1": {
-    "ko": "회원 정보가 없어요. \n다른 번호로 로그인하거나 가입해 주세요.",
-    "en": "There is no account information. \nPlease sign up or login with a different number.",
-    "zh": "没有账户信息。\n请注册或使用其他号码登录。",
-    "es": "No hay información de la cuenta. \nPor favor, regístrate o inicia sesión con un número diferente.",
-    "ja": "アカウント情報がありません。\n別の番号でサインアップまたはログインしてください。"
+  "signin_popup_no_account_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
   }
 }

@@ -32,7 +32,10 @@ const processGoogleSheetText = (text) => {
   return text
     ?.replaceAll("\\n", "\n")
     .replaceAll("\n\n", "\n")
-    .replaceAll(/[\u2028\u2029]/g, "");
+    .replaceAll(/[\u2028\u2029]/g, "")
+    .split("\n")
+    .map((s) => s.trim())
+    .join("\n");
 };
 
 const fetchGoogleSheetData = async () => {

@@ -1,10 +1,17 @@
 {
-  "call_1_label_1": {
-    "ko": "발신중...",
-    "en": "Calling...",
-    "zh": "正在呼叫...",
-    "es": "Llamando...",
-    "ja": "発信中..."
+  "call_popup_1_3": {
+    "ko": "삭제",
+    "en": "Delete",
+    "zh": "删除",
+    "es": "Eliminar",
+    "ja": "削除"
+  },
+  "call_5_voice_1": {
+    "ko": "여보세요",
+    "en": "Hello",
+    "zh": "喂？",
+    "es": "Hola",
+    "ja": "もしもし"
   },
   "call_popup_1_2": {
     "ko": "취소",
@@ -12,6 +19,13 @@
     "zh": "取消",
     "es": "Cancelar",
     "ja": "キャンセル"
+  },
+  "call_popup_1_1": {
+    "ko": "통화가 정상적으로 저장되지 않았습니다.\n해당 통화를 삭제할까요?",
+    "en": "The call was not saved properly.\nDo you want to delete the call?",
+    "zh": "通话未正常保存。\n要删除该通话吗？",
+    "es": "La llamada no se guardó correctamente.\n¿Quieres eliminar la llamada?",
+    "ja": "通話が正常に保存されませんでした。\nこの通話を削除しますか？"
   },
   "call_4_cta_1": {
     "ko": "더보기",
@@ -27,20 +41,6 @@
     "es": "Llamadas con {artist_name}",
     "ja": "{artist_name}との通話時間"
   },
-  "call_1_toast_1": {
-    "ko": "통화 1분당 메시지 10개가 차감됩니다.",
-    "en": "10 messages will be used per minute of call.",
-    "zh": "每分钟通话将扣除10条消息。",
-    "es": "Se usarán 10 mensajes por minuto de llamada.",
-    "ja": "通話1分ごとに10メッセージが使用されます。"
-  },
-  "call_popup_1_1": {
-    "ko": "통화가 정상적으로 저장되지 않았습니다.\n해당 통화를 삭제할까요?",
-    "en": "The call was not saved properly.\n Do you want to delete the call?",
-    "zh": "通话未正常保存。\n要删除该通话吗？",
-    "es": "La llamada no se guardó correctamente.\n ¿Quieres eliminar la llamada?",
-    "ja": "通話が正常に保存されませんでした。\nこの通話を削除しますか？"
-  },
   "call_2_toast_1": {
     "ko": "다시 듣기를 준비하는 동안 앱을 종료하지 마세요.",
     "en": "Do not turn off the app while getting ready to listen again.",
@@ -55,18 +55,18 @@
     "es": "No cierre la aplicación mientras guarda su historial de llamadas.",
     "ja": "通話履歴を保存している間はアプリを閉じないでください。"
   },
-  "call_popup_1_3": {
-    "ko": "삭제",
-    "en": "Delete",
-    "zh": "删除",
-    "es": "Eliminar",
-    "ja": "削除"
+  "call_1_toast_1": {
+    "ko": "통화 1분당 메시지 10개가 차감됩니다.",
+    "en": "10 messages will be used per minute of call.",
+    "zh": "每分钟通话将扣除10条消息。",
+    "es": "Se utilizarán 10 mensajes por minuto de llamada.",
+    "ja": "通話1分あたり10メッセージが消費されます。"
   },
-  "call_5_voice_1": {
-    "ko": "여보세요",
-    "en": "Hello",
-    "zh": "你好",
-    "es": "Hola",
-    "ja": "こんにちは"
+  "call_1_label_1": {
+    "ko": "발신중...",
+    "en": "Calling...",
+    "zh": "正在呼叫...",
+    "es": "Llamando...",
+    "ja": "発信中..."
   }
 }
