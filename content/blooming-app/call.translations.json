@@ -61,5 +61,12 @@
     "zh": "删除",
     "es": "Eliminar",
     "ja": "削除"
+  },
+  "call_5_voice_1": {
+    "ko": "여보세요",
+    "en": "Hello",
+    "zh": "你好",
+    "es": "Hola",
+    "ja": "こんにちは"
   }
 }

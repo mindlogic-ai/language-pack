@@ -12,5 +12,33 @@
     "zh": "使用条款",
     "es": "Términos de Uso",
     "ja": "利用規約"
+  },
+  "heart_level_2": {
+    "ko": "블루",
+    "en": "blue",
+    "zh": "蓝色",
+    "es": "azul",
+    "ja": "ブルー"
+  },
+  "heart_level_1": {
+    "ko": "화이트",
+    "en": "white",
+    "zh": "白色",
+    "es": "blanco",
+    "ja": "ホワイト"
+  },
+  "heart_level_3": {
+    "ko": "퍼플",
+    "en": "purple",
+    "zh": "紫色",
+    "es": "púrpura",
+    "ja": "紫色"
+  },
+  "heart": {
+    "ko": "하트",
+    "en": "heart",
+    "zh": "心",
+    "es": "corazón",
+    "ja": "ハート"
   }
 }

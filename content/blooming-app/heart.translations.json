@@ -96,5 +96,12 @@
     "zh": "对话",
     "es": "Conversación",
     "ja": "会話"
+  },
+  "heart_1_text_4": {
+    "ko": "최고 레벨을 달성했어요!",
+    "en": "You've reached the highest heart level possible!",
+    "zh": "你已经达到了最高等级！",
+    "es": "¡Has alcanzado el nivel de corazón más alto posible!",
+    "ja": "最高レベルに達しました！"
   }
 }
