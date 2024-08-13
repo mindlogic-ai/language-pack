@@ -1,45 +1,10 @@
 {
-  "membership_label_6": {
-    "ko": "만료 날짜",
-    "en": "Expiration Date",
-    "zh": "到期日期",
-    "es": "Fecha de Expiración",
-    "ja": "有効期限"
-  },
-  "membership_label_7": {
-    "ko": "환불됨",
-    "en": "Refunded",
-    "zh": "已退款",
-    "es": "Reembolsado",
-    "ja": "返金済み"
-  },
-  "membership_cta_2": {
-    "ko": "충전",
-    "en": "Charge",
-    "zh": "充电",
-    "es": "Cargar",
-    "ja": "充電"
-  },
   "membership_label_8": {
     "ko": "만료됨",
     "en": "Expired",
     "zh": "已过期",
     "es": "Caducado",
     "ja": "期限切れ"
-  },
-  "membership_label_5": {
-    "ko": "메세지",
-    "en": "Messages",
-    "zh": "消息",
-    "es": "Mensajes",
-    "ja": "メッセージ"
-  },
-  "membership_cta_3": {
-    "ko": "구독 갱신",
-    "en": "Renew Subscription",
-    "zh": "续订",
-    "es": "Renovar Suscripción",
-    "ja": "サブスクリプションを更新"
   },
   "membership_label_4": {
     "ko": "충전",
@@ -48,26 +13,33 @@
     "es": "Cargar",
     "ja": "充電"
   },
-  "membership_cta_1": {
-    "ko": "+추가",
-    "en": "+More",
-    "zh": "+添加",
-    "es": "+Más",
-    "ja": "+追加"
+  "membership_label_5": {
+    "ko": "메세지",
+    "en": "Messages",
+    "zh": "消息",
+    "es": "Mensajes",
+    "ja": "メッセージ"
   },
-  "membership_cta_4": {
-    "ko": "구독 관리",
-    "en": "Manage Subscription",
-    "zh": "订阅管理",
-    "es": "Gestionar suscripción",
-    "ja": "サブスクリプション管理"
+  "membership_cta_2": {
+    "ko": "충전",
+    "en": "Charge",
+    "zh": "充电",
+    "es": "Cargar",
+    "ja": "充電"
   },
-  "membership_title_1": {
-    "ko": "{artist_name}",
-    "en": "{artist_name}",
-    "zh": "{artist_name}",
-    "es": "{artist_name}",
-    "ja": "{artist_name}"
+  "membership_cta_3": {
+    "ko": "구독 갱신",
+    "en": "Renew Subscription",
+    "zh": "续订",
+    "es": "Renovar Suscripción",
+    "ja": "サブスクリプションを更新"
+  },
+  "membership_label_7": {
+    "ko": "환불됨",
+    "en": "Refunded",
+    "zh": "已退款",
+    "es": "Reembolsado",
+    "ja": "返金済み"
   },
   "membership_label_2": {
     "ko": "메세지",
@@ -83,11 +55,32 @@
     "es": "Renewal Date",
     "ja": "갱신 날짜"
   },
+  "membership_label_6": {
+    "ko": "만료 날짜",
+    "en": "Expiration Date",
+    "zh": "到期日期",
+    "es": "Fecha de Expiración",
+    "ja": "有効期限"
+  },
+  "membership_cta_4": {
+    "ko": "구독 관리",
+    "en": "Manage Subscription",
+    "zh": "订阅管理",
+    "es": "Gestionar suscripción",
+    "ja": "購読管理"
+  },
   "membership_label_1": {
     "ko": "구독",
     "en": "Subscription",
     "zh": "订阅",
     "es": "Suscripción",
     "ja": "購読"
+  },
+  "membership_cta_1": {
+    "ko": "추가",
+    "en": "More",
+    "zh": "更多",
+    "es": "Más",
+    "ja": "もっと"
   }
 }

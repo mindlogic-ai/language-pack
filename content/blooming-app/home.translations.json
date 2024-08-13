@@ -1,18 +1,4 @@
 {
-  "home_welcome_text": {
-    "ko": "%@",
-    "en": "%@",
-    "zh": "%@",
-    "es": "%@",
-    "ja": "%@"
-  },
-  "home_button_primary003": {
-    "ko": "%@",
-    "en": "%@",
-    "zh": "%@",
-    "es": "%@",
-    "ja": "%@"
-  },
   "home_day_count_text": {
     "ko": "{artist_name}와 특별한 친구가 된지 {day_count}일째",
     "en": "{day_count} days since I became friends with {artist_name}",

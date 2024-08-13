@@ -1,32 +1,4 @@
 {
-  "profile_artist_1": {
-    "ko": "{artistGenuineName}",
-    "en": "{artist_genuine_name}",
-    "zh": "{artistGenuineName}",
-    "es": "{artist_genuine_name}",
-    "ja": "{artistGenuineName}"
-  },
-  "profile_agency": {
-    "ko": "{agency}",
-    "en": "{agency}",
-    "zh": "{agency}",
-    "es": "{agency}",
-    "ja": "{agency}"
-  },
-  "profile_1_status": {
-    "ko": "{status_message}",
-    "en": "{status_message}",
-    "zh": "{status_message}",
-    "es": "{status_message}",
-    "ja": "{status_message}"
-  },
-  "profile_artist_2": {
-    "ko": "{artist_name}",
-    "en": "{artist_name}",
-    "zh": "{artist_name}",
-    "es": "{artist_name}",
-    "ja": "{artist_name}"
-  },
   "profile_music": {
     "ko": "프로필 뮤직",
     "en": "Profile Music",

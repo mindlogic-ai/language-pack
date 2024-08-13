@@ -28,6 +28,13 @@ const columnMappings = {
   9: "ja",
 };
 
+const processGoogleSheetText = (text) => {
+  return text
+    ?.replaceAll("\\n", "\n")
+    .replaceAll("\n\n", "\n")
+    .replaceAll(/[\u2028\u2029]/g, "");
+};
+
 const fetchGoogleSheetData = async () => {
   const response = await sheets.spreadsheets.values.get({
     spreadsheetId,
@@ -61,18 +68,10 @@ const fetchGoogleSheetData = async () => {
           data[pageName] = {};
         }
         data[pageName][rowData.translateKey] = {
-          ko: rowData.ko
-            ?.replaceAll("\\n", "\n")
-            .replaceAll(/[\u2028\u2029]/g, ""),
-          en: rowData.en
-            ?.replaceAll("\\n", "\n")
-            .replaceAll(/[\u2028\u2029]/g, ""),
-          zh: rowData.zh
-            ?.replaceAll("\\n", "\n")
-            .replaceAll(/[\u2028\u2029]/g, ""),
-          ja: rowData.ja
-            ?.replaceAll("\\n", "\n")
-            .replaceAll(/[\u2028\u2029]/g, ""),
+          ko: processGoogleSheetText(rowData.ko),
+          en: processGoogleSheetText(rowData.en),
+          zh: processGoogleSheetText(rowData.zh),
+          ja: processGoogleSheetText(rowData.ja),
         };
       }
     });
