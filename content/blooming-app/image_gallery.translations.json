@@ -6,18 +6,18 @@
     "es": "La descarga de la foto está completa.",
     "ja": "写真のダウンロードが完了しました。"
   },
-  "image_gallery_error_1": {
-    "ko": "대표 포토카드 설정에 문제가 있었습니다.",
-    "en": "There was an issue with setting the main photocard.",
-    "zh": "设置主要照片卡时出现问题。",
-    "es": "Hubo un problema al configurar la fototarjeta principal.",
-    "ja": "メインフォトカードの設定に問題がありました。"
-  },
   "image_gallery_toast_1": {
     "ko": "대표 포토카드를 바꿨습니다.",
     "en": "The main photocard has been changed.",
     "zh": "已更换主要照片卡。",
     "es": "La fototarjeta principal ha sido cambiada.",
     "ja": "メインフォトカードが変更されました。"
+  },
+  "image_gallery_error_1": {
+    "ko": "대표 포토카드 설정에 문제가 있었습니다.",
+    "en": "There was an issue with setting the main photocard.",
+    "zh": "设置代表照片卡时出现问题。",
+    "es": "Hubo un problema al configurar la fototarjeta principal.",
+    "ja": "代表フォトカードの設定に問題がありました。"
   }
 }
