@@ -1,52 +1,10 @@
 {
-  "common_api_error_5": {
-    "ko": "",
-    "en": "",
-    "zh": "",
-    "es": "",
-    "ja": ""
-  },
-  "heart_level_2": {
-    "ko": "퍼플 하트",
-    "en": "purple heart",
-    "zh": "퍼플 하트",
-    "es": "purple heart",
-    "ja": "퍼플 ハート"
-  },
-  "common_api_error_1": {
-    "ko": "알 수 없는 오류",
-    "en": "An unexpected error occurred.",
-    "zh": "未知错误",
-    "es": "Ocurrió un error inesperado.",
-    "ja": "不明なエラーが発生しました"
-  },
-  "error": {
-    "ko": "에러",
-    "en": "Error",
-    "zh": "错误",
-    "es": "Error",
-    "ja": "エラー"
-  },
-  "common_api_error_2": {
-    "ko": "네트워크 상태가 좋지 않습니다.",
-    "en": "The network connection is not good.",
-    "zh": "网络连接不好。",
-    "es": "La conexión de red no es buena.",
-    "ja": "ネットワーク接続が良くありません。"
-  },
-  "heart_level_0": {
-    "ko": "화이트 하트",
-    "en": "white heart",
-    "zh": "白色心",
-    "es": "corazón blanco",
-    "ja": "白いハート"
-  },
-  "heart_level_1": {
-    "ko": "블루 하트",
-    "en": "blue heart",
-    "zh": "蓝爱心",
-    "es": "corazón azul",
-    "ja": "青いハート"
+  "terms_of_use": {
+    "ko": "이용 약관",
+    "en": "Terms of Use",
+    "zh": "使用条款",
+    "es": "Términos de Uso",
+    "ja": "利用規約"
   },
   "privacy_policy": {
     "ko": "개인정보 보호정책",
@@ -55,6 +13,41 @@
     "es": "Política de Privacidad",
     "ja": "プライバシーポリシー"
   },
+  "error": {
+    "ko": "에러",
+    "en": "Error",
+    "zh": "错误",
+    "es": "Error",
+    "ja": "エラー"
+  },
+  "common_api_error_5": {
+    "ko": "",
+    "en": "",
+    "zh": "",
+    "es": "",
+    "ja": ""
+  },
+  "common_api_error_2": {
+    "ko": "네트워크 상태가 좋지 않습니다.",
+    "en": "The network connection is not good.",
+    "zh": "网络状态不好。",
+    "es": "La conexión de red no es buena.",
+    "ja": "ネットワークの状態が良くありません。"
+  },
+  "heart_level_2": {
+    "ko": "퍼플 하트",
+    "en": "purple heart",
+    "zh": "퍼플 하트",
+    "es": "purple heart",
+    "ja": "퍼플 하트"
+  },
+  "heart_level_1": {
+    "ko": "블루 하트",
+    "en": "blue heart",
+    "zh": "蓝爱心",
+    "es": "corazón azul",
+    "ja": "青いハート"
+  },
   "common_api_error_3": {
     "ko": "메세지 전송에 실패했습니다.",
     "en": "Failed to send the message.",
@@ -62,18 +55,25 @@
     "es": "No se pudo enviar el mensaje.",
     "ja": "メッセージの送信に失敗しました。"
   },
+  "heart_level_0": {
+    "ko": "화이트 하트",
+    "en": "white heart",
+    "zh": "白色心",
+    "es": "corazón blanco",
+    "ja": "白いハート"
+  },
+  "common_api_error_1": {
+    "ko": "알 수 없는 오류",
+    "en": "An unexpected error occurred.",
+    "zh": "未知错误",
+    "es": "Ocurrió un error inesperado.",
+    "ja": "不明なエラーが発生しました。"
+  },
   "common_api_error_4": {
     "ko": "알 수 없는 오류가 발생했습니다. 잠시 후 다시 시도해주세요.",
     "en": "An unexpected error occurred. Please try again later.",
     "zh": "发生未知错误。请稍后再试。",
     "es": "Ocurrió un error inesperado. Por favor, inténtelo de nuevo más tarde.",
     "ja": "不明なエラーが発生しました。しばらくしてからもう一度お試しください。"
-  },
-  "terms_of_use": {
-    "ko": "이용 약관",
-    "en": "Terms of Use",
-    "zh": "使用条款",
-    "es": "Términos de Uso",
-    "ja": "利用規約"
   }
 }

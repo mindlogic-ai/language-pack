@@ -1,24 +1,10 @@
 {
-  "setting_1_label_2": {
-    "ko": "프로필",
-    "en": "Profile",
-    "zh": "个人资料",
-    "es": "Perfil",
-    "ja": "プロフィール"
-  },
-  "setting_popup_5_2": {
-    "ko": "확인",
-    "en": "OK",
-    "zh": "确认",
-    "es": "OK",
-    "ja": "確認"
-  },
-  "setting_history_title_1": {
-    "ko": "구매 이력",
-    "en": "Purchase History",
-    "zh": "购买记录",
-    "es": "Historial de Compras",
-    "ja": "購入履歴"
+  "setting_profile_2_title_1": {
+    "ko": "프로필 수정",
+    "en": "Edit Profile",
+    "zh": "编辑资料",
+    "es": "Editar perfil",
+    "ja": "プロフィールを編集"
   },
   "setting_notice_title_1": {
     "ko": "공지",
@@ -27,12 +13,75 @@
     "es": "Aviso",
     "ja": "通知"
   },
-  "setting_terms_title_1": {
-    "ko": "이용 약관",
-    "en": "Terms of Use",
-    "zh": "使用条款",
-    "es": "Términos de Uso",
-    "ja": "利用規約"
+  "setting_popup_4_3": {
+    "ko": "나가기",
+    "en": "Leave",
+    "zh": "离开",
+    "es": "Salir",
+    "ja": "退出"
+  },
+  "settings_system_permission_denied_1": {
+    "ko": "위치 권한이 거부되었습니다.",
+    "en": "Location permission denied.",
+    "zh": "位置权限被拒绝。",
+    "es": "Permiso de ubicación denegado.",
+    "ja": "位置情報の許可が拒否されました。"
+  },
+  "setting_profile_2_text_1": {
+    "ko": "부적절한 단어가 포함되어 있습니다.",
+    "en": "This nickname includes a banned word.",
+    "zh": "包含不适当的词语。",
+    "es": "Este apodo incluye una palabra prohibida.",
+    "ja": "不適切な単語が含まれています。"
+  },
+  "setting_profile_2_text_2": {
+    "ko": "전화번호는 수정할 수 없습니다.",
+    "en": "Mobile cannot change.",
+    "zh": "电话号码无法更改。",
+    "es": "El número de teléfono no se puede cambiar.",
+    "ja": "電話番号は変更できません。"
+  },
+  "settings_system_permission_error_1": {
+    "ko": "권한 유형 {permissionType} 확인에 실패했습니다.",
+    "en": "Failed to check {permissionType} permission.",
+    "zh": "无法检查{permissionType}权限。",
+    "es": "No se pudo verificar el permiso de {permissionType}.",
+    "ja": "{permissionType}権限の確認に失敗しました。"
+  },
+  "permission_none_mic": {
+    "ko": "마이크 사용권한이 없습니다. 설정에서 권한을 허용해주세요",
+    "en": "You do not have permission to use the microphone. Please allow permission in the settings.",
+    "zh": "您没有使用麦克风的权限。请在设置中允许权限。",
+    "es": "No tienes permiso para usar el micrófono. Por favor, permite el permiso en la configuración.",
+    "ja": "マイクの使用権限がありません。設定で権限を許可してください。"
+  },
+  "apple_music_error_text2": {
+    "ko": "애플 뮤직 사용 권한이 없습니다.",
+    "en": "You do not have permission to use Apple Music.",
+    "zh": "您没有使用Apple Music的权限。",
+    "es": "No tienes permiso para usar Apple Music.",
+    "ja": "Apple Musicを使用する権限がありません。"
+  },
+  "setting_popup_6_1": {
+    "ko": "계정을 삭제할까요? 아티스트와의 메세지를 포함한 모든데이터는 즉시 삭제되고, 복구할 수 없어요.",
+    "en": "Are you sure you want to delete account?\nYour data including all messages\nwith Artist will be gone immediately.\nThis action cannot be undone.",
+    "zh": "您确定要删除账户吗？包括与艺术家的所有消息在内的数据将立即被删除，无法恢复。",
+    "es": "¿Estás seguro de que quieres eliminar la cuenta?\nTus datos, incluidos todos los mensajes\ncon el Artista, desaparecerán inmediatamente.\nEsta acción no se puede deshacer.",
+    "ja": "アカウントを削除してもよろしいですか？\nアーティストとのすべてのメッセージを含むデータは即座に削除され、元に戻すことはできません。"
+  },
+  "settings_system_permission_success_1": {
+    "ko": "위치 권한이 부여되었습니다.",
+    "en": "Location permission granted.",
+    "zh": "位置权限已授予。",
+    "es": "Permiso de ubicación concedido.",
+    "ja": "位置情報の許可が与えられました。"
+  },
+  "setting_popup_5_2": {
+    "ko": "확인",
+    "en": "OK",
+    "zh": "确认",
+    "es": "Aceptar",
+    "ja": "確認"
   },
   "setting_privacy_title_1": {
     "ko": "개인정보 보호정책",
@@ -41,12 +90,19 @@
     "es": "Política de Privacidad",
     "ja": "プライバシーポリシー"
   },
-  "settings_system_permission_error_1": {
-    "ko": "권한 {permissionType} 확인에 실패했습니다.",
-    "en": "Failed to check {permissionType} permission.",
-    "zh": "无法检查{permissionType}权限。",
-    "es": "No se pudo verificar el permiso de {permissionType}.",
-    "ja": "{permissionType}の権限を確認できませんでした。"
+  "open_settings_alert_text_1": {
+    "ko": "설정 열기",
+    "en": "Open settings",
+    "zh": "打开设置",
+    "es": "Abrir configuración",
+    "ja": "設定を開く"
+  },
+  "setting_popup_7_3": {
+    "ko": "로그아웃",
+    "en": "Sign Out",
+    "zh": "登出",
+    "es": "Cerrar sesión",
+    "ja": "ログアウト"
   },
   "setting_popup_6_3": {
     "ko": "회원 탈퇴",
@@ -55,14 +111,56 @@
     "es": "Eliminar cuenta",
     "ja": "アカウント削除"
   },
-  "setting_popup_6_1": {
-    "ko": "계정을 삭제할까요? 아티스트와의 메세지를 포함한 모든데이터는 즉시 삭제되고, 복구할 수 없어요.",
-    "en": "Are you sure you want to delete account?\nYour data including all messages\nwith Artist will be gone immediately.\nThis action cannot be undone.",
-    "zh": "您确定要删除账户吗？包括与艺术家的所有消息在内的数据将立即被删除，无法恢复。",
-    "es": "¿Estás seguro de que quieres eliminar la cuenta?\nTus datos, incluidos todos los mensajes\ncon el Artista, desaparecerán inmediatamente.\nEsta acción no se puede deshacer.",
-    "ja": "アカウントを削除してもよろしいですか？\nアーティストとのすべてのメッセージを含むデータは即座に削除され、復元できません。"
+  "setting_profile_3_title_1": {
+    "ko": "회원 탈퇴",
+    "en": "Delete Account",
+    "zh": "会员退出",
+    "es": "Eliminar cuenta",
+    "ja": "アカウント削除"
+  },
+  "setting_profile_2_cta_1": {
+    "ko": "인증",
+    "en": "Verify",
+    "zh": "认证",
+    "es": "Verificar",
+    "ja": "認証"
+  },
+  "permission_none_camera": {
+    "ko": "카메라 사용권한이 없습니다. 설정에서 권한을 허용해주세요",
+    "en": "Camera permission is not granted. Please allow permission in settings.",
+    "zh": "没有相机使用权限。请在设置中允许权限。",
+    "es": "No se ha concedido permiso para la cámara. Por favor, permite el permiso en la configuración.",
+    "ja": "カメラの使用権限がありません。設定で権限を許可してください。"
+  },
+  "setting_popup_7_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
   },
   "setting_popup_6_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "setting_1_label_12": {
+    "ko": "시스템",
+    "en": "System",
+    "zh": "系统",
+    "es": "Sistema",
+    "ja": "システム"
+  },
+  "settings_system_permission_alert_title_1": {
+    "ko": "위치 접근",
+    "en": "Location Access",
+    "zh": "位置访问",
+    "es": "Acceso a la ubicación",
+    "ja": "位置アクセス"
+  },
+  "setting_popup_4_2": {
     "ko": "취소",
     "en": "Cancel",
     "zh": "取消",
@@ -76,152 +174,12 @@
     "es": "Guardar",
     "ja": "保存"
   },
-  "setting_profile_1_label_3": {
-    "ko": "생년월일",
-    "en": "Date of Birth",
-    "zh": "出生日期",
-    "es": "Fecha de Nacimiento",
-    "ja": "生年月日"
-  },
-  "setting_profile_1_cta_1": {
-    "ko": "로그아웃",
-    "en": "Sign Out",
-    "zh": "登出",
-    "es": "Cerrar sesión",
-    "ja": "ログアウト"
-  },
-  "setting_1_label_9": {
-    "ko": "푸시 알림",
-    "en": "Push Notifications",
-    "zh": "推送通知",
-    "es": "Notificaciones Push",
-    "ja": "プッシュ通知"
-  },
-  "setting_profile_3_title_1": {
-    "ko": "회원 탈퇴",
-    "en": "Delete Account",
-    "zh": "会员退出",
-    "es": "Eliminar cuenta",
-    "ja": "アカウント削除"
-  },
-  "setting_profile_1_title_1": {
-    "ko": "프로필",
-    "en": "Profile",
-    "zh": "个人资料",
-    "es": "Perfil",
-    "ja": "プロフィール"
-  },
-  "setting_profile_1_cta_2": {
-    "ko": "회원 탈퇴",
-    "en": "Delete Account",
-    "zh": "会员退出",
-    "es": "Eliminar cuenta",
-    "ja": "アカウント削除"
-  },
-  "setting_popup_1_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
-  },
-  "setting_profile_1_label_5": {
-    "ko": "성별",
-    "en": "Gender",
-    "zh": "性别",
-    "es": "Género",
-    "ja": "性別"
-  },
-  "setting_popup_3_3": {
-    "ko": "허용 해제",
-    "en": "Disconnect",
-    "zh": "허용 해제",
-    "es": "Desconectar",
-    "ja": "許可解除"
-  },
-  "setting_profile_toast_1": {
-    "ko": "프로필 수정을 완료했어요.",
-    "en": "Profile edited",
-    "zh": "已完成个人资料编辑。",
-    "es": "Perfil editado",
-    "ja": "プロフィールの編集が完了しました。"
-  },
-  "setting_profile_2_text_2": {
-    "ko": "전화번호는 수정할 수 없습니다.",
-    "en": "Mobile cannot change.",
-    "zh": "电话号码无法更改。",
-    "es": "El número de teléfono no se puede cambiar.",
-    "ja": "電話番号は変更できません。"
-  },
-  "setting_profile_3_cta_1": {
-    "ko": "회원 탈퇴",
-    "en": "Delete Account",
-    "zh": "会员退出",
-    "es": "Eliminar cuenta",
-    "ja": "アカウントを削除"
-  },
-  "setting_popup_2_3": {
-    "ko": "허용 해제",
-    "en": "Do Not Allow",
-    "zh": "不允许",
-    "es": "No Permitir",
-    "ja": "許可しない"
-  },
-  "setting_1_label_13": {
-    "ko": "앱 버전",
-    "en": "App Version",
-    "zh": "应用版本",
-    "es": "Versión de la aplicación",
-    "ja": "アプリバージョン"
-  },
-  "setting_popup_7_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
-  },
-  "setting_popup_4_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
-  },
-  "setting_popup_7_3": {
-    "ko": "로그아웃",
-    "en": "Sign Out",
-    "zh": "登出",
-    "es": "Cerrar sesión",
-    "ja": "ログアウト"
-  },
-  "setting_profile_2_cta_1": {
-    "ko": "인증",
-    "en": "Verify",
-    "zh": "认证",
-    "es": "Verificar",
-    "ja": "認証"
-  },
-  "setting_profile_1_label_2": {
-    "ko": "전화번호",
-    "en": "Mobile",
-    "zh": "电话号码",
-    "es": "Móvil",
-    "ja": "電話番号"
-  },
-  "setting_1_label_5": {
-    "ko": "구매 복원",
-    "en": "Restore Purchase",
-    "zh": "恢复购买",
-    "es": "Restaurar compra",
-    "ja": "購入を復元"
-  },
-  "setting_1_title_1": {
-    "ko": "설정",
-    "en": "Settings",
-    "zh": "设置",
-    "es": "Configuraciones",
-    "ja": "設定"
+  "setting_terms_title_1": {
+    "ko": "이용 약관",
+    "en": "Terms of Use",
+    "zh": "使用条款",
+    "es": "Términos de Uso",
+    "ja": "利用規約"
   },
   "setting_1_label_10": {
     "ko": "위치",
@@ -230,138 +188,12 @@
     "es": "Ubicación de acceso",
     "ja": "位置"
   },
-  "setting_popup_1_3": {
-    "ko": "허용 해제",
-    "en": "Do Not Allow",
-    "zh": "不允许",
-    "es": "No Permitir",
-    "ja": "許可しない"
-  },
-  "setting_1_label_6": {
-    "ko": "구매 이력",
-    "en": "Purchase History",
-    "zh": "购买历史",
-    "es": "Historial de Compras",
-    "ja": "購入履歴"
-  },
-  "setting_popup_5_1": {
-    "ko": "이용 중인 상품이 있습니다.\n이용 기간 만료 후에 다시 시도해 주세요",
-    "en": "There is a product in use.\nPlease try again after the expiration of the usage period.",
-    "zh": "有正在使用的产品。\n请在使用期满后再试。",
-    "es": "Hay un producto en uso.\nPor favor, inténtelo de nuevo después de la expiración del período de uso.",
-    "ja": "使用中の製品があります。\n使用期間が終了した後に再試行してください。"
-  },
-  "setting_1_label_7": {
-    "ko": "구매 약관",
-    "en": "Terms of Purchase",
-    "zh": "购买条款",
-    "es": "Términos de Compra",
-    "ja": "購入条件"
-  },
-  "setting_1_label_1": {
-    "ko": "일반",
-    "en": "General",
-    "zh": "一般",
-    "es": "General",
-    "ja": "一般"
-  },
-  "setting_1_label_11": {
-    "ko": "애플 뮤직 연동",
-    "en": "Access Apple Music",
-    "zh": "访问 Apple Music",
-    "es": "Acceder a Apple Music",
-    "ja": "Apple Music にアクセス"
-  },
   "setting_popup_2_2": {
     "ko": "취소",
     "en": "Cancel",
     "zh": "取消",
     "es": "Cancelar",
     "ja": "キャンセル"
-  },
-  "setting_popup_4_3": {
-    "ko": "나가기",
-    "en": "Leave",
-    "zh": "离开",
-    "es": "Salir",
-    "ja": "退出"
-  },
-  "setting_1_label_8": {
-    "ko": "권한",
-    "en": "Permissions",
-    "zh": "权限",
-    "es": "Permisos",
-    "ja": "権限"
-  },
-  "setting_profile_2_title_1": {
-    "ko": "프로필 수정",
-    "en": "Edit Profile",
-    "zh": "编辑个人资料",
-    "es": "Editar perfil",
-    "ja": "プロフィールを編集"
-  },
-  "setting_profile_2_text_1": {
-    "ko": "부적절한 단어가 포함되어 있습니다.",
-    "en": "This nickname includes a banned word.",
-    "zh": "包含不适当的词语。",
-    "es": "Este apodo incluye una palabra prohibida.",
-    "ja": "不適切な単語が含まれています。"
-  },
-  "setting_popup_4_1": {
-    "ko": "저장하지 않고 창을 나가면\n프로필이 수정되지 않습니다.\n그래도 나갈까요?",
-    "en": "If you leave without saving,\nyour profile will not be modified.\nDo you still want to leave?",
-    "zh": "如果不保存就离开，\n您的个人资料将不会被修改。\n您还要离开吗？",
-    "es": "Si sales sin guardar,\ntu perfil no se modificará.\n¿Aún quieres salir?",
-    "ja": "保存せずに終了すると、\nプロフィールは変更されません。\nそれでも終了しますか？"
-  },
-  "setting_popup_3_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
-  },
-  "setting_profile_1_label_1": {
-    "ko": "닉네임",
-    "en": "Nickname",
-    "zh": "昵称",
-    "es": "Apodo",
-    "ja": "ニックネーム"
-  },
-  "setting_1_label_4": {
-    "ko": "구매",
-    "en": "Purchase",
-    "zh": "购买",
-    "es": "Compra",
-    "ja": "購入"
-  },
-  "setting_profile_1_label_4": {
-    "ko": "국적",
-    "en": "Country",
-    "zh": "国籍",
-    "es": "País",
-    "ja": "国籍"
-  },
-  "setting_1_label_16": {
-    "ko": "스포티파이 연동",
-    "en": "Access Spotify",
-    "zh": "连接 Spotify",
-    "es": "Acceder a Spotify",
-    "ja": "Spotify にアクセス"
-  },
-  "setting_1_label_12": {
-    "ko": "시스템",
-    "en": "System",
-    "zh": "系统",
-    "es": "Sistema",
-    "ja": "システム"
-  },
-  "setting_1_label_15": {
-    "ko": "개인정보 보호정책",
-    "en": "Privacy Policy",
-    "zh": "隐私政策",
-    "es": "Política de Privacidad",
-    "ja": "プライバシーポリシー"
   },
   "setting_1_label_14": {
     "ko": "이용 약관",
@@ -370,33 +202,117 @@
     "es": "Términos de Uso",
     "ja": "利用規約"
   },
-  "setting_popup_1_1": {
-    "ko": "알림을 켜면 아티스트가 메시지를 보냈을 때\n바로 알 수 있어요. 그래도 알림을 끌까요?",
-    "en": "\nIf you turn on notifications, you'll know right away when an artist sends you a message. Do you still want to turn off notifications?",
-    "zh": "如果您打开通知，当艺术家发送消息时，您会立即知道。您还想关闭通知吗？",
-    "es": "\nSi activas las notificaciones, sabrás de inmediato cuando un artista te envíe un mensaje. ¿Aún quieres desactivar las notificaciones?",
-    "ja": "通知をオンにすると、アーティストがメッセージを送信したときにすぐにわかります。それでも通知をオフにしますか？"
+  "setting_profile_1_label_4": {
+    "ko": "국적",
+    "en": "Country",
+    "zh": "国籍",
+    "es": "País",
+    "ja": "国籍"
   },
-  "setting_popup_7_1": {
-    "ko": "로그아웃 하시면 앱 시작 화면으로 되돌아갑니다. 로그아웃할까요?",
-    "en": "If you log out, you will return to the app start screen.\nAre you sure you want to sign out?",
-    "zh": "如果您注销，您将返回应用程序启动屏幕。\n您确定要注销吗？",
-    "es": "Si cierra sesión, volverá a la pantalla de inicio de la aplicación.\n¿Está seguro de que desea cerrar sesión?",
-    "ja": "ログアウトすると、アプリのスタート画面に戻ります。\n本当にログアウトしますか？"
+  "setting_profile_1_title_1": {
+    "ko": "프로필",
+    "en": "Profile",
+    "zh": "个人资料",
+    "es": "Perfil",
+    "ja": "プロフィール"
   },
-  "setting_popup_3_1": {
-    "ko": "음원 서비스 연동을 끄면\n음원을 미리 듣기 길이로만 들을 수 있어요.\n그래도 연동을 끌까요?",
-    "en": "If you disconnect Apple music, you can only listen to preview song.\nDo you still want to disconnect it?",
-    "zh": "如果您断开音乐服务，您只能听预览歌曲。\n您仍然要断开吗？",
-    "es": "Si desconectas Apple Music, solo podrás escuchar la canción de vista previa.\n¿Aún quieres desconectarlo?",
-    "ja": "音楽サービスの連携を解除すると、プレビュー曲しか聴けなくなります。\nそれでも連携を解除しますか？"
+  "setting_popup_1_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
   },
-  "setting_popup_2_1": {
-    "ko": "위치 정보가 있으면 아티스트가\n{artist_name}님이 계신 지역을 알 수 있어요.\n그래도 위치 정보를 끌까요?",
-    "en": "With location information, artists can know where you are located.\nDo you still want to turn off location information?",
-    "zh": "如果有位置信息，艺术家可以知道您所在的位置。\n您仍然想关闭位置信息吗？",
-    "es": "Con la información de ubicación, los artistas pueden saber dónde te encuentras.\n¿Aún quieres desactivar la información de ubicación?",
-    "ja": "位置情報があれば、アーティストはあなたがどこにいるかを知ることができます。\nそれでも位置情報をオフにしますか？"
+  "setting_popup_3_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "setting_popup_3_3": {
+    "ko": "허용 해제",
+    "en": "Disconnect",
+    "zh": "断开连接",
+    "es": "Desconectar",
+    "ja": "接続解除"
+  },
+  "settings_system_permission_error_3": {
+    "ko": "위치 권한 요청 중 오류가 발생했습니다.",
+    "en": "An error occurred while requesting location permission.",
+    "zh": "请求位置权限时发生错误。",
+    "es": "Se produjo un error al solicitar el permiso de ubicación.",
+    "ja": "位置情報の許可をリクエスト中にエラーが発生しました。"
+  },
+  "setting_profile_1_cta_2": {
+    "ko": "회원 탈퇴",
+    "en": "Delete Account",
+    "zh": "会员退出",
+    "es": "Eliminar cuenta",
+    "ja": "アカウントを削除"
+  },
+  "setting_history_title_1": {
+    "ko": "구매 이력",
+    "en": "Purchase History",
+    "zh": "购买记录",
+    "es": "Historial de Compras",
+    "ja": "購入履歴"
+  },
+  "setting_profile_1_label_3": {
+    "ko": "생년월일",
+    "en": "Date of Birth",
+    "zh": "出生日期",
+    "es": "Fecha de Nacimiento",
+    "ja": "生年月日"
+  },
+  "setting_1_label_13": {
+    "ko": "앱 버전",
+    "en": "App Version",
+    "zh": "应用版本",
+    "es": "Versión de la aplicación",
+    "ja": "アプリバージョン"
+  },
+  "setting_profile_toast_1": {
+    "ko": "프로필 수정을 완료했어요.",
+    "en": "Profile edited",
+    "zh": "已完成个人资料编辑。",
+    "es": "Perfil editado",
+    "ja": "プロフィールの編集が完了しました。"
+  },
+  "setting_popup_2_3": {
+    "ko": "허용 해제",
+    "en": "Do Not Allow",
+    "zh": "不允许",
+    "es": "No Permitir",
+    "ja": "許可しない"
+  },
+  "setting_1_label_11": {
+    "ko": "애플 뮤직 연동",
+    "en": "Access Apple Music",
+    "zh": "访问 Apple Music",
+    "es": "Acceder a Apple Music",
+    "ja": "Apple Music にアクセス"
+  },
+  "setting_profile_1_cta_1": {
+    "ko": "로그아웃",
+    "en": "Sign Out",
+    "zh": "登出",
+    "es": "Cerrar sesión",
+    "ja": "ログアウト"
+  },
+  "settings_system_permission_error_2": {
+    "ko": "위치 권한이 차단되었습니다. 설정에서 활성화해 주세요.",
+    "en": "Location permission is blocked. Please enable it in settings.",
+    "zh": "位置权限被阻止。请在设置中启用它。",
+    "es": "El permiso de ubicación está bloqueado. Por favor, actívalo en la configuración.",
+    "ja": "位置情報の許可がブロックされています。設定で有効にしてください。"
+  },
+  "setting_profile_1_label_5": {
+    "ko": "성별",
+    "en": "Gender",
+    "zh": "性别",
+    "es": "Género",
+    "ja": "性別"
   },
   "setting_profile_3_text_2": {
     "ko": "위 약관과 회원 탈퇴에 동의합니다.",
@@ -405,11 +321,172 @@
     "es": "He leído lo anterior y acepto eliminar mi cuenta (Requerido).",
     "ja": "上記を読み、アカウントの削除に同意します（必須）。"
   },
+  "setting_profile_1_label_1": {
+    "ko": "닉네임",
+    "en": "Nickname",
+    "zh": "昵称",
+    "es": "Apodo",
+    "ja": "ニックネーム"
+  },
+  "setting_1_label_2": {
+    "ko": "프로필",
+    "en": "Profile",
+    "zh": "个人资料",
+    "es": "Perfil",
+    "ja": "プロフィール"
+  },
+  "setting_1_label_9": {
+    "ko": "푸시 알림",
+    "en": "Push Notifications",
+    "zh": "推送通知",
+    "es": "Notificaciones Push",
+    "ja": "プッシュ通知"
+  },
+  "setting_profile_3_cta_1": {
+    "ko": "회원 탈퇴",
+    "en": "Delete Account",
+    "zh": "会员退出",
+    "es": "Eliminar cuenta",
+    "ja": "会員退会"
+  },
+  "setting_popup_4_1": {
+    "ko": "저장하지 않고 창을 나가면\n프로필이 수정되지 않습니다.\n그래도 나갈까요?",
+    "en": "If you leave without saving,\nyour profile will not be modified.\nDo you still want to leave?",
+    "zh": "如果不保存就离开，\n您的个人资料将不会被修改。\n您还要离开吗？",
+    "es": "Si sales sin guardar,\ntu perfil no se modificará.\n¿Aún quieres salir?",
+    "ja": "保存せずに終了すると、\nプロフィールは変更されません。\nそれでも終了しますか？"
+  },
+  "setting_popup_1_3": {
+    "ko": "허용 해제",
+    "en": "Do Not Allow",
+    "zh": "허용 해제",
+    "es": "No Permitir",
+    "ja": "許可しない"
+  },
+  "setting_popup_7_1": {
+    "ko": "로그아웃 하시면 앱 시작 화면으로 되돌아갑니다. 로그아웃할까요?",
+    "en": "If you log out, you will return to the app start screen.\nAre you sure you want to sign out?",
+    "zh": "如果您注销，您将返回应用程序启动屏幕。您确定要注销吗？",
+    "es": "Si cierra sesión, volverá a la pantalla de inicio de la aplicación.\n¿Está seguro de que desea cerrar sesión?",
+    "ja": "ログアウトすると、アプリのスタート画面に戻ります。ログアウトしてもよろしいですか？"
+  },
+  "setting_popup_5_1": {
+    "ko": "이용 중인 상품이 있습니다.\n이용 기간 만료 후에 다시 시도해 주세요",
+    "en": "There is a product in use.\nPlease try again after the expiration of the usage period.",
+    "zh": "有正在使用的产品。\n请在使用期满后再试。",
+    "es": "Hay un producto en uso.\nPor favor, inténtelo de nuevo después de la expiración del período de uso.",
+    "ja": "使用中の製品があります。\n使用期間が終了した後に再試行してください。"
+  },
+  "setting_popup_3_1": {
+    "ko": "음원 서비스 연동을 끄면\n음원을 미리 듣기 길이로만 들을 수 있어요.\n그래도 연동을 끌까요?",
+    "en": "If you disconnect Apple music, you can only listen to preview song.\nDo you still want to disconnect it?",
+    "zh": "如果您断开音乐服务，您只能听到预览长度的音乐。\n您仍然要断开连接吗？",
+    "es": "Si desconectas Apple Music, solo podrás escuchar la canción de vista previa.\n¿Aún quieres desconectarlo?",
+    "ja": "音楽サービスの連携を解除すると、プレビューの長さでしか音楽を聴けません。\nそれでも連携を解除しますか？"
+  },
+  "setting_1_label_7": {
+    "ko": "구매 약관",
+    "en": "Terms of Purchase",
+    "zh": "购买条款",
+    "es": "Términos de Compra",
+    "ja": "購入条件"
+  },
+  "setting_profile_1_label_2": {
+    "ko": "전화번호",
+    "en": "Mobile",
+    "zh": "电话号码",
+    "es": "Móvil",
+    "ja": "電話番号"
+  },
+  "setting_1_label_6": {
+    "ko": "구매 이력",
+    "en": "Purchase History",
+    "zh": "购买历史",
+    "es": "Historial de Compras",
+    "ja": "購入履歴"
+  },
+  "setting_1_label_15": {
+    "ko": "개인정보 보호정책",
+    "en": "Privacy Policy",
+    "zh": "隐私政策",
+    "es": "Política de Privacidad",
+    "ja": "プライバシーポリシー"
+  },
+  "premission_none_library": {
+    "ko": "라이브러리 사용권한이 없습니다. 설정에서 권한을 허용해주세요",
+    "en": "You do not have permission to use the library. Please allow permission in the settings.",
+    "zh": "您没有使用图书馆的权限。请在设置中允许权限。",
+    "es": "No tienes permiso para usar la biblioteca. Por favor, permite el permiso en la configuración.",
+    "ja": "ライブラリを使用する権限がありません。設定で権限を許可してください。"
+  },
   "setting_1_label_3": {
     "ko": "공지",
     "en": "Notice",
     "zh": "公告",
     "es": "Aviso",
     "ja": "通知"
+  },
+  "setting_1_label_8": {
+    "ko": "권한",
+    "en": "Permissions",
+    "zh": "权限",
+    "es": "Permisos",
+    "ja": "権限"
+  },
+  "setting_1_label_4": {
+    "ko": "구매",
+    "en": "Purchase",
+    "zh": "购买",
+    "es": "Compra",
+    "ja": "購入"
+  },
+  "setting_1_label_1": {
+    "ko": "일반",
+    "en": "General",
+    "zh": "一般",
+    "es": "General",
+    "ja": "一般"
+  },
+  "setting_1_label_5": {
+    "ko": "구매 복원",
+    "en": "Restore Purchase",
+    "zh": "恢复购买",
+    "es": "Restaurar compra",
+    "ja": "購入を復元"
+  },
+  "setting_1_label_16": {
+    "ko": "스포티파이 연동",
+    "en": "Access Spotify",
+    "zh": "连接 Spotify",
+    "es": "Acceder a Spotify",
+    "ja": "Spotify に接続"
+  },
+  "setting_popup_1_1": {
+    "ko": "알림을 켜면 아티스트가 메시지를 보냈을 때\n바로 알 수 있어요. 그래도 알림을 끌까요?",
+    "en": "\nIf you turn on notifications, you'll know right away when an artist sends you a message. Do you still want to turn off notifications?",
+    "zh": "如果您打开通知，当艺术家发送消息时，您会立即知道。您还想关闭通知吗？",
+    "es": "\nSi activas las notificaciones, sabrás de inmediato cuando un artista te envíe un mensaje. ¿Aún quieres desactivar las notificaciones?",
+    "ja": "通知をオンにすると、アーティストがメッセージを送信したときにすぐにわかります。それでも通知をオフにしますか？"
+  },
+  "setting_1_title_1": {
+    "ko": "설정",
+    "en": "Settings",
+    "zh": "设置",
+    "es": "Configuraciones",
+    "ja": "設定"
+  },
+  "setting_popup_2_1": {
+    "ko": "위치 정보가 있으면 아티스트가\n{artist_name}님이 계신 지역을 알 수 있어요.\n그래도 위치 정보를 끌까요?",
+    "en": "With location information, artists can know where you are located.\nDo you still want to turn off location information?",
+    "zh": "如果有位置信息，艺术家可以知道您所在的位置。\n您仍然想关闭位置信息吗？",
+    "es": "Con la información de ubicación, los artistas pueden saber dónde te encuentras.\n¿Aún quieres desactivar la información de ubicación?",
+    "ja": "位置情報があれば、アーティストはあなたがどこにいるかを知ることができます。\nそれでも位置情報をオフにしますか？"
+  },
+  "apple_music_error_text1": {
+    "ko": "애플 뮤직을 사용할 수 없습니다. 애플뮤직 앱이 설치되었는지 확인해보세요.",
+    "en": "Apple Music is not available. Please check if the Apple Music app is installed.",
+    "zh": "无法使用Apple Music。请检查是否已安装Apple Music应用程序。",
+    "es": "Apple Music no está disponible. Por favor, verifica si la aplicación Apple Music está instalada.",
+    "ja": "Apple Musicを使用できません。Apple Musicアプリがインストールされているか確認してください。"
   }
 }
