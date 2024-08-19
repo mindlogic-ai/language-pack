@@ -208,5 +208,19 @@
     "zh": "验证码错误。\n请重新确认验证码或{signup_2_link_text_1}。",
     "es": "Código incorrecto.\nPor favor, inténtelo de nuevo o {signup_2_link_text_1}.",
     "ja": "認証コードが間違っています。\n認証コードを再確認するか、{signup_2_link_text_1}してください。"
+  },
+  "signup_3_error_text_2": {
+    "ko": "이용약관 및 개인정보 보호정책에 동의해야 진행이 가능합니다",
+    "en": "You must agree to terms of use and privacy policy.",
+    "zh": "您必须同意使用条款和隐私政策才能继续。",
+    "es": "Debe aceptar los términos de uso y la política de privacidad.",
+    "ja": "利用規約とプライバシーポリシーに同意する必要があります。"
+  },
+  "signup_3_error_text_3": {
+    "ko": "전화번호 인증이 필요합니다. 인증 후에 시도해주세요.",
+    "en": "You must verify your contact. Please try again after you verify yours.",
+    "zh": "需要验证您的电话号码。请在验证后再试。",
+    "es": "Debe verificar su contacto. Inténtelo de nuevo después de verificarlo.",
+    "ja": "電話番号の認証が必要です。認証後に再試行してください。"
   }
 }

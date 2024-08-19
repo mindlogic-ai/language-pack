@@ -488,5 +488,33 @@
     "zh": "无法使用Apple Music。请检查是否已安装Apple Music应用程序。",
     "es": "Apple Music no está disponible. Por favor, verifica si la aplicación Apple Music está instalada.",
     "ja": "Apple Musicを使用できません。Apple Musicアプリがインストールされているか確認してください。"
+  },
+  "settings_system_permission_alert_title_2": {
+    "ko": "푸시 알림",
+    "en": "Push Notifications",
+    "zh": "推送通知",
+    "es": "Notificaciones Push",
+    "ja": "プッシュ通知"
+  },
+  "undefined": {
+    "ko": "더 보기",
+    "en": "Load More",
+    "zh": "查看更多",
+    "es": "Cargar más",
+    "ja": "もっと読み込む"
+  },
+  "settings_system_permission_error_4": {
+    "ko": "알림 권한 요청 중 오류가 발생했습니다.",
+    "en": "An error occurred while requesting notifications permission.",
+    "zh": "请求通知权限时发生错误。",
+    "es": "Se produjo un error al solicitar el permiso de notificaciones.",
+    "ja": "通知の許可をリクエスト中にエラーが発生しました。"
+  },
+  "settings_system_permission_error_5": {
+    "ko": "알림 권한이 차단되었습니다. 설정에서 활성화해 주세요.",
+    "en": "Notifications permission is blocked. Please enable it in settings.",
+    "zh": "通知权限被阻止。请在设置中启用。",
+    "es": "El permiso de notificaciones está bloqueado. Por favor, actívalo en la configuración.",
+    "ja": "通知の許可がブロックされています。設定で有効にしてください。"
   }
 }

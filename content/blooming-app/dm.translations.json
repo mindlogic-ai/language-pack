@@ -83,6 +83,13 @@
     "es": "Guardar",
     "ja": "保存"
   },
+  "dm_edit_reminder_text_11": {
+    "ko": "없음",
+    "en": "Never",
+    "zh": "没有",
+    "es": "Nunca",
+    "ja": "なし"
+  },
   "dm_1_cta_1": {
     "ko": "친구 추가",
     "en": "Add Friend",
