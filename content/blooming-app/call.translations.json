@@ -75,5 +75,40 @@
     "zh": "每分钟通话将消耗10条消息。",
     "es": "Se utilizarán 10 mensajes por minuto de llamada.",
     "ja": "通話1分あたり10メッセージが消費されます。"
+  },
+  "call_popup_2_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "call_popup_3_3": {
+    "ko": "허용",
+    "en": "Allow",
+    "zh": "允许",
+    "es": "Permitir",
+    "ja": "許可"
+  },
+  "call_popup_2_3": {
+    "ko": "허용",
+    "en": "Allow",
+    "zh": "允许",
+    "es": "Permitir",
+    "ja": "許可"
+  },
+  "call_popup_3_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "call_popup_2_1": {
+    "ko": "음성 통화를 위해 블루밍이 마이크에 접근하도록 허용해주세요.",
+    "en": "Please allow Blooming to access your microphone for voice calls.",
+    "zh": "请允许 Blooming 访问您的麦克风以进行语音通话。",
+    "es": "Por favor, permita que Blooming acceda a su micrófono para llamadas de voz.",
+    "ja": "音声通話のために、Bloomingがマイクにアクセスすることを許可してください。"
   }
 }

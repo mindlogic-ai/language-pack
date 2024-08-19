@@ -516,5 +516,19 @@
     "zh": "通知权限被阻止。请在设置中启用。",
     "es": "El permiso de notificaciones está bloqueado. Por favor, actívalo en la configuración.",
     "ja": "通知の許可がブロックされています。設定で有効にしてください。"
+  },
+  "setting_purchase_history_text1": {
+    "ko": "더 보기",
+    "en": "Load More",
+    "zh": "查看更多",
+    "es": "Cargar más",
+    "ja": "もっと読み込む"
+  },
+  "permission_none_library": {
+    "ko": "라이브러리 사용권한이 없습니다. 설정에서 권한을 허용해주세요",
+    "en": "You do not have permission to use the library. Please allow permission in the settings.",
+    "zh": "您没有使用图书馆的权限。请在设置中允许权限。",
+    "es": "No tienes permiso para usar la biblioteca. Por favor, permite el permiso en la configuración.",
+    "ja": "ライブラリを使用する権限がありません。設定で権限を許可してください。"
   }
 }
