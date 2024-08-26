@@ -159,5 +159,33 @@
     "zh": "以后",
     "es": "Algún día",
     "ja": "いつか"
+  },
+  "diary_2_label_5": {
+    "ko": "지난 일정",
+    "en": "Previous schedule",
+    "zh": "上一个日程",
+    "es": "Horario anterior",
+    "ja": "前のスケジュール"
+  },
+  "diary_2_popup_1_4": {
+    "ko": "일정이 추가되었습니다.",
+    "en": "The schedule has been added.",
+    "zh": "日程已添加。",
+    "es": "El horario ha sido añadido.",
+    "ja": "スケジュールが追加されました。"
+  },
+  "diary_2_popup_1_6": {
+    "ko": "일정이 삭제되었습니다.",
+    "en": "The schedule has been deleted.",
+    "zh": "日程已被删除。",
+    "es": "El horario ha sido eliminado.",
+    "ja": "スケジュールが削除されました。"
+  },
+  "diary_2_popup_1_5": {
+    "ko": "일정이 수정되었습니다.",
+    "en": "The schedule has been modified.",
+    "zh": "日程已被修改。",
+    "es": "El horario ha sido modificado.",
+    "ja": "スケジュールが変更されました。"
   }
 }

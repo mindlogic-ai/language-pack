@@ -152,5 +152,40 @@
     "zh": "您确定要删除韩语问候吗？删除后将无法恢复。",
     "es": "¿Estás seguro de que quieres eliminar el 'saludo en coreano'?\nEsta acción no se puede deshacer.",
     "ja": "韓国語の挨拶を削除しますか？削除後は元に戻せません。"
+  },
+  "Me_2_label_6": {
+    "ko": "인사말 설정",
+    "en": "Add Greeting",
+    "zh": "设置问候语",
+    "es": "Agregar saludo",
+    "ja": "挨拶を設定"
+  },
+  "Me_2_label_4": {
+    "ko": "인사말 수정",
+    "en": "Edit Greetings",
+    "zh": "编辑问候语",
+    "es": "Editar saludos",
+    "ja": "挨拶を編集"
+  },
+  "Me_2_label_5": {
+    "ko": "기본 인사말로 설정",
+    "en": "Set as default greeting",
+    "zh": "设置为默认问候语",
+    "es": "Establecer como saludo predeterminado",
+    "ja": "デフォルトの挨拶として設定"
+  },
+  "Me_2_label_3": {
+    "ko": "프로필 수정",
+    "en": "Edit Profile",
+    "zh": "编辑资料",
+    "es": "Editar perfil",
+    "ja": "プロフィールを編集"
+  },
+  "Me_2_label_7": {
+    "ko": "추가되지 않은 언어로 대화가 시작되면,\n이 언어의 인사말이 사용됩니다.",
+    "en": "If a conversation starts in a language that is not added,\nthe greeting in that language will be used.",
+    "zh": "如果以未添加的语言开始对话，\n将使用该语言的问候语。",
+    "es": "Si una conversación comienza en un idioma que no está agregado,\nse usará el saludo en ese idioma.",
+    "ja": "追加されていない言語で会話が始まると、\nその言語の挨拶が使用されます。"
   }
 }
