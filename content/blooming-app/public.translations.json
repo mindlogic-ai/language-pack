@@ -6,47 +6,12 @@
     "es": "",
     "ja": ""
   },
-  "heart_level_1": {
-    "ko": "블루 하트",
-    "en": "blue heart",
-    "zh": "蓝爱心",
-    "es": "corazón azul",
-    "ja": "青いハート"
-  },
-  "heart_level_2": {
-    "ko": "퍼플 하트",
-    "en": "purple heart",
-    "zh": "紫爱心",
-    "es": "corazón púrpura",
-    "ja": "パープルハート"
-  },
-  "common_api_error_2": {
-    "ko": "네트워크 상태가 좋지 않습니다.",
-    "en": "The network connection is unstable.",
-    "zh": "网络连接不稳定。",
-    "es": "La conexión de red es inestable.",
-    "ja": "ネットワーク接続が不安定です。"
-  },
   "terms_of_use": {
     "ko": "이용 약관",
     "en": "Terms of Use",
     "zh": "使用条款",
     "es": "Términos de Uso",
     "ja": "利用規約"
-  },
-  "common_api_error_1": {
-    "ko": "알 수 없는 오류",
-    "en": "An unexpected error occurred.",
-    "zh": "未知错误",
-    "es": "Ocurrió un error inesperado.",
-    "ja": "不明なエラーが発生しました。"
-  },
-  "common_api_error_3": {
-    "ko": "메세지 전송에 실패했습니다.",
-    "en": "Failed to send the message.",
-    "zh": "消息发送失败。",
-    "es": "No se pudo enviar el mensaje.",
-    "ja": "メッセージの送信に失敗しました。"
   },
   "error": {
     "ko": "에러",
@@ -55,12 +20,12 @@
     "es": "Error",
     "ja": "エラー"
   },
-  "common_api_error_4": {
-    "ko": "알 수 없는 오류가 발생했습니다. 잠시 후 다시 시도해주세요.",
-    "en": "An unexpected error occurred. Please try again later.",
-    "zh": "发生未知错误。请稍后再试。",
-    "es": "Ocurrió un error inesperado. Por favor, inténtelo de nuevo más tarde.",
-    "ja": "不明なエラーが発生しました。しばらくしてからもう一度お試しください。"
+  "heart_level_1": {
+    "ko": "블루 하트",
+    "en": "blue heart",
+    "zh": "蓝爱心",
+    "es": "corazón azul",
+    "ja": "青いハート"
   },
   "privacy_policy": {
     "ko": "개인정보 보호정책",
@@ -72,8 +37,43 @@
   "heart_level_0": {
     "ko": "화이트 하트",
     "en": "white heart",
-    "zh": "白色心",
+    "zh": "白爱心",
     "es": "corazón blanco",
-    "ja": "ホワイトハート"
+    "ja": "白いハート"
+  },
+  "common_api_error_1": {
+    "ko": "알 수 없는 오류",
+    "en": "An unexpected error occurred.",
+    "zh": "未知错误",
+    "es": "Ocurrió un error inesperado.",
+    "ja": "不明なエラーが発生しました。"
+  },
+  "common_api_error_2": {
+    "ko": "네트워크 상태가 좋지 않습니다.",
+    "en": "The network connection is unstable.",
+    "zh": "网络连接不稳定。",
+    "es": "La conexión de red es inestable.",
+    "ja": "ネットワーク接続が不安定です。"
+  },
+  "common_api_error_3": {
+    "ko": "메세지 전송에 실패했습니다.",
+    "en": "Failed to send the message.",
+    "zh": "消息发送失败。",
+    "es": "No se pudo enviar el mensaje.",
+    "ja": "メッセージの送信に失敗しました。"
+  },
+  "common_api_error_4": {
+    "ko": "알 수 없는 오류가 발생했습니다. 잠시 후 다시 시도해주세요.",
+    "en": "An unexpected error occurred. Please try again later.",
+    "zh": "发生未知错误。请稍后再试。",
+    "es": "Ocurrió un error inesperado. Por favor, inténtelo de nuevo más tarde.",
+    "ja": "不明なエラーが発生しました。しばらくしてからもう一度お試しください。"
+  },
+  "heart_level_2": {
+    "ko": "퍼플 하트",
+    "en": "purple heart",
+    "zh": "퍼플 하트",
+    "es": "purple heart",
+    "ja": "퍼플 하트"
   }
 }

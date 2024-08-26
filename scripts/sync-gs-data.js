@@ -12,11 +12,26 @@ const auth = new google.auth.GoogleAuth({
   scopes: ["https://www.googleapis.com/auth/spreadsheets.readonly"],
 });
 
+const snakeCase = string => {
+  return (string ?? "").replace(/\W+/g, " ")
+    .split(/ |\B(?=[A-Z])/)
+    .map(word => word.toLowerCase())
+    .join('_');
+};
+
 // Create a Sheets API client
 const sheets = google.sheets({ version: "v4", auth });
 
 // The ID of the spreadsheet and the range of cells to read
-const spreadsheetId = "1kqiRVv8ctThKi6pAI4VfCc8AhPRz1Xjmfy423vwOOp8";
+const spreadsheetIds = [{
+  id: "1kqiRVv8ctThKi6pAI4VfCc8AhPRz1Xjmfy423vwOOp8",
+  name: 'blooming-app'
+},
+{
+  id: "1UOuuYqVb62m1OLlEKUsu-7XZOeo-ebUyS1lpO2PRVvY",
+  name: 'blooming-artist-app'
+},
+]
 const range = "화면";
 
 const columnMappings = {
@@ -38,7 +53,7 @@ const processGoogleSheetText = (text) => {
     .join("\n");
 };
 
-const fetchGoogleSheetData = async () => {
+const fetchGoogleSheetData = async (spreadsheetId, folderName) => {
   const response = await sheets.spreadsheets.values.get({
     spreadsheetId,
     range,
@@ -60,7 +75,7 @@ const fetchGoogleSheetData = async () => {
         const cellValue = row[colIndex - 1] || undefined; // Adjust for 0-based index
 
         if (columnName === "pageName") {
-          pageName = cellValue;
+          pageName = snakeCase(cellValue);
         } else {
           rowData[columnName] = cellValue;
         }
@@ -81,7 +96,7 @@ const fetchGoogleSheetData = async () => {
 
     console.log("DATA", data);
 
-    const dir = path.resolve(__dirname, "../content/blooming-app");
+    const dir = path.resolve(__dirname, `../content/${folderName}`);
     if (!fs.existsSync(dir)) {
       fs.mkdirSync(dir, { recursive: true });
     }
@@ -112,4 +127,6 @@ const fetchGoogleSheetData = async () => {
   }
 };
 
-fetchGoogleSheetData();
+spreadsheetIds.forEach(({ id, name }) => {
+  fetchGoogleSheetData(id, name);
+})

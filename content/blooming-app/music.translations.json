@@ -1,12 +1,33 @@
 {
-  "music_popup_2_3": {
-    "ko": "허용",
-    "en": "Allow",
-    "zh": "允许",
-    "es": "Permitir",
-    "ja": "許可"
+  "music_popup_2_1": {
+    "ko": "아티스트와 노래를 재생하면서 소통하도록 블루밍이 애플뮤직에 접근하도록 허용해주세요.",
+    "en": "Please allow Blooming access to Apple Music to communicate with artists with playing songs.",
+    "zh": "请允许 Blooming 访问 Apple Music 以便在播放歌曲时与艺术家交流。",
+    "es": "Por favor, permita que Blooming acceda a Apple Music para comunicarse con los artistas mientras reproduce canciones.",
+    "ja": "アーティストと曲を再生しながらコミュニケーションできるように、BloomingがApple Musicにアクセスすることを許可してください。"
   },
-  "music_popup_3_3": {
+  "music_popup_2_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "music_popup_1_2": {
+    "ko": "삭제",
+    "en": "Delete",
+    "zh": "删除",
+    "es": "Eliminar",
+    "ja": "削除"
+  },
+  "music_onboarding_text_1": {
+    "ko": "요즘 무슨 노래 제일 많이 들어?",
+    "en": "What have you been listening to?",
+    "zh": "最近你听什么歌最多？",
+    "es": "¿Qué has estado escuchando?",
+    "ja": "最近どんな曲を一番聴いているの？"
+  },
+  "music_popup_2_3": {
     "ko": "허용",
     "en": "Allow",
     "zh": "允许",
@@ -18,35 +39,28 @@
     "en": "Listen to full song",
     "zh": "使用完整音源",
     "es": "Escuchar la canción completa",
-    "ja": "全曲を聴く"
-  },
-  "music_popup_1_3": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
+    "ja": "全体音源を使用"
   },
   "music_toast_1": {
     "ko": "제목과 함께 음악을 요청해 보세요.",
     "en": "Request a song from the artist!",
-    "zh": "请用标题请求音乐。",
+    "zh": "请向艺术家请求一首歌！",
     "es": "¡Solicita una canción del artista!",
-    "ja": "タイトルと一緒に音楽をリクエストしてください。"
+    "ja": "アーティストに曲をリクエストしてください！"
   },
-  "music_popup_3_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
+  "music_toast_2": {
+    "ko": "Apple Music {folderWithartist_name}에\n폴더를 추가했어요.",
+    "en": "{folderWithartist_name} folder has been added in Apple Music.",
+    "zh": "已在 Apple Music 中添加 {folderWithartist_name} 文件夹。",
+    "es": "La carpeta {folderWithartist_name} se ha añadido en Apple Music.",
+    "ja": "Apple Music に {folderWithartist_name} フォルダーが追加されました。"
   },
-  "music_popup_2_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
+  "music_popup_3_3": {
+    "ko": "허용",
+    "en": "Allow",
+    "zh": "允许",
+    "es": "Permitir",
+    "ja": "許可"
   },
   "music_title_1": {
     "ko": "{artist_name}과 함께 들은 노래",
@@ -55,33 +69,12 @@
     "es": "Lista de reproducción con {artist_name}",
     "ja": "{artist_name}と一緒に聴いた曲"
   },
-  "music_toast_2": {
-    "ko": "Apple Music {folderWithartist_name}에\n폴더를 추가했어요.",
-    "en": "{folderWithartist_name} folder has been added in Apple Music.",
-    "zh": "已在 Apple Music 中添加 {folderWithartist_name} 文件夹。",
-    "es": "La carpeta {folderWithartist_name} se ha añadido en Apple Music.",
-    "ja": "Apple Music に {folderWithartist_name} フォルダが追加されました。"
-  },
-  "music_popup_1_2": {
-    "ko": "삭제",
-    "en": "Delete",
-    "zh": "删除",
-    "es": "Eliminar",
-    "ja": "削除"
-  },
-  "music_text_1": {
-    "ko": "미리듣기 음원 사용 중",
-    "en": "Preview song",
-    "zh": "正在使用预览歌曲",
-    "es": "Canción de vista previa",
-    "ja": "プレビュー曲を使用中"
-  },
-  "music_popup_1_1": {
-    "ko": "{song_name}을 목록에서 삭제할까요? 삭제하면 실행취소할 수 없습니다.",
-    "en": "Are you sure you want to delete\n{song_name} from your playlist?\nThis action cannot be undone.",
-    "zh": "您确定要从播放列表中删除{song_name}吗？删除后无法撤销。",
-    "es": "¿Estás seguro de que quieres eliminar\n{song_name} de tu lista de reproducción?\nEsta acción no se puede deshacer.",
-    "ja": "{song_name}をプレイリストから削除しますか？削除すると元に戻せません。"
+  "music_popup_1_3": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
   },
   "music_onboarding_title_1": {
     "ko": "같이 들은 음악🎵",
@@ -90,13 +83,6 @@
     "es": "Música que escuchamos juntos🎵",
     "ja": "一緒に聴いた音楽🎵"
   },
-  "music_popup_3_1": {
-    "ko": "아티스트와 노래를 재생하면서 소통하도록 블루밍이 스포티파이에 접근하도록 허용해주세요.",
-    "en": "Please allow Blooming access to Spotify to communicate with artists with playing songs.",
-    "zh": "请允许 Blooming 访问 Spotify 以在播放歌曲时与艺术家交流。",
-    "es": "Por favor, permita que Blooming acceda a Spotify para comunicarse con los artistas mientras reproduce canciones.",
-    "ja": "アーティストと曲を再生しながらコミュニケーションできるように、BloomingがSpotifyにアクセスすることを許可してください。"
-  },
   "music_onboarding_cta_1_2": {
     "ko": "Apple Music 연동",
     "en": "Connect to Spotify",
@@ -104,12 +90,33 @@
     "es": "Conectar a Spotify",
     "ja": "Apple Music 連携"
   },
-  "music_popup_2_1": {
-    "ko": "아티스트와 노래를 재생하면서 소통하도록 블루밍이 애플뮤직에 접근하도록 허용해주세요.",
-    "en": "Please allow Blooming access to Apple Music to communicate with artists with playing songs.",
-    "zh": "请允许 Blooming 访问 Apple Music 以便在播放歌曲时与艺术家交流。",
-    "es": "Por favor, permita que Blooming acceda a Apple Music para comunicarse con los artistas mientras reproduce canciones.",
-    "ja": "アーティストと曲を再生しながらコミュニケーションできるように、BloomingがApple Musicにアクセスすることを許可してください。"
+  "music_onboarding_text_4": {
+    "ko": "아티스트와 음악으로 소통해 보세요.\n음악을 틀어달라고 하거나 같이 들을 수 있어요.",
+    "en": "Talk about your favorite music with your artist.\nYou can ask the artist to play a song",
+    "zh": "与艺术家通过音乐交流。\n你可以要求艺术家播放音乐或一起听。",
+    "es": "Habla sobre tu música favorita con tu artista.\nPuedes pedirle al artista que toque una canción",
+    "ja": "アーティストと音楽でコミュニケーションをとりましょう。\n音楽をかけてもらったり、一緒に聴いたりできます。"
+  },
+  "music_popup_3_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "music_onboarding_text_2": {
+    "ko": "요즘은 이 노래가 내 플리 1번이야!",
+    "en": "I've been hooked on this song recently",
+    "zh": "最近这首歌是我播放列表的第一首！",
+    "es": "Recientemente me he enganchado a esta canción",
+    "ja": "最近この曲にハマっているんだ"
+  },
+  "music_cta_2": {
+    "ko": "Spotify 연동",
+    "en": "Connect Spotify",
+    "zh": "连接 Spotify",
+    "es": "Conectar Spotify",
+    "ja": "Spotify を接続"
   },
   "music_onboarding_text_3": {
     "ko": "같이 들을까?",
@@ -125,39 +132,32 @@
     "es": "Conectar Apple Music",
     "ja": "Apple Music を接続"
   },
-  "music_onboarding_text_1": {
-    "ko": "요즘 무슨 노래 제일 많이 들어?",
-    "en": "What have you been listening to?",
-    "zh": "最近你听什么歌最多？",
-    "es": "¿Qué has estado escuchando?",
-    "ja": "最近どんな歌を一番聴いているの？"
-  },
-  "music_cta_2": {
-    "ko": "Spotify 연동",
-    "en": "Connect Spotify",
-    "zh": "连接Spotify",
-    "es": "Conectar Spotify",
-    "ja": "Spotifyを接続"
-  },
-  "music_onboarding_text_2": {
-    "ko": "요즘은 이 노래가 내 플리 1번이야!",
-    "en": "I've been hooked on this song recently",
-    "zh": "最近这首歌是我播放列表的第一首！",
-    "es": "¡He estado enganchado a esta canción recientemente!",
-    "ja": "最近この曲にハマっているんだ！"
-  },
-  "music_onboarding_text_4": {
-    "ko": "아티스트와 음악으로 소통해 보세요.\n음악을 틀어달라고 하거나 같이 들을 수 있어요.",
-    "en": "Talk about your favorite music with your artist.\nYou can ask the artist to play a song",
-    "zh": "与艺术家通过音乐交流。\n你可以让艺术家播放音乐或一起听。",
-    "es": "Habla sobre tu música favorita con tu artista.\nPuedes pedirle al artista que toque una canción",
-    "ja": "アーティストと音楽でコミュニケーションをとりましょう。\n音楽をかけてもらったり、一緒に聴いたりできます。"
+  "music_popup_3_1": {
+    "ko": "아티스트와 노래를 재생하면서 소통하도록 블루밍이 스포티파이에 접근하도록 허용해주세요.",
+    "en": "Please allow Blooming access to Spotify to communicate with artists with playing songs.",
+    "zh": "请允许 Blooming 访问 Spotify 以在播放歌曲时与艺术家交流。",
+    "es": "Por favor, permita que Blooming acceda a Spotify para comunicarse con los artistas mientras reproduce canciones.",
+    "ja": "アーティストと曲を再生しながらコミュニケーションできるように、BloomingがSpotifyにアクセスすることを許可してください。"
   },
   "music_onboarding_cta_2": {
     "ko": "미리듣기 음원 사용",
     "en": "Listen to song preview",
     "zh": "使用试听音源",
-    "es": "Escuchar la vista previa de la canción",
+    "es": "Escuchar vista previa de la canción",
     "ja": "試聴音源を使用"
+  },
+  "music_text_1": {
+    "ko": "미리듣기 음원 사용 중",
+    "en": "Preview song",
+    "zh": "正在使用预览歌曲",
+    "es": "Canción de vista previa",
+    "ja": "プレビュー曲を使用中"
+  },
+  "music_popup_1_1": {
+    "ko": "{song_name}을 목록에서 삭제할까요? 삭제하면 실행취소할 수 없습니다.",
+    "en": "Are you sure you want to delete\n{song_name} from your playlist?\nThis action cannot be undone.",
+    "zh": "您确定要从播放列表中删除{song_name}吗？删除后无法撤销。",
+    "es": "¿Estás seguro de que quieres eliminar\n{song_name} de tu lista de reproducción?\nEsta acción no se puede deshacer.",
+    "ja": "{song_name}をプレイリストから削除しますか？削除すると元に戻せません。"
   }
 }

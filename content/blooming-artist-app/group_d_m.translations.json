@@ -1,0 +1,135 @@
+{
+  "group_dm_1_text_2": {
+    "ko": "승인 대기중...",
+    "en": "Waiting",
+    "zh": "승인 대기 중...",
+    "es": "Esperando",
+    "ja": "承認待ち..."
+  },
+  "group_dm_1_title_1": {
+    "ko": "Group DM",
+    "en": "Group DM",
+    "zh": "群组私信",
+    "es": "DM de grupo",
+    "ja": "グループDM"
+  },
+  "group_dm_popup_block_1": {
+    "ko": "{fan_name}를 차단하시겠습니까?",
+    "en": "Do you want to block {fan_name}?",
+    "zh": "您要屏蔽{fan_name}吗？",
+    "es": "¿Quieres bloquear a {fan_name}?",
+    "ja": "{fan_name}をブロックしますか？"
+  },
+  "group_dm_1_placeholder_1": {
+    "ko": "메세지 입력...",
+    "en": "Message...",
+    "zh": "输入消息...",
+    "es": "Mensaje...",
+    "ja": "メッセージを入力..."
+  },
+  "group_dm_popup_block_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "group_dm_1_text_4": {
+    "ko": "{fan_name}에게 답장",
+    "en": "Reply to {fan_name}",
+    "zh": "回复 {fan_name}",
+    "es": "Responder a {fan_name}",
+    "ja": "{fan_name}に返信"
+  },
+  "group_dm_2_long_touch_2": {
+    "ko": "복사",
+    "en": "Copy",
+    "zh": "复制",
+    "es": "Copiar",
+    "ja": "コピー"
+  },
+  "group_dm_2_long_touch_1": {
+    "ko": "답장",
+    "en": "Reply",
+    "zh": "答复",
+    "es": "Responder",
+    "ja": "返信"
+  },
+  "group_dm_1_placeholder_2": {
+    "ko": "답장 메세지 입력...",
+    "en": "Reply to message...",
+    "zh": "输入回复消息...",
+    "es": "Responder al mensaje...",
+    "ja": "メッセージに返信..."
+  },
+  "group_dm_popup_block_3": {
+    "ko": "차단",
+    "en": "Block",
+    "zh": "阻止",
+    "es": "Bloquear",
+    "ja": "ブロック"
+  },
+  "group_dm_1_toggle_1": {
+    "ko": "펼치기",
+    "en": "Fold",
+    "zh": "展开",
+    "es": "Desplegar",
+    "ja": "展開"
+  },
+  "group_dm_1_label_1": {
+    "ko": "DM 목록",
+    "en": "DM List",
+    "zh": "DM 目录",
+    "es": "Lista de DM",
+    "ja": "DM リスト"
+  },
+  "group_dm_1_text_3": {
+    "ko": "거절됨",
+    "en": "Denied",
+    "zh": "拒绝",
+    "es": "Denegado",
+    "ja": "拒否されました"
+  },
+  "group_dm_2_long_touch_3": {
+    "ko": "신고",
+    "en": "Report",
+    "zh": "举报",
+    "es": "Informar",
+    "ja": "報告"
+  },
+  "group_dm_popup_block_4": {
+    "ko": "‘루피' 가 차단되었습니다.\n차단된 사용자는 ‘설정 > 차단된 계정’에서\n확인하실 수 있습니다.",
+    "en": "{fan_name} has been blocked. You can check blocked users at 'setting > blocked accounts'.",
+    "zh": "‘路飞’已被屏蔽。\n您可以在‘设置 > 屏蔽的账户’中查看被屏蔽的用户。",
+    "es": "{fan_name} ha sido bloqueado. Puedes verificar los usuarios bloqueados en 'configuración > cuentas bloqueadas'.",
+    "ja": "‘ルフィ’がブロックされました。\nブロックされたユーザーは「設定 > ブロックされたアカウント」で確認できます。"
+  },
+  "group_dm_2_long_touch_4": {
+    "ko": "차단",
+    "en": "Block",
+    "zh": "阻止",
+    "es": "Bloquear",
+    "ja": "ブロック"
+  },
+  "group_dm_1_toggle_2": {
+    "ko": "접기",
+    "en": "Unfold",
+    "zh": "折叠",
+    "es": "Desplegar",
+    "ja": "折りたたむ"
+  },
+  "group_dm_1_text_1": {
+    "ko": "오늘 있었던 일을\n팬들과 이야기해보세요 💌",
+    "en": "Why don't you talk about what happened today with your fans 💌",
+    "zh": "今天发生的事情，和粉丝们聊聊吧 💌",
+    "es": "¿Por qué no hablas sobre lo que pasó hoy con tus fans? 💌",
+    "ja": "今日あったことをファンと話してみませんか 💌"
+  },
+  "group_dm_popup_block_5": {
+    "ko": "확인",
+    "en": "OK",
+    "zh": "确认",
+    "es": "OK",
+    "ja": "確認"
+  }
+}
