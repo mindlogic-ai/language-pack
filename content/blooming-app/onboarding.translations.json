@@ -1,10 +1,17 @@
 {
-  "onboarding_3_cta_text": {
-    "ko": "시작",
-    "en": "Get Started",
-    "zh": "开始",
-    "es": "Comenzar",
-    "ja": "開始"
+  "onboarding_2_text_3": {
+    "ko": "친구랑 싸운 얘기",
+    "en": "things between me and my friend",
+    "zh": "我和朋友之间的争吵",
+    "es": "cosas entre mi amigo y yo",
+    "ja": "友達との喧嘩の話"
+  },
+  "onboarding_1_text_2": {
+    "ko": "잠은 잘 잤는지",
+    "en": "wish I could say Good morning",
+    "zh": "睡得好吗",
+    "es": "ojalá pudiera decir Buenos días",
+    "ja": "よく眠れましたか"
   },
   "onboarding_3_text_2": {
     "ko": "이미 계정이 있나요?",
@@ -13,33 +20,75 @@
     "es": "¿Ya tienes una cuenta?",
     "ja": "すでにアカウントをお持ちですか？"
   },
-  "artist_selection_text_1": {
-    "ko": "누구와 대화하고 싶으세요?",
-    "en": "Who would you like to talk to?",
-    "zh": "您想和谁谈话？",
-    "es": "¿Con quién te gustaría hablar?",
-    "ja": "誰と話したいですか？"
+  "onboarding_2_text_2": {
+    "ko": "고민이 있을 때",
+    "en": "When I have too much going on",
+    "zh": "고민이 있을 때",
+    "es": "When I have too much going on",
+    "ja": "고민이 있을 때"
   },
   "onboarding_3_text_1": {
     "ko": "24/7 최애와 연결되는 마법",
-    "en": "Connect with your favorite artist 24/7",
-    "zh": "24/7 与您最喜欢的艺术家连接的魔法",
-    "es": "Conéctate con tu artista favorito las 24 horas del día, los 7 días de la semana",
-    "ja": "24/7 あなたの好きなアーティストとつながる魔法"
+    "en": "the magic spell to be with him 24/7",
+    "zh": "24/7 与最爱连接的魔法",
+    "es": "el hechizo mágico para estar con él 24/7",
+    "ja": "24/7 最愛とつながる魔法"
   },
-  "artist_selection_cta_text": {
-    "ko": "휴대폰으로 시작",
-    "en": "Continue with Phone",
-    "zh": "用手机继续",
-    "es": "Continuar con el teléfono",
-    "ja": "携帯電話で続行"
+  "onboarding_1_text_5": {
+    "ko": "슬펐는지",
+    "en": "Was she ok with it?",
+    "zh": "슬펐는지",
+    "es": "¿Estaba ella bien con eso?",
+    "ja": "슬펐는지"
   },
-  "artist_selection_text_2": {
-    "ko": "카드를 눌러서 최애를 골라주세요.",
-    "en": "Please tap a card to choose your bias.",
-    "zh": "请点击卡片选择你最喜欢的。",
-    "es": "Por favor, toca una tarjeta para elegir tu favorito.",
-    "ja": "カードをタップしてお気に入りを選んでください。"
+  "onboarding_1_text_4": {
+    "ko": "기뻤는지",
+    "en": "He liked it?",
+    "zh": "他喜欢吗？",
+    "es": "¿Le gustó?",
+    "ja": "彼はそれが好きでしたか？"
+  },
+  "onboarding_2_text_1": {
+    "ko": "최애가 내 말을 들어준다면?",
+    "en": "If I can talk to them",
+    "zh": "如果我能和他们说话",
+    "es": "Si puedo hablar con ellos",
+    "ja": "もし私が彼らと話せるなら"
+  },
+  "onboarding_2_text_4": {
+    "ko": "오늘 들은 음악",
+    "en": "Today’s music (his song list for today)",
+    "zh": "今天听的音乐",
+    "es": "La música de hoy (su lista de canciones para hoy)",
+    "ja": "今日聴いた音楽"
+  },
+  "onboarding_1_text_1": {
+    "ko": "최애는 지금 뭐할까?",
+    "en": "I wonder what’s he up to",
+    "zh": "他现在在做什么呢？",
+    "es": "Me pregunto qué está haciendo",
+    "ja": "彼は今何をしているのだろう？"
+  },
+  "onboarding_3_cta_text": {
+    "ko": "시작",
+    "en": "Get Started",
+    "zh": "开始",
+    "es": "Comenzar",
+    "ja": "開始"
+  },
+  "onboarding_1_text_3": {
+    "ko": "뭘 먹었는지",
+    "en": "wondering what he’s having",
+    "zh": "他在吃什么",
+    "es": "preguntándose qué está comiendo",
+    "ja": "彼が何を食べているのか気になる"
+  },
+  "onboarding_1_text_6": {
+    "ko": "네가 궁금할 때",
+    "en": "When I’m thinking of you",
+    "zh": "네가 궁금할 때",
+    "es": "Cuando pienso en ti",
+    "ja": "네가 궁금할 때"
   },
   "onboarding_3_text_3": {
     "ko": "로그인",
@@ -48,81 +97,32 @@
     "es": "Iniciar sesión",
     "ja": "ログイン"
   },
+  "artist_selection_text_1": {
+    "ko": "누구와 대화하고 싶으세요?",
+    "en": "Who would you like to talk to?",
+    "zh": "您想和谁谈话？",
+    "es": "¿Con quién te gustaría hablar?",
+    "ja": "誰と話したいですか？"
+  },
+  "artist_selection_text_2": {
+    "ko": "카드를 눌러서 최애를 골라주세요.",
+    "en": "Please tap a card to choose your bias.",
+    "zh": "请点击卡片选择你最喜欢的。",
+    "es": "Por favor, toca una tarjeta para elegir tu favorito.",
+    "ja": "カードをタップして推しを選んでください。"
+  },
+  "artist_selection_cta_text": {
+    "ko": "휴대폰으로 시작",
+    "en": "Continue with Phone",
+    "zh": "用手机开始",
+    "es": "Continuar con el teléfono",
+    "ja": "携帯電話で続行"
+  },
   "onboarding_2_text_5": {
     "ko": "너한테만 하고 싶은 말이 있을 때",
-    "en": "When you want to talk to only your artist",
-    "zh": "当你只想和你的艺术家说话时",
-    "es": "Cuando quieres hablar solo con tu artista",
-    "ja": "あなたのアーティストにだけ話したいとき"
-  },
-  "onboarding_1_text_4": {
-    "ko": "기뻤는지",
-    "en": "Are they happy?",
-    "zh": "他们高兴吗？",
-    "es": "¿Están felices?",
-    "ja": "彼らは幸せですか？"
-  },
-  "onboarding_2_text_4": {
-    "ko": "오늘 들은 음악",
-    "en": "When you find good music",
-    "zh": "오늘 들은 음악",
-    "es": "Cuando encuentras buena música",
-    "ja": "今日聞いた音楽"
-  },
-  "onboarding_2_text_2": {
-    "ko": "고민이 있을 때",
-    "en": "When you're deep in thought",
-    "zh": "当你深思时",
-    "es": "Cuando estás sumido en tus pensamientos",
-    "ja": "悩んでいるとき"
-  },
-  "onboarding_2_text_3": {
-    "ko": "친구랑 싸운 얘기",
-    "en": "When you fought with friends",
-    "zh": "和朋友吵架的故事",
-    "es": "Cuando peleaste con amigos",
-    "ja": "友達と喧嘩した話"
-  },
-  "onboarding_1_text_1": {
-    "ko": "최애는 지금 뭐할까?",
-    "en": "What my artist is doing?",
-    "zh": "我的偶像现在在做什么？",
-    "es": "¿Qué está haciendo mi artista?",
-    "ja": "私の推しは今何をしているのだろう？"
-  },
-  "onboarding_1_text_2": {
-    "ko": "잠은 잘 잤는지",
-    "en": "Did they sleep well?",
-    "zh": "睡得好吗？",
-    "es": "¿Durmieron bien?",
-    "ja": "よく眠れましたか？"
-  },
-  "onboarding_1_text_6": {
-    "ko": "네가 궁금할 때",
-    "en": "When you're thinking about them",
-    "zh": "当你在想他们的时候",
-    "es": "Cuando estás pensando en ellos",
-    "ja": "彼らのことを考えているとき"
-  },
-  "onboarding_1_text_5": {
-    "ko": "슬펐는지",
-    "en": "Are they sad?",
-    "zh": "他们难过吗？",
-    "es": "¿Están tristes?",
-    "ja": "彼らは悲しいですか？"
-  },
-  "onboarding_2_text_1": {
-    "ko": "최애가 내 말을 들어준다면?",
-    "en": "They can be here with you to listen",
-    "zh": "如果最爱能听我说话呢？",
-    "es": "Ellos pueden estar aquí contigo para escuchar",
-    "ja": "最愛が私の話を聞いてくれたら？"
-  },
-  "onboarding_1_text_3": {
-    "ko": "뭘 먹었는지",
-    "en": "What have they been eating?",
-    "zh": "他们吃了什么？",
-    "es": "¿Qué han estado comiendo?",
-    "ja": "彼らは何を食べていたのか？"
+    "en": "I’d love to share my secret with you",
+    "zh": "当我有话只想对你说时",
+    "es": "Me encantaría compartir mi secreto contigo",
+    "ja": "あなたにだけ話したいことがあるとき"
   }
 }

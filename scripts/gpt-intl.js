@@ -5,7 +5,8 @@ const { isObject } = require("lodash");
 var { glob } = require("glob");
 
 const API_URL =
-  "http://ec2-3-37-133-37.ap-northeast-2.compute.amazonaws.com/api/utils/intl/";
+  // "http://ec2-3-37-133-37.ap-northeast-2.compute.amazonaws.com/api/utils/intl/";
+  "https://chatapi-backend.mindlogic.ai/api/utils/intl/"
 
 program
   .name("gpt-i18n")

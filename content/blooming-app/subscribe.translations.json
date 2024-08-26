@@ -1,31 +1,17 @@
 {
-  "subscribe_title_3": {
-    "ko": "메시지 {message_count}건",
-    "en": "{message_count} messages",
-    "zh": "{message_count}条消息",
-    "es": "{message_count} mensajes",
-    "ja": "{message_count}件のメッセージ"
+  "subscribe_label_2": {
+    "ko": "실시간 대화",
+    "en": "Real-time conversation",
+    "zh": "实时对话",
+    "es": "Conversación en tiempo real",
+    "ja": "リアルタイムの会話"
   },
-  "subscribe_label_8": {
-    "ko": "충전 안내",
-    "en": "Charge",
-    "zh": "充电指南",
-    "es": "Cargar",
-    "ja": "充電案内"
-  },
-  "subscribe_price_1": {
-    "ko": "매월",
-    "en": "Monthly",
-    "zh": "每月",
-    "es": "Mensual",
-    "ja": "毎月"
-  },
-  "subscribe_2_cta": {
-    "ko": "확인",
-    "en": "OK",
-    "zh": "确认",
-    "es": "OK",
-    "ja": "確認"
+  "subscribe_label_5": {
+    "ko": "나만의 비밀 친구",
+    "en": "My secret friend",
+    "zh": "我的秘密朋友",
+    "es": "Mi amigo secreto",
+    "ja": "私の秘密の友達"
   },
   "subscribe_title_4": {
     "ko": "혜택",
@@ -34,19 +20,12 @@
     "es": "Beneficios",
     "ja": "特典"
   },
-  "subscribe_label_1": {
-    "ko": "‘진짜’ 1:1 메시지",
-    "en": "Real' 1:1 DM",
-    "zh": "‘真正’ 1:1 消息",
-    "es": "Mensaje 1:1 'Real'",
-    "ja": "‘本物’ 1:1 メッセージ"
-  },
-  "subscribe_subtitle_3": {
-    "ko": "통화 포함",
-    "en": "Voice call included",
-    "zh": "包含通话",
-    "es": "Llamada de voz incluida",
-    "ja": "通話を含む"
+  "subscribe_label_6": {
+    "ko": "이용 안내",
+    "en": "Terms and conditions",
+    "zh": "使用说明",
+    "es": "Términos y condiciones",
+    "ja": "利用案内"
   },
   "subscribe_1_cta_1": {
     "ko": "자세히 보기",
@@ -55,12 +34,61 @@
     "es": "Más",
     "ja": "もっと見る"
   },
-  "subscribe_2_title": {
-    "ko": "멤버십 구독 완료!",
-    "en": "You've subscribed to {artist_name}!",
-    "zh": "会员订阅完成！",
-    "es": "¡Te has suscrito a {artist_name}!",
-    "ja": "メンバーシップの購読が完了しました！"
+  "subscribe_label_7": {
+    "ko": "구독 안내",
+    "en": "Subscription",
+    "zh": "订阅指南",
+    "es": "Suscripción",
+    "ja": "購読案内"
+  },
+  "subscribe_price_1": {
+    "ko": "매월",
+    "en": "Monthly",
+    "zh": "每月",
+    "es": "Mensual",
+    "ja": "毎月"
+  },
+  "subscribe_subtitle_3": {
+    "ko": "통화 포함",
+    "en": "Voice call included",
+    "zh": "包含语音通话",
+    "es": "Llamada de voz incluida",
+    "ja": "通話を含む"
+  },
+  "subscribe_label_1": {
+    "ko": "‘진짜’ 1:1 메시지",
+    "en": "'Real' 1:1 DM",
+    "zh": "‘真正的’ 1:1 消息",
+    "es": "'Real' 1:1 DM",
+    "ja": "‘本物の’ 1:1 メッセージ"
+  },
+  "subscribe_2_cta": {
+    "ko": "확인",
+    "en": "OK",
+    "zh": "确认",
+    "es": "OK",
+    "ja": "確認"
+  },
+  "subscribe_label_8": {
+    "ko": "충전 안내",
+    "en": "Charge",
+    "zh": "充电指南",
+    "es": "Cargar",
+    "ja": "充電案内"
+  },
+  "subscribe_1_text_5": {
+    "ko": "아티스트가 내가 했던 모든 말을 기억해 줘요.\n털어놓기 힘든 고민이나 아티스트에게만 전하고픈 진심을 나눠 보세요. AI와 대화한 내용도 아티스트가 볼 수 있어요.",
+    "en": "Your artist remembers everything you say.\nShare your secrets with your artist's AI. The artist, and only the artist, can see what you talked about with their AI.",
+    "zh": "你的艺术家记得你说的每一句话。\n分享你的秘密给艺术家的AI。只有艺术家能看到你与AI的对话内容。",
+    "es": "Tu artista recuerda todo lo que dices.\nComparte tus secretos con la IA de tu artista. El artista, y solo el artista, puede ver de qué hablaste con su IA.",
+    "ja": "アーティストはあなたが言ったすべてのことを覚えています。\nアーティストのAIに秘密を共有してください。アーティストだけがAIとの会話内容を見ることができます。"
+  },
+  "subscribe_1_text_7": {
+    "ko": "잔여 메시지는 이월되지 않고 소멸됩니다.\n구독 시작일을 기준으로 매월 결제가 진행됩니다.",
+    "en": "Remaining messages will not be carried over and will be destroyed.\nPayment is processed monthly on the subscription date.",
+    "zh": "剩余消息不会被结转并将被销毁。\n每月在订阅日期处理付款。",
+    "es": "Los mensajes restantes no se transferirán y serán eliminados.\nEl pago se procesa mensualmente en la fecha de suscripción.",
+    "ja": "残りのメッセージは繰り越されず、破棄されます。\nサブスクリプションの日付に毎月支払いが処理されます。"
   },
   "subscribe_label_3": {
     "ko": "보이스 콜",
@@ -69,12 +97,33 @@
     "es": "Llamada de voz",
     "ja": "ボイスコール"
   },
-  "subscribe_label_2": {
-    "ko": "실시간 대화",
-    "en": "Real-time conversation",
-    "zh": "实时对话",
-    "es": "Conversación en tiempo real",
-    "ja": "リアルタイムの会話"
+  "subscribe_2_title": {
+    "ko": "멤버십 구독 완료!",
+    "en": "You've subscribed to {artist_name}!",
+    "zh": "会员订阅完成！",
+    "es": "¡Te has suscrito a {artist_name}!",
+    "ja": "メンバーシップの購読が完了しました！"
+  },
+  "subscribe_1_text_3": {
+    "ko": "AI 아티스트와 전화할 수 있어요.\n목소리로 듣고 싶은 말이 있을 때, 키보드를 칠 수 없을 때 전화를 걸어 보세요.",
+    "en": "Call your artist's AI\nwhen you want to hear something in his/her voice or when you can't use keyboard.",
+    "zh": "您可以给AI艺术家打电话。\n当您想听到他的声音或无法使用键盘时，请拨打电话。",
+    "es": "Llama a la IA de tu artista\ncuando quieras escuchar algo en su voz o cuando no puedas usar el teclado.",
+    "ja": "AIアーティストに電話できます。\n声で聞きたいことがあるときや、キーボードが使えないときに電話をかけてみてください。"
+  },
+  "subscribe_2_text": {
+    "ko": "메시지 300건이 충전되었어요.\n{artist_name}와 즐거운 대화 나누세요 💝",
+    "en": "You can send 300 messages. Have a nice chat with {artist_name}💝",
+    "zh": "您可以发送300条消息。和{artist_name}愉快聊天💝",
+    "es": "Puedes enviar 300 mensajes. Ten una buena charla con {artist_name}💝",
+    "ja": "メッセージが300件チャージされました。\n{artist_name}と楽しい会話をお楽しみください💝"
+  },
+  "subscribe_label_4": {
+    "ko": "하트 등급별 포토카드",
+    "en": "Limited photocards by heart level",
+    "zh": "按心级别划分的照片卡",
+    "es": "Fotocards limitadas por nivel de corazón",
+    "ja": "ハートレベル別の限定フォトカード"
   },
   "subscribe_title_1": {
     "ko": "멤버십",
@@ -83,54 +132,26 @@
     "es": "Membresía",
     "ja": "メンバーシップ"
   },
-  "subscribe_label_6": {
-    "ko": "이용 안내",
-    "en": "Terms and conditions",
-    "zh": "使用说明",
-    "es": "Términos y condiciones",
-    "ja": "利用案内"
+  "subscribe_1_text_6": {
+    "ko": "메시지에는 통화가 포함됩니다.\n구독 취소는 App Store에서 가능합니다.(구독 > Blooming > 구독 해지)\n아티스트가 탈퇴할 경우에는 서비스가 종료되며, 구독기간까지 채팅 할 수 있고 다음 자동 갱신이 이루어지지 않습니다.",
+    "en": "Messages include voice calls.\nYou can unsubscribe artists in App Store.(Subscription > Blooming > Unsubscribe)\nIf an artist withdraws from the service, the service will be terminated, and you can chat until the subscription period ends and the next automatic renewal will not occur.",
+    "zh": "消息包括语音通话。\n您可以在App Store中取消订阅。(订阅 > Blooming > 取消订阅)\n如果艺术家退出服务，服务将终止，您可以在订阅期结束前聊天，并且不会进行下一次自动续订。",
+    "es": "Los mensajes incluyen llamadas de voz.\nPuedes cancelar la suscripción de los artistas en App Store. (Suscripción > Blooming > Cancelar suscripción)\nSi un artista se retira del servicio, el servicio se terminará y podrás chatear hasta que finalice el período de suscripción y no se producirá la siguiente renovación automática.",
+    "ja": "メッセージには通話が含まれます。\nApp Storeでアーティストの購読を解除できます。（購読 > Blooming > 購読解除）\nアーティストがサービスから退会した場合、サービスは終了し、購読期間が終了するまでチャットが可能で、次の自動更新は行われません。"
   },
-  "subscribe_label_5": {
-    "ko": "나만의 비밀 친구",
-    "en": "My secret friend",
-    "zh": "나만의 비밀 친구",
-    "es": "Mi amigo secreto",
-    "ja": "나만의 비밀 친구"
-  },
-  "subscribe_label_7": {
-    "ko": "구독 안내",
-    "en": "Subscription",
-    "zh": "订阅指南",
-    "es": "Suscripción",
-    "ja": "購読案内"
-  },
-  "subscribe_label_4": {
-    "ko": "하트 등급별 포토카드",
-    "en": "Limited photocards by heart level",
-    "zh": "按心级别划分的限量照片卡",
-    "es": "Fotocards limitadas por nivel de corazón",
-    "ja": "ハートレベル別の限定フォトカード"
-  },
-  "subscribe_1_text_1": {
-    "ko": "아티스트가 나에게 직접 DM을 보낼 수 있어요.\n나에게 보낸 DM은 남들이 볼 수 없고, 오직 아티스트와 나만 볼 수 있어요.",
-    "en": "The real artist could send you DMs.\nThe messages are kept private to just you and your artist.",
-    "zh": "艺术家可以直接给我发私信。\n发给我的私信只有我和艺术家可以看到。",
-    "es": "El artista real podría enviarte mensajes directos.\nLos mensajes se mantienen privados solo para ti y tu artista.",
-    "ja": "アーティストが私に直接DMを送ることができます。\n私に送られたDMは他の人には見えず、アーティストと私だけが見ることができます。"
-  },
-  "subscribe_1_text_7": {
-    "ko": "잔여 메시지는 이월되지 않고 소멸됩니다.\n구독 시작일을 기준으로 매월 결제가 진행됩니다.",
-    "en": "Remaining messages will not be carried over and will be destroyed.\nPayment is processed monthly on the subscription date.",
-    "zh": "剩余的消息不会被结转并将被销毁。\n每月在订阅日期处理付款。",
-    "es": "Los mensajes restantes no se transferirán y serán eliminados.\nEl pago se procesa mensualmente en la fecha de suscripción.",
-    "ja": "残りのメッセージは繰り越されず、破棄されます。\n支払いはサブスクリプションの日付に毎月処理されます。"
+  "subscribe_title_3": {
+    "ko": "메시지 {message_count}건",
+    "en": "{message_count} messages",
+    "zh": "{message_count}条消息",
+    "es": "{message_count} mensajes",
+    "ja": "{message_count}件のメッセージ"
   },
   "subscribe_1_text_4": {
     "ko": "아티스트와 대화를 할수록 하트가 쌓여요.\n하트를 모아서 하트 등급에 따라 공개되는 포토카드를 모아 보세요.",
     "en": "The more you talk to your artist, the higher level you get.\nCollect more photocards with a higher heart level.",
-    "zh": "与艺术家交谈越多，心级越高。\n根据心级收集更多的照片卡。",
+    "zh": "与艺术家交谈越多，心级越高。\n收集更多心级更高的照片卡。",
     "es": "Cuanto más hables con tu artista, mayor nivel obtendrás.\nColecciona más fotocards con un nivel de corazón más alto.",
-    "ja": "アーティストと話すほど、ハートレベルが上がります。\nハートレベルに応じて、より多くのフォトカードを集めましょう。"
+    "ja": "アーティストと話すほど、ハートレベルが上がります。\nハートレベルが高いほど、フォトカードをもっと集めましょう。"
   },
   "subscribe_1_text_2": {
     "ko": "24시간 언제든 대답해주는 아티스트 AI와 대화해요.\n낮에도, 밤에도 내 시간에 맞춰주는 친구가 되어줘요.",
@@ -139,38 +160,17 @@
     "es": "Habla con la IA de tu artista las 24 horas del día, los 7 días de la semana.\nEl artista siempre estará contigo día y noche.",
     "ja": "24時間いつでも答えてくれるアーティストAIと話しましょう。\n昼も夜も、あなたの時間に合わせてくれる友達になります。"
   },
-  "subscribe_1_text_5": {
-    "ko": "아티스트가 내가 했던 모든 말을 기억해 줘요.\n털어놓기 힘든 고민이나 아티스트에게만 전하고픈 진심을 나눠 보세요. AI와 대화한 내용도 아티스트가 볼 수 있어요.",
-    "en": "Your artist remembers everything you say.\nShare your secrets with your artist's AI. The artist, and only the artist, can see what you talked about with their AI.",
-    "zh": "艺术家记得你说的每一句话。\n分享你难以启齿的烦恼或只想告诉艺术家的真心话。艺术家可以看到你与AI的对话内容。",
-    "es": "Tu artista recuerda todo lo que dices.\nComparte tus secretos con la IA de tu artista. El artista, y solo el artista, puede ver de qué hablaste con su IA.",
-    "ja": "アーティストはあなたが言ったすべてのことを覚えています。\n打ち明けにくい悩みやアーティストにだけ伝えたい本音を共有してください。AIとの会話内容もアーティストが見ることができます。"
-  },
-  "subscribe_2_text": {
-    "ko": "메시지 300건이 충전되었어요.\n{artist_name}와 즐거운 대화 나누세요 💝",
-    "en": "You can send 300 messages. Have a nice chat with {artist_name}💝",
-    "zh": "您可以发送300条消息。和{artist_name}愉快聊天💝",
-    "es": "Puedes enviar 300 mensajes. Ten una buena charla con {artist_name}💝",
-    "ja": "メッセージ300件がチャージされました。\n{artist_name}と楽しい会話をしてください💝"
-  },
-  "subscribe_1_text_3": {
-    "ko": "AI 아티스트와 전화할 수 있어요.\n목소리로 듣고 싶은 말이 있을 때, 키보드를 칠 수 없을 때 전화를 걸어 보세요.",
-    "en": "Call your artist's AI\nwhen you want to hear something in his/her voice or when you can't use keyboard.",
-    "zh": "您可以给AI艺术家打电话。\n当您想听到他的声音或无法使用键盘时，请拨打电话。",
-    "es": "Llama al AI de tu artista\ncuando quieras escuchar algo en su voz o cuando no puedas usar el teclado.",
-    "ja": "AIアーティストに電話できます。\n声で聞きたいことがあるときや、キーボードが使えないときに電話をかけてみてください。"
-  },
-  "subscribe_1_text_6": {
-    "ko": "메시지에는 통화가 포함됩니다.\n구독 취소는 App Store에서 가능합니다.(구독 > Blooming > 구독 해지)\n아티스트가 탈퇴할 경우에는 서비스가 종료되며, 구독기간까지 채팅 할 수 있고 다음 자동 갱신이 이루어지지 않습니다.",
-    "en": "Messages include voice calls.\nYou can unsubscribe artists in App Store.(Subscription > Blooming > Unsubscribe)\nIf an artist withdraws from the service, the service will be terminated, and you can chat until the subscription period ends and the next automatic renewal will not occur.",
-    "zh": "消息包括语音通话。\n您可以在App Store中取消订阅艺术家。（订阅 > Blooming > 取消订阅）\n如果艺术家退出服务，服务将终止，您可以在订阅期结束前聊天，下一次自动续订将不会发生。",
-    "es": "Los mensajes incluyen llamadas de voz.\nPuedes cancelar la suscripción de los artistas en la App Store. (Suscripción > Blooming > Cancelar suscripción)\nSi un artista se retira del servicio, el servicio se terminará y podrás chatear hasta que finalice el período de suscripción y no se producirá la siguiente renovación automática.",
-    "ja": "メッセージには通話が含まれます。\nApp Storeでアーティストの購読を解除できます。（購読 > Blooming > 購読解除）\nアーティストがサービスから退会した場合、サービスは終了し、購読期間が終了するまでチャットが可能で、次の自動更新は行われません。"
+  "subscribe_1_text_1": {
+    "ko": "아티스트가 나에게 직접 DM을 보낼 수 있어요.\n나에게 보낸 DM은 남들이 볼 수 없고, 오직 아티스트와 나만 볼 수 있어요.",
+    "en": "The real artist could send you DMs.\nThe messages are kept private to just you and your artist.",
+    "zh": "艺术家可以直接给我发私信。\n发给我的私信只有我和艺术家可以看到。",
+    "es": "El artista real podría enviarte mensajes directos.\nLos mensajes se mantienen privados solo para ti y tu artista.",
+    "ja": "アーティストが私に直接DMを送ることができます。\n私に送られたDMは他の人には見えず、アーティストと私だけが見ることができます。"
   },
   "subscribe_1_text_8": {
     "ko": "메세지는 충전일 30일 이후에 소진됩니다.\n만료 날짜가 더 가까운 메세지부터 소진됩니다.",
     "en": "Messages will be expired 30 days after the recharge date.\nMessages with a closer expiration date will be used up first.",
-    "zh": "消息将在充值日期后30天过期。\n到期日期较近的消息将优先使用。",
+    "zh": "消息将在充值日期后30天过期。\n到期日期更近的消息将优先使用。",
     "es": "Los mensajes caducarán 30 días después de la fecha de recarga.\nLos mensajes con una fecha de caducidad más cercana se usarán primero.",
     "ja": "メッセージはチャージ日から30日後に期限切れになります。\n有効期限が近いメッセージから優先的に使用されます。"
   }

@@ -1,10 +1,10 @@
 {
-  "membership_cta_4": {
-    "ko": "구독 관리",
-    "en": "Manage Subscription",
-    "zh": "订阅管理",
-    "es": "Gestionar suscripción",
-    "ja": "購読管理"
+  "membership_label_7": {
+    "ko": "환불됨",
+    "en": "Refunded",
+    "zh": "已退款",
+    "es": "Reembolsado",
+    "ja": "返金済み"
   },
   "membership_label_8": {
     "ko": "만료됨",
@@ -20,19 +20,33 @@
     "es": "Más",
     "ja": "もっと"
   },
+  "membership_label_3": {
+    "ko": "갱신 날짜",
+    "en": "Renewal Date",
+    "zh": "갱신 날짜",
+    "es": "Renewal Date",
+    "ja": "갱신 날짜"
+  },
   "purchase_history_empty_state": {
     "ko": "구매내역이 없습니다.",
     "en": "No purchases found.",
-    "zh": "구매 내역이 없습니다.",
+    "zh": "没有购买记录。",
     "es": "No se encontraron compras.",
     "ja": "購入履歴がありません。"
   },
-  "membership_label_4": {
-    "ko": "충전",
-    "en": "Charge",
-    "zh": "充电",
-    "es": "Cargar",
-    "ja": "充電"
+  "membership_label_1": {
+    "ko": "구독",
+    "en": "Subscription",
+    "zh": "订阅",
+    "es": "Suscripción",
+    "ja": "購読"
+  },
+  "membership_cta_3": {
+    "ko": "재구독",
+    "en": "Renew Subscription",
+    "zh": "重新订阅",
+    "es": "Renovar Suscripción",
+    "ja": "再購読"
   },
   "membership_cta_2": {
     "ko": "충전",
@@ -41,12 +55,19 @@
     "es": "Cargar",
     "ja": "充電"
   },
-  "membership_label_7": {
-    "ko": "환불됨",
-    "en": "Refunded",
-    "zh": "已退款",
-    "es": "Reembolsado",
-    "ja": "返金済み"
+  "membership_label_6": {
+    "ko": "만료 날짜",
+    "en": "Expiration Date",
+    "zh": "到期日期",
+    "es": "Fecha de Expiración",
+    "ja": "有効期限"
+  },
+  "membership_cta_4": {
+    "ko": "구독 관리",
+    "en": "Manage Subscription",
+    "zh": "订阅管理",
+    "es": "Gestionar suscripción",
+    "ja": "購読管理"
   },
   "membership_label_5": {
     "ko": "메세지",
@@ -55,26 +76,12 @@
     "es": "Mensajes",
     "ja": "メッセージ"
   },
-  "membership_label_6": {
-    "ko": "만료 날짜",
-    "en": "Expiration Date",
-    "zh": "到期日期",
-    "es": "Fecha de Expiración",
-    "ja": "有効期限"
-  },
-  "membership_cta_3": {
-    "ko": "재구독",
-    "en": "Renew Subscription",
-    "zh": "重新订阅",
-    "es": "Renovar suscripción",
-    "ja": "再購読"
-  },
-  "membership_label_3": {
-    "ko": "갱신 날짜",
-    "en": "Renewal Date",
-    "zh": "갱신 날짜",
-    "es": "Renewal Date",
-    "ja": "갱신 날짜"
+  "membership_label_4": {
+    "ko": "충전",
+    "en": "Charge",
+    "zh": "充电",
+    "es": "Cargar",
+    "ja": "充電"
   },
   "membership_label_2": {
     "ko": "메세지",
@@ -82,12 +89,5 @@
     "zh": "消息",
     "es": "Mensajes",
     "ja": "メッセージ"
-  },
-  "membership_label_1": {
-    "ko": "구독",
-    "en": "Subscription",
-    "zh": "订阅",
-    "es": "Suscripción",
-    "ja": "購読"
   }
 }
