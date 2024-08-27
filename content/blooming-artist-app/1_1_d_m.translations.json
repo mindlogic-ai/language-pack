@@ -1,10 +1,17 @@
 {
-  "one_dm_1_filter_1": {
-    "ko": "최신순",
-    "en": "latest",
-    "zh": "最新",
-    "es": "más reciente",
-    "ja": "最新"
+  "one_dm_1_toggle_2": {
+    "ko": "AI",
+    "en": "AI",
+    "zh": "人工智能",
+    "es": "IA",
+    "ja": "人工知能"
+  },
+  "one_dm_1_filter_2": {
+    "ko": "하트 점수 높은 순",
+    "en": "herat point",
+    "zh": "心脏点数高的顺序",
+    "es": "punto de corazón",
+    "ja": "ハートポイントの高い順"
   },
   "one_dm_1_placeholder_1": {
     "ko": "팬들의 반응을 검색해 보세요.",
@@ -13,47 +20,12 @@
     "es": "Busca cómo reaccionan tus fans",
     "ja": "ファンの反応を検索してください"
   },
-  "one_dm_1_title_1": {
-    "ko": "1:1 DM",
-    "en": "1:1 DM",
-    "zh": "1:1 私信",
-    "es": "1:1 DM",
-    "ja": "1:1 DM"
-  },
-  "one_dm_1_filter_2": {
-    "ko": "하트 점수 높은 순",
-    "en": "herat point",
-    "zh": "心脏分数高的顺序",
-    "es": "punto de corazón",
-    "ja": "ハートポイントの高い順"
-  },
-  "one_dm_1_filter_text_": {
-    "ko": "화이트 하트 : 0~199",
-    "en": "White heart : 0~199",
-    "zh": "白色心形 : 0~199",
-    "es": "Corazón blanco : 0~199",
-    "ja": "ホワイトハート : 0~199"
-  },
-  "one_dm_1_toggle_2": {
-    "ko": "AI",
-    "en": "AI",
-    "zh": "人工智能",
-    "es": "IA",
-    "ja": "人工知能"
-  },
   "one_dm_1_text_1": {
     "ko": "차단된 사용자입니다.",
     "en": "Blocked user.",
     "zh": "被封锁的用户。",
     "es": "Usuario bloqueado.",
     "ja": "ブロックされたユーザー。"
-  },
-  "one_dm_1_toggle_1": {
-    "ko": "AI",
-    "en": "AI",
-    "zh": "人工智能",
-    "es": "IA",
-    "ja": "人工知能"
   },
   "one_dm_1_filter_text_2": {
     "ko": "퍼플 하트 : 700 이상",
@@ -62,10 +34,31 @@
     "es": "Corazón púrpura: 700 +",
     "ja": "パープルハート：700 以上"
   },
+  "one_dm_1_title_1": {
+    "ko": "1:1 DM",
+    "en": "1:1 DM",
+    "zh": "1:1 私信",
+    "es": "1:1 DM",
+    "ja": "1:1 DM"
+  },
+  "one_dm_1_filter_text_3": {
+    "ko": "블루 하트 : 200~699",
+    "en": "Blue heart : 200~699",
+    "zh": "蓝色心脏 : 200~699",
+    "es": "Corazón azul : 200~699",
+    "ja": "ブルーハート : 200~699"
+  },
+  "one_dm_1_filter_1": {
+    "ko": "최신순",
+    "en": "latest",
+    "zh": "最新",
+    "es": "más reciente",
+    "ja": "最新"
+  },
   "one_dm_1_filter_text_4": {
     "ko": "화이트 하트 : 0~199",
     "en": "White heart : 0~199",
-    "zh": "白色心形 : 0~199",
+    "zh": "白色心 : 0~199",
     "es": "Corazón blanco : 0~199",
     "ja": "ホワイトハート : 0~199"
   },
@@ -76,11 +69,11 @@
     "es": "Cuantos más fans tengan conversaciones amorosas en Blooming, mayor será su puntuación de corazón.",
     "ja": "ブルーミングで愛のこもった会話をたくさんするファンほど、ハートポイントが高くなります。"
   },
-  "one_dm_1_filter_text_3": {
-    "ko": "블루 하트 : 200~699",
-    "en": "Blue heart : 200~699",
-    "zh": "蓝色心 : 200~699",
-    "es": "Corazón azul : 200~699",
-    "ja": "ブルーハート : 200~699"
+  "one_dm_1_toggle_1": {
+    "ko": "AI",
+    "en": "AI",
+    "zh": "人工智能",
+    "es": "IA",
+    "ja": "AI"
   }
 }
