@@ -1,0 +1,16 @@
+{
+  "site_title": {
+    "ko": "블루밍 콘솔",
+    "en": "Blooming Console",
+    "zh": "绽放控制台",
+    "es": "Consola Floreciente",
+    "ja": "ブルーミングコンソール"
+  },
+  "site_description": {
+    "ko": "Blooming 앱을 통해 전송된 모든 메시지를 관리하는 관리자 대시보드",
+    "en": "Admin dashboard to manage all message sent via the Blooming app",
+    "zh": "通过Blooming应用管理所有消息的管理员仪表板",
+    "es": "Panel de administración para gestionar todos los mensajes enviados a través de la aplicación Blooming",
+    "ja": "Bloomingアプリを通じて送信されたすべてのメッセージを管理する管理者ダッシュボード"
+  }
+}

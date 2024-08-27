@@ -1,0 +1,30 @@
+{
+  "autoapprove_label": {
+    "ko": "메시지를 자동 승인하시겠습니까?",
+    "en": "Autoapprove messages?",
+    "zh": "自动批准消息？",
+    "es": "¿Aprobar mensajes automáticamente?",
+    "ja": "メッセージを自動承認しますか？"
+  },
+  "autoapprove_success_toast": {
+    "ko": "자동 승인 상태가 성공적으로 업데이트되었습니다",
+    "en": "Auto-approve status was successfully updated",
+    "zh": "自动批准状态已成功更新",
+    "es": "El estado de aprobación automática se actualizó con éxito",
+    "ja": "自動承認ステータスが正常に更新されました"
+  },
+  "refresh_button": {
+    "ko": "새로 고침",
+    "en": "Refresh",
+    "zh": "刷新",
+    "es": "Actualizar",
+    "ja": "リフレッシュ"
+  },
+  "autoapprove_error_toast": {
+    "ko": "아티스트 권한을 업데이트하는 중 오류가 발생했습니다. 다시 시도해 주세요.",
+    "en": "There was an error updating the artist permission. Please try again.",
+    "zh": "更新艺术家权限时出错。请再试一次。",
+    "es": "Hubo un error al actualizar el permiso del artista. Por favor, inténtelo de nuevo.",
+    "ja": "アーティストの権限を更新中にエラーが発生しました。もう一度お試しください。"
+  }
+}

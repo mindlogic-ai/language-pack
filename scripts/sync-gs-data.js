@@ -12,26 +12,32 @@ const auth = new google.auth.GoogleAuth({
   scopes: ["https://www.googleapis.com/auth/spreadsheets.readonly"],
 });
 
-const snakeCase = string => {
-  return (string ?? "").replace(/\W+/g, " ")
+const snakeCase = (string) => {
+  return (string ?? "")
+    .replace(/\W+/g, " ")
     .split(/ |\B(?=[A-Z])/)
-    .map(word => word.toLowerCase())
-    .join('_');
+    .map((word) => word.toLowerCase())
+    .join("_");
 };
 
 // Create a Sheets API client
 const sheets = google.sheets({ version: "v4", auth });
 
 // The ID of the spreadsheet and the range of cells to read
-const spreadsheetIds = [{
-  id: "1kqiRVv8ctThKi6pAI4VfCc8AhPRz1Xjmfy423vwOOp8",
-  name: 'blooming-app'
-},
-{
-  id: "1UOuuYqVb62m1OLlEKUsu-7XZOeo-ebUyS1lpO2PRVvY",
-  name: 'blooming-artist-app'
-},
-]
+const spreadsheetIds = [
+  {
+    id: "1kqiRVv8ctThKi6pAI4VfCc8AhPRz1Xjmfy423vwOOp8",
+    name: "blooming-app",
+  },
+  {
+    id: "1UOuuYqVb62m1OLlEKUsu-7XZOeo-ebUyS1lpO2PRVvY",
+    name: "blooming-artist-app",
+  },
+  {
+    id: "1gZArMBdjgLQGdAVwPy6xJKjc3N7mPp-uyAMHyI1-WHo",
+    name: "blooming-console",
+  },
+];
 const range = "화면";
 
 const columnMappings = {
@@ -129,4 +135,4 @@ const fetchGoogleSheetData = async (spreadsheetId, folderName) => {
 
 spreadsheetIds.forEach(({ id, name }) => {
   fetchGoogleSheetData(id, name);
-})
+});

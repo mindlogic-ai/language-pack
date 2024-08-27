@@ -1,0 +1,30 @@
+{
+  "sign_out_button": {
+    "ko": "로그아웃",
+    "en": "Sign out",
+    "zh": "登出",
+    "es": "Cerrar sesión",
+    "ja": "サインアウト"
+  },
+  "signout_toast": {
+    "ko": "성공적으로 로그아웃되었습니다!",
+    "en": "Successfully signed out!",
+    "zh": "成功登出！",
+    "es": "¡Cierre de sesión exitoso!",
+    "ja": "正常にサインアウトしました！"
+  },
+  "nav_item_2": {
+    "ko": "1:1 DM",
+    "en": "1:1 DMs",
+    "zh": "1:1 私信",
+    "es": "DMs 1:1",
+    "ja": "1:1 DM"
+  },
+  "nav_item_1": {
+    "ko": "대량 DM",
+    "en": "Mass DMs",
+    "zh": "群发私信",
+    "es": "Mensajes Directos Masivos",
+    "ja": "大量のDM"
+  }
+}

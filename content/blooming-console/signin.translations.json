@@ -1,0 +1,23 @@
+{
+  "password_label": {
+    "ko": "비밀번호",
+    "en": "Password",
+    "zh": "密码",
+    "es": "Contraseña",
+    "ja": "パスワード"
+  },
+  "signin_cta": {
+    "ko": "로그인",
+    "en": "Login",
+    "zh": "登录",
+    "es": "Iniciar sesión",
+    "ja": "ログイン"
+  },
+  "signin_error": {
+    "ko": "사용자 이름 또는 비밀번호가 올바르지 않습니다. 다시 시도해 주세요.",
+    "en": "Your username or password was not correct. Please try again.",
+    "zh": "您的用户名或密码不正确。请再试一次。",
+    "es": "Tu nombre de usuario o contraseña no son correctos. Por favor, inténtalo de nuevo.",
+    "ja": "ユーザー名またはパスワードが正しくありません。もう一度お試しください。"
+  }
+}
