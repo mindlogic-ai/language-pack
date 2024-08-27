@@ -1,17 +1,10 @@
 {
-  "replies_empty_state": {
-    "ko": "답변이 없습니다.",
-    "en": "No replies.",
-    "zh": "没有回复。",
-    "es": "No hay respuestas.",
-    "ja": "返信がありません。"
-  },
-  "replies_reload_button": {
-    "ko": "새로 고침",
-    "en": "Reload",
-    "zh": "重新加载",
-    "es": "Recargar",
-    "ja": "リロード"
+  "queued_messages_label": {
+    "ko": "대기 중인 메시지",
+    "en": "Queued messages",
+    "zh": "排队的消息",
+    "es": "Mensajes en cola",
+    "ja": "キューに入っているメッセージ"
   },
   "replies_button": {
     "ko": "답글 보기",
@@ -20,12 +13,19 @@
     "es": "Ver respuestas",
     "ja": "返信を見る"
   },
-  "hide_replies_button": {
-    "ko": "답글 숨기기",
-    "en": "Hide replies",
-    "zh": "隐藏回复",
-    "es": "Ocultar respuestas",
-    "ja": "返信を非表示"
+  "replies_reload_button": {
+    "ko": "새로 고침",
+    "en": "Reload",
+    "zh": "重新加载",
+    "es": "Recargar",
+    "ja": "リロード"
+  },
+  "replies_empty_state": {
+    "ko": "답변이 없습니다.",
+    "en": "No replies.",
+    "zh": "没有回复。",
+    "es": "Sin respuestas.",
+    "ja": "返信がありません。"
   },
   "fancare_empty_state": {
     "ko": "아직 대량 DM이 없습니다!",
@@ -34,11 +34,11 @@
     "es": "¡Aún no hay mensajes masivos!",
     "ja": "まだ大量のDMはありません！"
   },
-  "queued_messages_label": {
-    "ko": "대기 중인 메시지",
-    "en": "Queued messages",
-    "zh": "排队的消息",
-    "es": "Mensajes en cola",
-    "ja": "キューに入れられたメッセージ"
+  "hide_replies_button": {
+    "ko": "답글 숨기기",
+    "en": "Hide replies",
+    "zh": "隐藏回复",
+    "es": "Ocultar respuestas",
+    "ja": "返信を非表示"
   }
 }

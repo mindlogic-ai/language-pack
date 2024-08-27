@@ -13,26 +13,19 @@
     "es": "Aprobado",
     "ja": "承認済み"
   },
-  "reject_message_modal_confirm_button": {
-    "ko": "거부",
-    "en": "Reject",
-    "zh": "拒绝",
-    "es": "Rechazar",
-    "ja": "拒否"
-  },
-  "reject_message_modal_cancel_button": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
-  },
   "queued_message_pending_label": {
     "ko": "승인 대기 중",
     "en": "Pending approval",
     "zh": "等待批准",
     "es": "Pendiente de aprobación",
     "ja": "承認待ち"
+  },
+  "reject_message_modal_confirm_button": {
+    "ko": "거부",
+    "en": "Reject",
+    "zh": "拒绝",
+    "es": "Rechazar",
+    "ja": "拒否"
   },
   "reject_message_modal_title": {
     "ko": "거부 메시지",
@@ -41,13 +34,6 @@
     "es": "Rechazar mensaje",
     "ja": "メッセージを拒否"
   },
-  "approve_queued_message_error_toast": {
-    "ko": "메시지를 승인하는 중 오류가 발생했습니다. 다시 시도해 주세요",
-    "en": "There was an error approving the message. Please try again",
-    "zh": "批准消息时出错。请再试一次",
-    "es": "Hubo un error al aprobar el mensaje. Por favor, inténtelo de nuevo",
-    "ja": "メッセージの承認中にエラーが発生しました。もう一度お試しください"
-  },
   "reject_queued_message_success_toast": {
     "ko": "메시지가 성공적으로 거부되었습니다",
     "en": "Message was successfully rejected",
@@ -55,12 +41,12 @@
     "es": "El mensaje fue rechazado con éxito",
     "ja": "メッセージは正常に拒否されました"
   },
-  "reject_queued_message_error_toast": {
-    "ko": "메시지를 거부하는 중 오류가 발생했습니다. 다시 시도해 주세요",
-    "en": "There was an error rejecting the message. Please try again",
-    "zh": "拒绝消息时发生错误。请再试一次",
-    "es": "Hubo un error al rechazar el mensaje. Por favor, inténtelo de nuevo",
-    "ja": "メッセージの拒否中にエラーが発生しました。もう一度お試しください"
+  "approve_queued_message_error_toast": {
+    "ko": "메시지를 승인하는 중 오류가 발생했습니다. 다시 시도해 주세요",
+    "en": "There was an error approving the message. Please try again",
+    "zh": "批准消息时出错。请再试一次",
+    "es": "Hubo un error al aprobar el mensaje. Por favor, inténtelo de nuevo",
+    "ja": "メッセージの承認中にエラーが発生しました。もう一度お試しください"
   },
   "approve_queued_message_success_toast": {
     "ko": "메시지가 성공적으로 승인되었습니다",
@@ -74,6 +60,20 @@
     "en": "Are you sure? You can't undo this action afterwards.",
     "zh": "你确定吗？此操作无法撤销。",
     "es": "¿Estás seguro? No puedes deshacer esta acción después.",
-    "ja": "本当によろしいですか？この操作は元に戻せません。"
+    "ja": "本当によろしいですか？この操作は後で元に戻すことはできません。"
+  },
+  "reject_queued_message_error_toast": {
+    "ko": "메시지를 거부하는 중 오류가 발생했습니다. 다시 시도해 주세요.",
+    "en": "There was an error rejecting the message. Please try again",
+    "zh": "拒绝消息时发生错误。请再试一次。",
+    "es": "Hubo un error al rechazar el mensaje. Por favor, inténtelo de nuevo.",
+    "ja": "メッセージの拒否中にエラーが発生しました。もう一度お試しください。"
+  },
+  "reject_message_modal_cancel_button": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
   }
 }

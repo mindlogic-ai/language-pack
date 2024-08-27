@@ -4,12 +4,12 @@
     "en": "Queued messages",
     "zh": "排队的消息",
     "es": "Mensajes en cola",
-    "ja": "キューに入っているメッセージ"
+    "ja": "キューに入れられたメッセージ"
   },
   "direct_dm_empty_state": {
     "ko": "아직 직접 메시지가 없습니다!",
     "en": "No direct DMs yet!",
-    "zh": "还没有直接消息！",
+    "zh": "还没有直接的私信！",
     "es": "¡Aún no hay mensajes directos!",
     "ja": "まだ直接メッセージはありません！"
   }
