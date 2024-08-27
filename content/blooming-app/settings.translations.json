@@ -537,5 +537,12 @@
     "zh": "从图库中选择",
     "es": "Seleccionar de la galería",
     "ja": "ギャラリーから選択"
+  },
+  "setting_profile_3_cta_4": {
+    "ko": "회원 탈퇴",
+    "en": "Delete Account",
+    "zh": "会员退出",
+    "es": "Eliminar cuenta",
+    "ja": "アカウントを削除"
   }
 }
