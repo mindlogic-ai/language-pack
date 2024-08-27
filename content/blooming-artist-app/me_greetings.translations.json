@@ -187,5 +187,12 @@
     "zh": "如果以未添加的语言开始对话，\n将使用该语言的问候语。",
     "es": "Si una conversación comienza en un idioma que no está agregado,\nse usará el saludo en ese idioma.",
     "ja": "追加されていない言語で会話が始まると、\nその言語の挨拶が使用されます。"
+  },
+  "Me_2_toast_3": {
+    "ko": "인사말이 삭제되었습니다.",
+    "en": "The greeting has been deleted.",
+    "zh": "问候已被删除。",
+    "es": "El saludo ha sido eliminado.",
+    "ja": "挨拶が削除されました。"
   }
 }

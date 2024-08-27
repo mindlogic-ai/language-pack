@@ -523,5 +523,19 @@
     "zh": "如果您断开音乐服务，您只能听到预览歌曲。\n您仍然要断开连接吗？",
     "es": "Si desconectas Apple Music, solo podrás escuchar la canción de vista previa.\n¿Aún quieres desconectarlo?",
     "ja": "音楽サービスの連携を解除すると、プレビュー曲しか聴けなくなります。\nそれでも連携を解除しますか？"
+  },
+  "setting_profile_3_cta_3": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "setting_profile_3_cta_2": {
+    "ko": "갤러리에서 선택",
+    "en": "Select from gallery",
+    "zh": "从图库中选择",
+    "es": "Seleccionar de la galería",
+    "ja": "ギャラリーから選択"
   }
 }

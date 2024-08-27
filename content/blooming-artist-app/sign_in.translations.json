@@ -68,5 +68,12 @@
     "zh": "发送验证码",
     "es": "Enviar código de verificación",
     "ja": "認証コードを送信"
+  },
+  "signin_2_cta_2": {
+    "ko": "로그인",
+    "en": "Sign in",
+    "zh": "登录",
+    "es": "Iniciar sesión",
+    "ja": "ログイン"
   }
 }
