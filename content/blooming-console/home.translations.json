@@ -5,5 +5,19 @@
     "zh": "欢迎！点击“大量 DM”或“1:1 DM”开始",
     "es": "¡Bienvenido! Haz clic en 'DM masivo' o 'DM 1:1' para comenzar",
     "ja": "ようこそ！始めるには「大量DM」または「1:1 DM」をクリックしてください"
+  },
+  "fancare_count_label": {
+    "ko": "대량 DM",
+    "en": "Mass DMs",
+    "zh": "群发私信",
+    "es": "Mensajes Directos Masivos",
+    "ja": "大量のDM"
+  },
+  "dm_count_label": {
+    "ko": "1:1 DM",
+    "en": "1:1 DMs",
+    "zh": "1:1 私信",
+    "es": "Mensajes directos 1:1",
+    "ja": "1:1 ダイレクトメッセージ"
   }
 }

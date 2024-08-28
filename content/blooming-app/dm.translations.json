@@ -285,5 +285,19 @@
     "zh": "您已用完所有10条免费消息。\n订阅艺术家以继续对话。",
     "es": "Has usado los 10 mensajes gratuitos.\nSuscríbete al artista para continuar la conversación.",
     "ja": "無料メッセージ10件をすべて使い切りました。\nアーティストを購読して会話を続けましょう。"
+  },
+  "dm_2_text_1": {
+    "ko": "오전 {time}",
+    "en": "{time} AM",
+    "zh": "上午 {time}",
+    "es": "{time} AM",
+    "ja": "午前 {time}"
+  },
+  "dm_2_text_2": {
+    "ko": "오후 {time}",
+    "en": "{time} PM",
+    "zh": "下午 {time}",
+    "es": "{time} PM",
+    "ja": "午後 {time}"
   }
 }

@@ -544,5 +544,12 @@
     "zh": "会员退出",
     "es": "Eliminar cuenta",
     "ja": "アカウントを削除"
+  },
+  "setting_profile_2_text_3": {
+    "ko": "{num_of_text} / 60",
+    "en": "{num_of_text} / 20",
+    "zh": "{num_of_text} / 60",
+    "es": "{num_of_text} / 20",
+    "ja": "{num_of_text} / 60"
   }
 }
