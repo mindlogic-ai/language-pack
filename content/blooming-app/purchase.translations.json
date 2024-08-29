@@ -1,10 +1,24 @@
 {
-  "purchase_alert_5": {
-    "ko": "다른 계정에서 같은 스토어 상품을 사용중입니다.",
-    "en": "The same store item is being used by another account.",
-    "zh": "另一个账户正在使用相同的商店商品。",
-    "es": "El mismo artículo de la tienda está siendo utilizado por otra cuenta.",
-    "ja": "別のアカウントで同じストア商品を使用中です。"
+  "purchase_alert_3": {
+    "ko": "결제에 실패했습니다.",
+    "en": "Payment failed.",
+    "zh": "支付失败。",
+    "es": "El pago falló.",
+    "ja": "支払いに失敗しました。"
+  },
+  "purchase_alert_6": {
+    "ko": "만료된 결제입니다.",
+    "en": "The payment has expired.",
+    "zh": "付款已过期。",
+    "es": "El pago ha expirado.",
+    "ja": "支払いが期限切れです。"
+  },
+  "purchase_alert_7": {
+    "ko": "결제가 취소되었습니다.",
+    "en": "The payment has been canceled.",
+    "zh": "付款已被取消。",
+    "es": "El pago ha sido cancelado.",
+    "ja": "支払いがキャンセルされました。"
   },
   "purchase_alert_4": {
     "ko": "구매할 수 없는 상품입니다",
@@ -12,6 +26,20 @@
     "zh": "此商品无法购买",
     "es": "Este producto no está disponible para la compra",
     "ja": "この商品は購入できません"
+  },
+  "purchase_alert_5": {
+    "ko": "다른 계정에서 같은 스토어 상품을 사용중입니다.",
+    "en": "The same store item is being used by another account.",
+    "zh": "另一个账户正在使用相同的商店商品。",
+    "es": "El mismo artículo de la tienda está siendo utilizado por otra cuenta.",
+    "ja": "別のアカウントで同じストア商品を使用中です。"
+  },
+  "purchase_alert_1": {
+    "ko": "구독 결제가 완료되었습니다.",
+    "en": "Subscription payment has been completed.",
+    "zh": "订阅付款已完成。",
+    "es": "El pago de la suscripción se ha completado.",
+    "ja": "サブスクリプションの支払いが完了しました。"
   },
   "purchase_alert_2": {
     "ko": "충전이 완료되었습니다.",
@@ -26,33 +54,5 @@
     "zh": "付款正在等待中。",
     "es": "El pago está pendiente.",
     "ja": "支払いが保留中です。"
-  },
-  "purchase_alert_1": {
-    "ko": "구독 결제가 완료되었습니다.",
-    "en": "Subscription payment has been completed.",
-    "zh": "订阅付款已完成。",
-    "es": "El pago de la suscripción se ha completado.",
-    "ja": "サブスクリプションの支払いが完了しました。"
-  },
-  "purchase_alert_6": {
-    "ko": "만료된 결제입니다.",
-    "en": "The payment has expired.",
-    "zh": "付款已过期。",
-    "es": "El pago ha expirado.",
-    "ja": "支払いの有効期限が切れました。"
-  },
-  "purchase_alert_7": {
-    "ko": "결제가 취소되었습니다.",
-    "en": "The payment has been canceled.",
-    "zh": "付款已取消。",
-    "es": "El pago ha sido cancelado.",
-    "ja": "支払いがキャンセルされました。"
-  },
-  "purchase_alert_3": {
-    "ko": "결제에 실패했습니다.",
-    "en": "Payment failed.",
-    "zh": "支付失败。",
-    "es": "El pago falló.",
-    "ja": "支払いに失敗しました。"
   }
 }

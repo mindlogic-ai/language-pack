@@ -1,0 +1,30 @@
+{
+  "timestamp_2": {
+    "ko": "yyyy년 MM월 d일",
+    "en": "MMM d, yyyy",
+    "zh": "yyyy年 MM月 d日",
+    "es": "d MMM, yyyy",
+    "ja": "yyyy年 MM月 d日"
+  },
+  "timestamp_4": {
+    "ko": "yyyy년 MM월 d일 EEEE",
+    "en": "EEEE, MMM d, yyyy",
+    "zh": "yyyy年 MM月 d日 EEEE",
+    "es": "EEEE, d 'de' MMM 'de' yyyy",
+    "ja": "yyyy年 MM月 d日 EEEE"
+  },
+  "timestamp_1": {
+    "ko": "a hh:mm",
+    "en": "hh:mm a",
+    "zh": "a hh:mm",
+    "es": "hh:mm a",
+    "ja": "a hh:mm"
+  },
+  "timestamp_3": {
+    "ko": "yyyy.M.d(E)",
+    "en": "MMM d, yyyy, EEE",
+    "zh": "yyyy.M.d(E)",
+    "es": "d MMM, yyyy, EEE",
+    "ja": "yyyy.M.d(E)"
+  }
+}

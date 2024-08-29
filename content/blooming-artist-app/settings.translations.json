@@ -1,17 +1,17 @@
 {
+  "Me_3_cta_1": {
+    "ko": "기본 이미지로 선택",
+    "en": "Select default",
+    "zh": "选择默认图片",
+    "es": "Seleccionar predeterminado",
+    "ja": "デフォルト画像を選択"
+  },
   "Me_3_cta_3": {
     "ko": "취소",
     "en": "Cancel",
     "zh": "取消",
     "es": "Cancelar",
     "ja": "キャンセル"
-  },
-  "Me_3_cta_1": {
-    "ko": "기본 이미지로 선택",
-    "en": "Select default",
-    "zh": "选择默认图像",
-    "es": "Seleccionar predeterminado",
-    "ja": "デフォルト画像を選択"
   },
   "Me_3_cta_2": {
     "ko": "갤러리에서 선택",

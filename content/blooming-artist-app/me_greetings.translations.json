@@ -1,19 +1,61 @@
 {
-  "Me_2_label_1": {
-    "ko": "언어",
-    "en": "Language",
-    "zh": "语言",
-    "es": "Idioma",
-    "ja": "言語"
+  "Me_4_title_1": {
+    "ko": "차단된 계정",
+    "en": "Blocked Accounts",
+    "zh": "被封锁的账户",
+    "es": "Cuentas Bloqueadas",
+    "ja": "ブロックされたアカウント"
   },
-  "Me_3_popup_1_2": {
+  "Me_2_toast_1": {
+    "ko": "인사말 설정을 완료했어요.",
+    "en": "Setting greetings completed",
+    "zh": "问候语设置完成",
+    "es": "Configuración de saludos completada",
+    "ja": "挨拶の設定が完了しました"
+  },
+  "Me_4_toast_1": {
+    "ko": "{fan_name}를 차단 해제하였어요.",
+    "en": "{fan_name} has been unblocked.",
+    "zh": "{fan_name}已被解除封锁。",
+    "es": "{fan_name} ha sido desbloqueado.",
+    "ja": "{fan_name}のブロックを解除しました。"
+  },
+  "Me_2_popup_4_3": {
+    "ko": "삭제",
+    "en": "Delete",
+    "zh": "删除",
+    "es": "Eliminar",
+    "ja": "削除"
+  },
+  "Me_2_popup_1_2": {
     "ko": "취소",
     "en": "Cancel",
     "zh": "取消",
     "es": "Cancelar",
     "ja": "キャンセル"
   },
+  "Me_2_popup_1_3": {
+    "ko": "닫기",
+    "en": "Close",
+    "zh": "关闭",
+    "es": "Cerrar",
+    "ja": "閉じる"
+  },
+  "Me_2_toast_2": {
+    "ko": "기본 인사말을 변경했어요.",
+    "en": "Default language changed",
+    "zh": "默认问候语已更改。",
+    "es": "Idioma predeterminado cambiado",
+    "ja": "デフォルトの挨拶を変更しました。"
+  },
   "Me_2_popup_4_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "Me_2_popup_2_2": {
     "ko": "취소",
     "en": "Cancel",
     "zh": "取消",
@@ -27,151 +69,11 @@
     "es": "Cerrar sesión",
     "ja": "ログアウト"
   },
-  "Me_2_popup_4_3": {
-    "ko": "삭제",
-    "en": "Delete",
-    "zh": "删除",
-    "es": "Eliminar",
-    "ja": "削除"
-  },
-  "Me_4_cta_1": {
-    "ko": "차단 해제",
-    "en": "Unblock",
-    "zh": "解除屏蔽",
-    "es": "Desbloquear",
-    "ja": "ブロック解除"
-  },
-  "Me_2_popup_1_3": {
-    "ko": "닫기",
-    "en": "Close",
-    "zh": "关闭",
-    "es": "Cerrar",
-    "ja": "閉じる"
-  },
-  "Me_2_popup_2_3": {
-    "ko": "변경",
-    "en": "Set",
-    "zh": "变更",
-    "es": "Establecer",
-    "ja": "変更"
-  },
-  "Me_2_popup_1_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
-  },
-  "Me_2_toast_3": {
-    "ko": "인사말이 삭제되었습니다.",
-    "en": "The greeting has been deleted.",
-    "zh": "问候已被删除。",
-    "es": "El saludo ha sido eliminado.",
-    "ja": "挨拶が削除されました。"
-  },
-  "Me_2_toast_1": {
-    "ko": "인사말 설정을 완료했어요.",
-    "en": "Setting greetings completed",
-    "zh": "问候语设置完成",
-    "es": "Configuración de saludos completada",
-    "ja": "挨拶の設定が完了しました"
-  },
-  "Me_2_placeholder_1": {
-    "ko": "언어별 인사말을 입력해 주세요.",
-    "en": "Please enter greetings by language.",
-    "zh": "请按语言输入问候语。",
-    "es": "Por favor, ingrese saludos por idioma.",
-    "ja": "言語ごとに挨拶を入力してください。"
-  },
-  "Me_2_popup_2_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
-  },
-  "Me_2_popup_3_2": {
-    "ko": "확인",
-    "en": "OK",
-    "zh": "确认",
-    "es": "OK",
-    "ja": "確認"
-  },
-  "Me_2_label_2": {
-    "ko": "기본 인사말로 설정",
-    "en": "Set as a default greeting",
-    "zh": "设置为默认问候语",
-    "es": "Establecer como saludo predeterminado",
-    "ja": "デフォルトの挨拶として設定"
-  },
-  "Me_2_toast_2": {
-    "ko": "기본 인사말을 변경했어요.",
-    "en": "Default language changed",
-    "zh": "默认问候语已更改。",
-    "es": "Idioma predeterminado cambiado",
-    "ja": "デフォルトの挨拶が変更されました。"
-  },
-  "Me_2_label_4": {
-    "ko": "인사말 수정",
-    "en": "Edit Greetings",
-    "zh": "编辑问候语",
-    "es": "Editar saludos",
-    "ja": "挨拶を編集"
-  },
-  "Me_2_label_6": {
-    "ko": "인사말 추가",
-    "en": "Add Greeting",
-    "zh": "添加问候语",
-    "es": "Agregar saludo",
-    "ja": "挨拶を追加"
-  },
-  "Me_2_label_5": {
-    "ko": "기본 인사말로 설정",
-    "en": "Set as a default greeting",
-    "zh": "设置为默认问候语",
-    "es": "Establecer como saludo predeterminado",
-    "ja": "デフォルトの挨拶として設定"
-  },
-  "Me_2_popup_2_1": {
-    "ko": "기본 인사말을\n영어로 변경할까요?",
-    "en": "Do you want to set English as a default language?",
-    "zh": "要将默认问候语改为英语吗？",
-    "es": "¿Quieres establecer el inglés como idioma predeterminado?",
-    "ja": "デフォルトの挨拶を英語に変更しますか？"
-  },
-  "Me_2_popup_1_1": {
-    "ko": "창을 닫으면 인사말이 수정되지 않아요.\n창을 닫을까요?",
-    "en": "If you close the window, the greeting will not be modified.\nDo you want to close the window?",
-    "zh": "如果关闭窗口，问候语将不会被修改。\n您要关闭窗口吗？",
-    "es": "Si cierras la ventana, el saludo no se modificará.\n¿Quieres cerrar la ventana?",
-    "ja": "ウィンドウを閉じると、挨拶は変更されません。\nウィンドウを閉じますか？"
-  },
-  "Me_2_popup_4_1": {
-    "ko": "한국어 인사말을 삭제할까요? 삭제한 후에는 복구할 수 없습니다.",
-    "en": "Are you sure you want to delete\n‘Korean greeting’?\nThis action cannot be undone.",
-    "zh": "您确定要删除韩语问候语吗？删除后将无法恢复。",
-    "es": "¿Estás seguro de que quieres eliminar\n‘Korean greeting’?\nEsta acción no se puede deshacer.",
-    "ja": "韓国語の挨拶を削除しますか？削除後は元に戻せません。"
-  },
-  "Me_3_popup_1_1": {
-    "ko": "로그아웃 하시면 앱 시작 화면으로 되돌아갑니다. 로그아웃할까요?",
-    "en": "If you log out, you will return to the app start screen.\nAre you sure you want to sign out?",
-    "zh": "如果您注销，您将返回应用程序启动屏幕。您确定要注销吗？",
-    "es": "Si cierra sesión, volverá a la pantalla de inicio de la aplicación.\n¿Está seguro de que desea cerrar sesión?",
-    "ja": "ログアウトすると、アプリの開始画面に戻ります。ログアウトしてもよろしいですか？"
-  },
-  "Me_4_toast_1": {
-    "ko": "{fan_name}를 차단 해제하였어요.",
-    "en": "{fan_name} has been unblocked.",
-    "zh": "{fan_name}已被解除封锁。",
-    "es": "{fan_name} ha sido desbloqueado.",
-    "ja": "{fan_name}のブロックを解除しました。"
-  },
   "Me_2_popup_3_1": {
     "ko": "기본 인사말은 삭제할 수 없습니다.\n다른 언어를 기본 인사말로 지정한 후\n다시 시도해 주세요.",
     "en": "The default greeting cannot be deleted.\nPlease set a different language as your default greeting and try again.",
     "zh": "默认问候语无法删除。\n请将其他语言设置为默认问候语后再试。",
-    "es": "No se puede eliminar el saludo predeterminado.\nPor favor, establezca un idioma diferente como su saludo predeterminado e inténtelo de nuevo.",
+    "es": "No se puede eliminar el saludo predeterminado.\nPor favor, configure un idioma diferente como su saludo predeterminado e inténtelo de nuevo.",
     "ja": "デフォルトの挨拶は削除できません。\n別の言語をデフォルトの挨拶として設定してから、もう一度お試しください。"
   },
   "Me_2_label_3": {
@@ -181,6 +83,34 @@
     "es": "Editar perfil",
     "ja": "プロフィールを編集"
   },
+  "Me_2_placeholder_1": {
+    "ko": "언어별 인사말을 입력해 주세요.",
+    "en": "Please enter greetings by language.",
+    "zh": "请按语言输入问候语。",
+    "es": "Por favor, ingrese saludos por idioma.",
+    "ja": "言語ごとに挨拶を入力してください。"
+  },
+  "Me_2_toast_3": {
+    "ko": "인사말이 삭제되었습니다.",
+    "en": "The greeting has been deleted.",
+    "zh": "问候已被删除。",
+    "es": "El saludo ha sido eliminado.",
+    "ja": "挨拶が削除されました。"
+  },
+  "Me_2_label_4": {
+    "ko": "인사말 수정",
+    "en": "Edit Greetings",
+    "zh": "编辑问候语",
+    "es": "Editar saludos",
+    "ja": "挨拶を編集"
+  },
+  "Me_2_popup_4_1": {
+    "ko": "한국어 인사말을 삭제할까요? 삭제한 후에는 복구할 수 없습니다.",
+    "en": "Are you sure you want to delete\n‘Korean greeting’?\nThis action cannot be undone.",
+    "zh": "您确定要删除韩语问候语吗？删除后将无法恢复。",
+    "es": "¿Estás seguro de que quieres eliminar\n‘saludo en coreano’?\nEsta acción no se puede deshacer.",
+    "ja": "韓国語の挨拶を削除しますか？削除後は復元できません。"
+  },
   "Me_2_label_7": {
     "ko": "추가되지 않은 언어로 대화가 시작되면,\n이 언어의 인사말이 사용됩니다.",
     "en": "If a conversation begins in a language that has not been added,\nthe greeting in this language will be used.",
@@ -188,11 +118,81 @@
     "es": "Si una conversación comienza en un idioma que no se ha agregado,\nse usará el saludo en ese idioma.",
     "ja": "追加されていない言語で会話が始まると、\nその言語の挨拶が使用されます。"
   },
-  "Me_4_title_1": {
-    "ko": "차단된 계정",
-    "en": "Blocked Accounts",
-    "zh": "被封锁的账户",
-    "es": "Cuentas bloqueadas",
-    "ja": "ブロックされたアカウント"
+  "Me_2_label_1": {
+    "ko": "언어",
+    "en": "Language",
+    "zh": "语言",
+    "es": "Idioma",
+    "ja": "言語"
+  },
+  "Me_2_popup_2_1": {
+    "ko": "기본 인사말을\n영어로 변경할까요?",
+    "en": "Do you want to set English as a default language?",
+    "zh": "要将默认问候语改为英语吗？",
+    "es": "¿Quieres establecer el inglés como idioma predeterminado?",
+    "ja": "デフォルトの挨拶を英語に変更しますか？"
+  },
+  "Me_2_label_6": {
+    "ko": "인사말 추가",
+    "en": "Add Greeting",
+    "zh": "添加问候语",
+    "es": "Agregar saludo",
+    "ja": "挨拶を追加"
+  },
+  "Me_3_popup_1_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "Me_2_label_5": {
+    "ko": "기본 인사말로 설정",
+    "en": "Set as a default greeting",
+    "zh": "设置为默认问候语",
+    "es": "Establecer como saludo predeterminado",
+    "ja": "デフォルトの挨拶として設定"
+  },
+  "Me_4_cta_1": {
+    "ko": "차단 해제",
+    "en": "Unblock",
+    "zh": "解除屏蔽",
+    "es": "Desbloquear",
+    "ja": "ブロック解除"
+  },
+  "Me_2_popup_2_3": {
+    "ko": "변경",
+    "en": "Set",
+    "zh": "变更",
+    "es": "Establecer",
+    "ja": "変更"
+  },
+  "Me_2_label_2": {
+    "ko": "기본 인사말로 설정",
+    "en": "Set as a default greeting",
+    "zh": "设置为默认问候语",
+    "es": "Establecer como saludo predeterminado",
+    "ja": "デフォルトの挨拶として設定"
+  },
+  "Me_3_popup_1_1": {
+    "ko": "로그아웃 하시면 앱 시작 화면으로 되돌아갑니다. 로그아웃할까요?",
+    "en": "If you log out, you will return to the app start screen.\nAre you sure you want to sign out?",
+    "zh": "如果您注销，您将返回应用程序启动屏幕。\n您确定要注销吗？",
+    "es": "Si cierra sesión, volverá a la pantalla de inicio de la aplicación.\n¿Está seguro de que desea cerrar sesión?",
+    "ja": "ログアウトすると、アプリの開始画面に戻ります。\n本当にログアウトしますか？"
+  },
+  "Me_2_popup_1_1": {
+    "ko": "창을 닫으면 인사말이 수정되지 않아요.\n창을 닫을까요?",
+    "en": "If you close the window, the greeting will not be modified.\nDo you want to close the window?",
+    "zh": "如果关闭窗口，问候语将不会被修改。\n您要关闭窗口吗？",
+    "es": "Si cierras la ventana, el saludo no se modificará.\n¿Quieres cerrar la ventana?",
+    "ja": "ウィンドウを閉じると、挨拶は変更されません。\nウィンドウを閉じますか？"
+  },
+  "Me_2_popup_3_2": {
+    "ko": "확인",
+    "en": "OK",
+    "zh": "确认",
+    "es": "Aceptar",
+    "ja": "確認"
   }
 }

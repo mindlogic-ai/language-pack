@@ -6,12 +6,19 @@
     "es": "Configuraciones",
     "ja": "設定"
   },
-  "Me_3_label_1": {
-    "ko": "일반",
-    "en": "General",
-    "zh": "一般",
-    "es": "General",
-    "ja": "一般"
+  "Me_3_label_7": {
+    "ko": "개인정보 보호정책",
+    "en": "Privacy Policy",
+    "zh": "隐私政策",
+    "es": "Política de Privacidad",
+    "ja": "プライバシーポリシー"
+  },
+  "Me_3_label_5": {
+    "ko": "앱 버전",
+    "en": "App Version",
+    "zh": "应用版本",
+    "es": "Versión de la aplicación",
+    "ja": "アプリバージョン"
   },
   "Me_3_label_6": {
     "ko": "이용 약관",
@@ -24,15 +31,8 @@
     "ko": "차단된 계정",
     "en": "Blocked Accounts",
     "zh": "被封锁的账户",
-    "es": "Cuentas bloqueadas",
+    "es": "Cuentas Bloqueadas",
     "ja": "ブロックされたアカウント"
-  },
-  "Me_3_label_7": {
-    "ko": "개인정보 보호정책",
-    "en": "Privacy Policy",
-    "zh": "隐私政策",
-    "es": "Política de Privacidad",
-    "ja": "プライバシーポリシー"
   },
   "Me_3_label_2": {
     "ko": "내 계정",
@@ -41,18 +41,18 @@
     "es": "Mi Cuenta",
     "ja": "マイアカウント"
   },
-  "Me_3_label_5": {
-    "ko": "앱 버전",
-    "en": "App Version",
-    "zh": "应用版本",
-    "es": "Versión de la aplicación",
-    "ja": "アプリバージョン"
-  },
   "Me_3_label_4": {
     "ko": "시스템",
     "en": "System",
     "zh": "系统",
     "es": "Sistema",
     "ja": "システム"
+  },
+  "Me_3_label_1": {
+    "ko": "일반",
+    "en": "General",
+    "zh": "一般",
+    "es": "General",
+    "ja": "一般"
   }
 }

@@ -1,24 +1,10 @@
 {
-  "signin_2_link_text_1": {
-    "ko": "인증번호 재전송",
-    "en": "request a new one",
-    "zh": "重新发送验证码",
-    "es": "solicitar uno nuevo",
-    "ja": "認証番号を再送信"
-  },
-  "signin_2_error_text_2": {
-    "ko": "인증번호의 유효시간이 만료됐습니다.\n{signin_2_link_text_1}하세요.",
-    "en": "The verification code has expired.\nPlease {signin_2_link_text_1}.",
-    "zh": "验证码已过期。\n请{signin_2_link_text_1}。",
-    "es": "El código de verificación ha expirado.\nPor favor, {signin_2_link_text_1}.",
-    "ja": "認証コードの有効期限が切れました。\n{signin_2_link_text_1}してください。"
-  },
-  "signin_2_cta_2": {
-    "ko": "로그인",
-    "en": "Sign in",
-    "zh": "登录",
-    "es": "Iniciar sesión",
-    "ja": "ログイン"
+  "signin_1_cta_1": {
+    "ko": "인증번호 전송",
+    "en": "Send Verification Code",
+    "zh": "发送验证码",
+    "es": "Enviar código de verificación",
+    "ja": "認証コードを送信"
   },
   "signin_1_title_1": {
     "ko": "휴대폰으로 시작",
@@ -27,33 +13,19 @@
     "es": "Continuar con el teléfono",
     "ja": "携帯電話で続行"
   },
-  "signin_1_cta_1": {
-    "ko": "인증번호 전송",
-    "en": "Send Verification Code",
-    "zh": "发送验证码",
-    "es": "Enviar código de verificación",
-    "ja": "認証コードを送信"
+  "signin_2_cta_2": {
+    "ko": "로그인",
+    "en": "Sign in",
+    "zh": "登录",
+    "es": "Iniciar sesión",
+    "ja": "ログイン"
   },
-  "signin_2_text_4": {
-    "ko": "휴대폰 본인인증이 완료되었습니다.",
-    "en": "Your contact has been verified.",
-    "zh": "手机身份验证已完成。",
-    "es": "Su contacto ha sido verificado.",
-    "ja": "携帯電話の本人確認が完了しました。"
-  },
-  "signin_1_text_1": {
-    "ko": "휴대폰 번호를 입력하세요.",
-    "en": "Sign in with your phone number.",
-    "zh": "请输入您的手机号码。",
-    "es": "Inicia sesión con tu número de teléfono.",
-    "ja": "携帯電話番号を入力してください。"
-  },
-  "signin_2_cta_1": {
-    "ko": "다음",
-    "en": "Next",
-    "zh": "下一个",
-    "es": "Siguiente",
-    "ja": "次"
+  "signin_2_link_text_1": {
+    "ko": "인증번호 재전송",
+    "en": "request a new one",
+    "zh": "重新发送验证码",
+    "es": "solicitar uno nuevo",
+    "ja": "認証番号を再送信"
   },
   "signin_2_text_1": {
     "ko": "인증번호를 입력하세요",
@@ -62,18 +34,46 @@
     "es": "Ingrese el código",
     "ja": "認証コードを入力してください"
   },
-  "signin_2_error_text_1": {
-    "ko": "잘못된 인증 번호입니다.\n인증번호를 재확인하거나 {signin_2_link_text_1}하세요.",
-    "en": "Incorrect code.\nPlease try again or {signin_2_link_text_1}.",
-    "zh": "验证码错误。\n请重新确认验证码或{signin_2_link_text_1}。",
-    "es": "Código incorrecto.\nPor favor, inténtelo de nuevo o {signin_2_link_text_1}.",
-    "ja": "認証コードが間違っています。\n認証コードを再確認するか、{signin_2_link_text_1}してください。"
+  "signin_2_text_4": {
+    "ko": "휴대폰 본인인증이 완료되었습니다.",
+    "en": "Your contact has been verified.",
+    "zh": "手机身份验证已完成。",
+    "es": "Su contacto ha sido verificado.",
+    "ja": "携帯電話の本人確認が完了しました。"
   },
   "signin_2_text_2": {
     "ko": "인증번호를 받지 못하셨나요?\n{signin_2_link_text_1}하세요.",
     "en": "If you have not received the code, please {signup_2_link_text_1}.",
     "zh": "您没有收到验证码吗？\n请{signin_2_link_text_1}。",
-    "es": "Si no has recibido el código, por favor {signup_2_link_text_1}.",
+    "es": "Si no ha recibido el código, por favor {signup_2_link_text_1}.",
     "ja": "認証コードを受け取っていませんか？\n{signin_2_link_text_1}してください。"
+  },
+  "signin_2_error_text_1": {
+    "ko": "잘못된 인증 번호입니다.\n인증번호를 재확인하거나 {signin_2_link_text_1}하세요.",
+    "en": "Incorrect code.\nPlease try again or {signin_2_link_text_1}.",
+    "zh": "错误的认证号码。\n请重新确认认证号码或{signin_2_link_text_1}。",
+    "es": "Código incorrecto.\nPor favor, inténtelo de nuevo o {signin_2_link_text_1}.",
+    "ja": "間違った認証番号です。\n認証番号を再確認するか、{signin_2_link_text_1}してください。"
+  },
+  "signin_1_text_1": {
+    "ko": "휴대폰 번호를 입력하세요.",
+    "en": "Sign in with your phone number.",
+    "zh": "请输入您的手机号码。",
+    "es": "Inicia sesión con tu número de teléfono.",
+    "ja": "電話番号でサインインしてください。"
+  },
+  "signin_2_cta_1": {
+    "ko": "다음",
+    "en": "Next",
+    "zh": "下一个",
+    "es": "Siguiente",
+    "ja": "次"
+  },
+  "signin_2_error_text_2": {
+    "ko": "인증번호의 유효시간이 만료됐습니다.\n{signin_2_link_text_1}하세요.",
+    "en": "The verification code has expired.\nPlease {signin_2_link_text_1}.",
+    "zh": "验证码已过期。\n请{signin_2_link_text_1}。",
+    "es": "El código de verificación ha expirado.\nPor favor, {signin_2_link_text_1}.",
+    "ja": "認証コードの有効期限が切れました。\n{signin_2_link_text_1}してください。"
   }
 }
