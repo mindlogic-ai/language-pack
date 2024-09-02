@@ -1,0 +1,37 @@
+{
+  "dm_2_long_touch_2": {
+    "ko": "삭제",
+    "en": "Delete",
+    "zh": "删除",
+    "es": "Eliminar",
+    "ja": "削除"
+  },
+  "dm_2_placeholder_1": {
+    "ko": "메세지 입력...",
+    "en": "Message...",
+    "zh": "输入消息...",
+    "es": "Mensaje...",
+    "ja": "メッセージを入力..."
+  },
+  "dm_2_deleted_msg": {
+    "ko": "삭제된 메세지입니다.",
+    "en": "Deleted message",
+    "zh": "已删除的消息",
+    "es": "Mensaje eliminado",
+    "ja": "削除されたメッセージ"
+  },
+  "dm_2_bubble_3": {
+    "ko": "전송중...",
+    "en": "sending...",
+    "zh": "发送中...",
+    "es": "enviando...",
+    "ja": "送信中..."
+  },
+  "dm_2_long_touch_1": {
+    "ko": "복사",
+    "en": "Copy",
+    "zh": "复制",
+    "es": "Copiar",
+    "ja": "コピー"
+  }
+}
