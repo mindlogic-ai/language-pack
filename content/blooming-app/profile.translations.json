@@ -2,9 +2,9 @@
   "profile_cta_1": {
     "ko": "DM 시작",
     "en": "Send DM",
-    "zh": "开始DM",
+    "zh": "发送私信",
     "es": "Enviar DM",
-    "ja": "DMを開始"
+    "ja": "DMを送る"
   },
   "profile_music": {
     "ko": "프로필 뮤직",

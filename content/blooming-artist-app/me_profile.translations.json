@@ -1,24 +1,10 @@
 {
-  "Me_1_label_4": {
-    "ko": "인사말",
-    "en": "Greetings",
-    "zh": "问候",
-    "es": "Saludos",
-    "ja": "挨拶"
-  },
-  "Me_1_label_5": {
-    "ko": "인사말을 입력해 주세요",
-    "en": "Please enter greetings.",
-    "zh": "请输入问候语。",
-    "es": "Por favor, ingrese saludos.",
-    "ja": "挨拶を入力してください。"
-  },
-  "Me_1_label_2": {
-    "ko": "닉네임을 입력해 주세요",
-    "en": "Enter nickname",
-    "zh": "请输入昵称",
-    "es": "Ingrese apodo",
-    "ja": "ニックネームを入力してください"
+  "Me_2_cta_1": {
+    "ko": "확인",
+    "en": "Done",
+    "zh": "确认",
+    "es": "Hecho",
+    "ja": "確認"
   },
   "Me_2_placeholder_4": {
     "ko": "배경 사진",
@@ -27,33 +13,12 @@
     "es": "Foto de fondo",
     "ja": "背景写真"
   },
-  "Me_2_placeholder_2": {
-    "ko": "상태 메세지를 입력해 주세요.",
-    "en": "Enter status message",
-    "zh": "请输入状态消息。",
-    "es": "Ingrese el mensaje de estado",
-    "ja": "ステータスメッセージを入力してください。"
-  },
   "Me_1_title_1": {
     "ko": "Me",
     "en": "Me",
     "zh": "我",
     "es": "Yo",
     "ja": "私"
-  },
-  "Me_2_placeholder_3": {
-    "ko": "프로필 뮤직",
-    "en": "Background Music",
-    "zh": "背景音乐",
-    "es": "Música de Fondo",
-    "ja": "背景音楽"
-  },
-  "Me_2_origin_1": {
-    "ko": "A2O · {real_name}",
-    "en": "A2O · {real_name}",
-    "zh": "A2O · {real_name}",
-    "es": "A2O · {real_name}",
-    "ja": "A2O · {real_name}"
   },
   "Me_1_label_1": {
     "ko": "프로필",
@@ -62,12 +27,33 @@
     "es": "Perfil",
     "ja": "プロフィール"
   },
-  "Me_2_cta_1": {
-    "ko": "확인",
-    "en": "Done",
-    "zh": "确认",
-    "es": "Hecho",
-    "ja": "確認"
+  "Me_2_placeholder_1": {
+    "ko": "닉네임을 입력해 주세요.",
+    "en": "Enter nickname",
+    "zh": "请输入昵称。",
+    "es": "Ingrese apodo",
+    "ja": "ニックネームを入力してください。"
+  },
+  "Me_2_toast_2": {
+    "ko": "연령 제한 음악이라서 프로필 뮤직으로 설정할 수 없습니다.",
+    "en": "Because this music is age-restricted, you cannot choose the music as profile music.",
+    "zh": "由于这首音乐有年龄限制，无法将其设置为个人资料音乐。",
+    "es": "Debido a que esta música tiene restricciones de edad, no puedes elegirla como música de perfil.",
+    "ja": "この音楽は年齢制限があるため、プロフィール音楽として設定できません。"
+  },
+  "Me_2_origin_1": {
+    "ko": "A2O · {real_name}",
+    "en": "A2O · {real_name}",
+    "zh": "A2O · {real_name}",
+    "es": "A2O · {real_name}",
+    "ja": "A2O · {real_name}"
+  },
+  "Me_1_label_2": {
+    "ko": "닉네임을 입력해 주세요",
+    "en": "Enter nickname",
+    "zh": "请输入昵称",
+    "es": "Ingrese apodo",
+    "ja": "ニックネームを入力してください"
   },
   "Me_2_toast_1": {
     "ko": "프로필 설정을 완료했어요.",
@@ -76,20 +62,6 @@
     "es": "Perfil editado",
     "ja": "プロフィール設定が完了しました。"
   },
-  "Me_2_placeholder_1": {
-    "ko": "닉네임을 입력해 주세요.",
-    "en": "Enter nickname",
-    "zh": "请输入昵称。",
-    "es": "Ingrese apodo",
-    "ja": "ニックネームを入力してください。"
-  },
-  "Me_1_label_6": {
-    "ko": "기본 인사말",
-    "en": "Default",
-    "zh": "基本问候语",
-    "es": "Predeterminado",
-    "ja": "基本の挨拶"
-  },
   "Me_1_label_3": {
     "ko": "상태 메세지를 입력해 주세요",
     "en": "Enter status message",
@@ -97,18 +69,46 @@
     "es": "Ingrese el mensaje de estado",
     "ja": "ステータスメッセージを入力してください"
   },
-  "undefined": {
-    "ko": "",
-    "en": "",
-    "zh": "",
-    "es": "",
-    "ja": ""
+  "Me_2_placeholder_3": {
+    "ko": "프로필 뮤직",
+    "en": "Background Music",
+    "zh": "背景音乐",
+    "es": "Música de fondo",
+    "ja": "バックグラウンドミュージック"
   },
-  "Me_2_toast_2": {
-    "ko": "연령 제한 음악이라서 프로필 뮤직으로 설정할 수 없습니다.",
-    "en": "Because this music is age-restricted, you cannot choose the music as profile music.",
-    "zh": "由于此音乐有年龄限制，您无法将其设置为个人资料音乐。",
-    "es": "Debido a que esta música tiene restricciones de edad, no puedes elegirla como música de perfil.",
-    "ja": "この音楽は年齢制限があるため、プロフィール音楽として選択できません。"
+  "Me_1_label_6": {
+    "ko": "기본 인사말",
+    "en": "Default",
+    "zh": "基本问候语",
+    "es": "Predeterminado",
+    "ja": "基本的な挨拶"
+  },
+  "undefined": {
+    "ko": "안녕하세요, 오늘 기분이 어떠세요?",
+    "en": "Hello, how are you feeling today?",
+    "zh": "你好，今天感觉怎么样？",
+    "es": "Hola, ¿cómo te sientes hoy?",
+    "ja": "こんにちは、今日はどんな気分ですか？"
+  },
+  "Me_1_label_4": {
+    "ko": "인사말",
+    "en": "Greetings",
+    "zh": "问候",
+    "es": "Saludos",
+    "ja": "挨拶"
+  },
+  "Me_2_placeholder_2": {
+    "ko": "상태 메세지를 입력해 주세요.",
+    "en": "Enter status message",
+    "zh": "请输入状态消息",
+    "es": "Ingrese el mensaje de estado",
+    "ja": "ステータスメッセージを入力してください"
+  },
+  "Me_1_label_5": {
+    "ko": "인사말을 입력해 주세요",
+    "en": "Please enter greetings.",
+    "zh": "请输入问候语。",
+    "es": "Por favor, ingrese saludos.",
+    "ja": "挨拶を入力してください。"
   }
 }

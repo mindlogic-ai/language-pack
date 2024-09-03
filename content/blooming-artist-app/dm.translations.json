@@ -1,11 +1,4 @@
 {
-  "dm_2_long_touch_2": {
-    "ko": "삭제",
-    "en": "Delete",
-    "zh": "删除",
-    "es": "Eliminar",
-    "ja": "削除"
-  },
   "dm_2_placeholder_1": {
     "ko": "메세지 입력...",
     "en": "Message...",
@@ -26,6 +19,13 @@
     "zh": "发送中...",
     "es": "enviando...",
     "ja": "送信中..."
+  },
+  "dm_2_long_touch_2": {
+    "ko": "삭제",
+    "en": "Delete",
+    "zh": "删除",
+    "es": "Eliminar",
+    "ja": "削除"
   },
   "dm_2_long_touch_1": {
     "ko": "복사",

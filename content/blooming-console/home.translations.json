@@ -1,23 +1,23 @@
 {
+  "dm_count_label": {
+    "ko": "1:1 DM",
+    "en": "1:1 DMs",
+    "zh": "一对一私信",
+    "es": "Mensajes directos 1:1",
+    "ja": "1対1のDM"
+  },
   "placeholder_welcome_text": {
     "ko": "환영합니다! 시작하려면 '대량 DM' 또는 '1:1 DM'을 클릭하세요",
     "en": "Welcome! Click 'Mass DM' or '1:1 DMs' to get started",
-    "zh": "欢迎！点击“大量 DM”或“1:1 DM”开始",
+    "zh": "欢迎！点击“大量私信”或“1对1私信”开始",
     "es": "¡Bienvenido! Haz clic en 'DM masivo' o 'DM 1:1' para comenzar",
-    "ja": "ようこそ！始めるには「大量DM」または「1:1 DM」をクリックしてください"
+    "ja": "ようこそ！始めるには「大量DM」または「1対1のDM」をクリックしてください"
   },
   "fancare_count_label": {
     "ko": "대량 DM",
     "en": "Mass DMs",
     "zh": "群发私信",
-    "es": "Mensajes Directos Masivos",
+    "es": "Mensajes directos masivos",
     "ja": "大量のDM"
-  },
-  "dm_count_label": {
-    "ko": "1:1 DM",
-    "en": "1:1 DMs",
-    "zh": "1:1 私信",
-    "es": "Mensajes directos 1:1",
-    "ja": "1:1 ダイレクトメッセージ"
   }
 }

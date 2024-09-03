@@ -1,59 +1,17 @@
 {
-  "diary_2_label_1": {
-    "ko": "오늘",
-    "en": "Today",
-    "zh": "今天",
-    "es": "Hoy",
-    "ja": "今日"
-  },
-  "diary_1_label_3": {
-    "ko": "나중에",
-    "en": "Someday",
-    "zh": "以后",
-    "es": "Algún día",
-    "ja": "いつか"
-  },
-  "diary_1_label_1": {
-    "ko": "오늘",
-    "en": "Today",
-    "zh": "今天",
-    "es": "Hoy",
-    "ja": "今日"
-  },
-  "diary_1_example_3_1": {
-    "ko": "언젠가 하고 싶은 일",
-    "en": "My wish",
-    "zh": "언젠가 하고 싶은 일",
-    "es": "My wish",
-    "ja": "언젠가 하고 싶은 일"
-  },
-  "diary_2_popup_1_4": {
-    "ko": "일정이 추가되었습니다.",
-    "en": "Event added",
-    "zh": "日程已添加",
-    "es": "Evento añadido",
-    "ja": "予定が追加されました"
-  },
-  "diary_1_title_1": {
-    "ko": "Diary",
-    "en": "Diary",
-    "zh": "日记",
-    "es": "Diario",
-    "ja": "日記"
+  "diary_1_label_4": {
+    "ko": "습관",
+    "en": "Routine",
+    "zh": "习惯",
+    "es": "Rutina",
+    "ja": "習慣"
   },
   "diary_1_example_1_1": {
     "ko": "오늘의 일상 공유",
     "en": "What happened today?",
-    "zh": "今天发生了什么？",
+    "zh": "今天的日常分享",
     "es": "¿Qué pasó hoy?",
-    "ja": "今日は何が起こったの？"
-  },
-  "diary_2_label_5": {
-    "ko": "지난 일정",
-    "en": "Past",
-    "zh": "过去的日程",
-    "es": "Pasado",
-    "ja": "過去の予定"
+    "ja": "今日の日常を共有"
   },
   "diary_2_popup_1_2": {
     "ko": "취소",
@@ -62,26 +20,47 @@
     "es": "Cancelar",
     "ja": "キャンセル"
   },
-  "diary_2_cta_1": {
-    "ko": "저장",
-    "en": "Save",
-    "zh": "保存",
-    "es": "Guardar",
-    "ja": "保存"
-  },
-  "diary_2_popup_1_6": {
-    "ko": "일정이 삭제되었습니다.",
-    "en": "Event deleted",
-    "zh": "日程已删除。",
-    "es": "Evento eliminado",
-    "ja": "予定が削除されました。"
-  },
-  "diary_1_label_4": {
+  "diary_2_label_4": {
     "ko": "습관",
     "en": "Routine",
     "zh": "习惯",
     "es": "Rutina",
     "ja": "習慣"
+  },
+  "diary_2_label_5": {
+    "ko": "지난 일정",
+    "en": "Past",
+    "zh": "过去的日程",
+    "es": "Pasado",
+    "ja": "過去の予定"
+  },
+  "diary_2_popup_1_6": {
+    "ko": "일정이 삭제되었습니다.",
+    "en": "Event deleted",
+    "zh": "事件已删除",
+    "es": "Evento eliminado",
+    "ja": "イベントが削除されました"
+  },
+  "diary_1_example_2_1": {
+    "ko": "날짜가 정해진 이벤트",
+    "en": "event with a fixed date",
+    "zh": "日期已定的活动",
+    "es": "evento con fecha fija",
+    "ja": "日付が決まっているイベント"
+  },
+  "diary_1_label_3": {
+    "ko": "나중에",
+    "en": "Someday",
+    "zh": "将来",
+    "es": "Algún día",
+    "ja": "いつか"
+  },
+  "diary_2_label_2": {
+    "ko": "날짜 선택",
+    "en": "Choose Date",
+    "zh": "选择日期",
+    "es": "Elige la fecha",
+    "ja": "日付を選択"
   },
   "diary_2_popup_1_3": {
     "ko": "삭제",
@@ -90,33 +69,12 @@
     "es": "Eliminar",
     "ja": "削除"
   },
-  "diary_2_label_2": {
-    "ko": "날짜 선택",
-    "en": "Choose Date",
-    "zh": "选择日期",
-    "es": "Elegir fecha",
-    "ja": "日付を選択"
-  },
-  "diary_2_label_3": {
-    "ko": "언젠가",
-    "en": "Someday",
-    "zh": "某天",
-    "es": "Algún día",
-    "ja": "いつか"
-  },
-  "diary_1_example_4_1": {
-    "ko": "나만의 습관",
-    "en": "My routine",
-    "zh": "我的习惯",
-    "es": "Mi rutina",
-    "ja": "私の習慣"
-  },
-  "diary_2_label_4": {
-    "ko": "습관",
-    "en": "Routine",
-    "zh": "习惯",
-    "es": "Rutina",
-    "ja": "習慣"
+  "diary_1_example_3_1": {
+    "ko": "언젠가 하고 싶은 일",
+    "en": "My wish",
+    "zh": "我想做的事",
+    "es": "Mi deseo",
+    "ja": "いつかやりたいこと"
   },
   "diary_2_popup_1_5": {
     "ko": "일정이 수정되었습니다.",
@@ -125,67 +83,109 @@
     "es": "Evento editado",
     "ja": "予定が修正されました。"
   },
-  "diary_1_example_2_2": {
-    "ko": "예시 : 팬미팅🥳 정말 기대된다!",
-    "en": "e.g., I am looking forward to the fan meeting!!",
-    "zh": "例如：我真的很期待粉丝见面会！",
-    "es": "p.ej., ¡Estoy deseando que llegue la reunión de fans!",
-    "ja": "例：ファンミーティングが本当に楽しみです！"
-  },
-  "diary_1_label_2": {
-    "ko": "날짜 선택",
-    "en": "Choose Date",
-    "zh": "选择日期",
-    "es": "Elegir fecha",
-    "ja": "日付を選択"
+  "diary_1_label_1": {
+    "ko": "오늘",
+    "en": "Today",
+    "zh": "今天",
+    "es": "Hoy",
+    "ja": "今日"
   },
   "diary_2_placeholder_1": {
     "ko": "팬들에게 공유하고 싶은 일상과 감정을 적어주세요.",
     "en": "Please write down your daily life and emotions that you would like to share with your fans.",
-    "zh": "请写下您想与粉丝分享的日常生活和情感。",
+    "zh": "请写下你想与粉丝分享的日常生活和情感。",
     "es": "Por favor, escribe tu vida diaria y emociones que te gustaría compartir con tus fans.",
     "ja": "ファンと共有したい日常生活や感情を書いてください。"
-  },
-  "diary_1_example_4_2": {
-    "ko": "예시 : 산책하기 👣 밥먹고 30분 필수",
-    "en": "e.g., take a walk after meal",
-    "zh": "例如：散步 👣 饭后30分钟必需",
-    "es": "p. ej., dar un paseo después de la comida",
-    "ja": "例：散歩する 👣 食後30分必須"
-  },
-  "diary_1_example_1_2": {
-    "ko": "예시 : 강아지 밥 주기🐶 내 보물!",
-    "en": "e.g., feeding my dog",
-    "zh": "例如：给我的狗喂食🐶 我的宝贝！",
-    "es": "p. ej., alimentar a mi perro",
-    "ja": "例：犬に餌をあげる🐶 私の宝物！"
-  },
-  "diary_1_text_1": {
-    "ko": "팬들에게 공유하고 싶은 일상과 감정을 적어주세요.",
-    "en": "Please write down your daily life and emotions that you would like to share with your fans.",
-    "zh": "请写下您想与粉丝分享的日常生活和情感。",
-    "es": "Por favor, escribe tu vida diaria y emociones que te gustaría compartir con tus fans.",
-    "ja": "ファンと共有したい日常生活や感情を書いてください。"
-  },
-  "diary_1_example_2_1": {
-    "ko": "날짜가 정해진 이벤트",
-    "en": "event with a fixed date",
-    "zh": "日期确定的活动",
-    "es": "evento con fecha fija",
-    "ja": "日付が決まっているイベント"
-  },
-  "diary_1_example_3_2": {
-    "ko": "예시 : 스타디움에서 공연🎤",
-    "en": "e.g., cleaning my room",
-    "zh": "例如：在体育场表演🎤",
-    "es": "p. ej., limpiar mi habitación",
-    "ja": "例：スタジアムでの公演🎤"
   },
   "diary_2_popup_1_1": {
     "ko": "{diary_name}를 삭제하시겠습니까?\n이 작업은 되돌릴 수 없습니다.",
     "en": "Do you want to delete {diary_name}? This action cannot be undone.",
     "zh": "您确定要删除{diary_name}吗？此操作无法撤销。",
-    "es": "¿Desea eliminar {diary_name}? Esta acción no se puede deshacer.",
+    "es": "¿Quieres eliminar {diary_name}? Esta acción no se puede deshacer.",
     "ja": "{diary_name}を削除しますか？この操作は元に戻せません。"
+  },
+  "diary_1_example_4_2": {
+    "ko": "예시 : 산책하기 👣 밥먹고 30분 필수",
+    "en": "e.g., take a walk after meal",
+    "zh": "例如：散步 👣 饭后30分钟必做",
+    "es": "por ejemplo, dar un paseo después de comer",
+    "ja": "例：散歩する 👣 食後30分必須"
+  },
+  "diary_2_label_3": {
+    "ko": "언젠가",
+    "en": "Someday",
+    "zh": "某一天",
+    "es": "Algún día",
+    "ja": "いつか"
+  },
+  "diary_1_label_2": {
+    "ko": "날짜 선택",
+    "en": "Choose Date",
+    "zh": "选择日期",
+    "es": "Elige la fecha",
+    "ja": "日付を選択"
+  },
+  "diary_1_text_1": {
+    "ko": "팬들에게 공유하고 싶은 일상과 감정을 적어주세요.",
+    "en": "Please write down your daily life and emotions that you would like to share with your fans.",
+    "zh": "请写下你想与粉丝分享的日常生活和情感。",
+    "es": "Por favor, escribe tu vida diaria y emociones que te gustaría compartir con tus fans.",
+    "ja": "ファンと共有したい日常生活や感情を書いてください。"
+  },
+  "diary_2_label_1": {
+    "ko": "오늘",
+    "en": "Today",
+    "zh": "今天",
+    "es": "Hoy",
+    "ja": "今日"
+  },
+  "diary_1_title_1": {
+    "ko": "Diary",
+    "en": "Diary",
+    "zh": "日记",
+    "es": "Diario",
+    "ja": "日記"
+  },
+  "diary_2_popup_1_4": {
+    "ko": "일정이 추가되었습니다.",
+    "en": "Event added",
+    "zh": "事件已添加",
+    "es": "Evento añadido",
+    "ja": "イベントが追加されました"
+  },
+  "diary_1_example_4_1": {
+    "ko": "나만의 습관",
+    "en": "My routine",
+    "zh": "我的习惯",
+    "es": "Mi rutina",
+    "ja": "私の習慣"
+  },
+  "diary_1_example_3_2": {
+    "ko": "예시 : 스타디움에서 공연🎤",
+    "en": "e.g., cleaning my room",
+    "zh": "例如：在体育场演出🎤",
+    "es": "p. ej., limpiar mi habitación",
+    "ja": "例：スタジアムでの公演🎤"
+  },
+  "diary_2_cta_1": {
+    "ko": "저장",
+    "en": "Save",
+    "zh": "保存",
+    "es": "Guardar",
+    "ja": "保存"
+  },
+  "diary_1_example_1_2": {
+    "ko": "예시 : 강아지 밥 주기🐶 내 보물!",
+    "en": "e.g., feeding my dog",
+    "zh": "例如：给我的狗喂食🐶 我的宝贝！",
+    "es": "por ejemplo, alimentar a mi perro",
+    "ja": "例：犬に餌をあげる🐶 私の宝物！"
+  },
+  "diary_1_example_2_2": {
+    "ko": "예시 : 팬미팅🥳 정말 기대된다!",
+    "en": "e.g., I am looking forward to the fan meeting!!",
+    "zh": "例如：粉丝见面会🥳真的很期待！",
+    "es": "p.ej., ¡Estoy deseando que llegue la reunión de fans!",
+    "ja": "例：ファンミーティング🥳本当に楽しみです！"
   }
 }
