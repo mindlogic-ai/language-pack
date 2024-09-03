@@ -96,5 +96,19 @@
     "zh": "请输入状态消息",
     "es": "Ingrese el mensaje de estado",
     "ja": "ステータスメッセージを入力してください"
+  },
+  "undefined": {
+    "ko": "",
+    "en": "",
+    "zh": "",
+    "es": "",
+    "ja": ""
+  },
+  "Me_2_toast_2": {
+    "ko": "연령 제한 음악이라서 프로필 뮤직으로 설정할 수 없습니다.",
+    "en": "Because this music is age-restricted, you cannot choose the music as profile music.",
+    "zh": "由于此音乐有年龄限制，您无法将其设置为个人资料音乐。",
+    "es": "Debido a que esta música tiene restricciones de edad, no puedes elegirla como música de perfil.",
+    "ja": "この音楽は年齢制限があるため、プロフィール音楽として選択できません。"
   }
 }
