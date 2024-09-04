@@ -1,5 +1,26 @@
 {
-  "call_popup_4_3": {
+  "call_popup_1_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "call_5_voice_1": {
+    "ko": "여보세요",
+    "en": "Hello",
+    "zh": "你好",
+    "es": "Hola",
+    "ja": "こんにちは"
+  },
+  "call_popup_4_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "call_popup_2_3": {
     "ko": "허용",
     "en": "Allow",
     "zh": "允许",
@@ -13,12 +34,26 @@
     "es": "Más",
     "ja": "もっと"
   },
-  "call_popup_2_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
+  "call_popup_3_2": {
+    "ko": "확인",
+    "en": "OK",
+    "zh": "确认",
+    "es": "Aceptar",
+    "ja": "確認"
+  },
+  "call_history_item_toast_2": {
+    "ko": "콜 내역을 삭제하였습니다.",
+    "en": "The call history has been deleted.",
+    "zh": "通话记录已被删除。",
+    "es": "El historial de llamadas ha sido eliminado.",
+    "ja": "通話履歴が削除されました。"
+  },
+  "call_3_toast_1": {
+    "ko": "통화 내용을 저장하는 동안 앱을 종료하지 마세요.",
+    "en": "Do not close the app while saving your call history.",
+    "zh": "保存通话记录时请勿关闭应用程序。",
+    "es": "No cierre la aplicación mientras guarda su historial de llamadas.",
+    "ja": "通話履歴を保存している間はアプリを閉じないでください。"
   },
   "call_popup_1_3": {
     "ko": "삭제",
@@ -27,82 +62,12 @@
     "es": "Eliminar",
     "ja": "削除"
   },
-  "call_5_voice_1": {
-    "ko": "여보세요",
-    "en": "Hello",
-    "zh": "여보세요",
-    "es": "Hola",
-    "ja": "여보세요"
-  },
-  "call_popup_1_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
-  },
-  "call_history_item_toast_2": {
-    "ko": "콜 내역을 삭제하였습니다.",
-    "en": "Call history has been deleted.",
-    "zh": "通话记录已删除。",
-    "es": "El historial de llamadas ha sido eliminado.",
-    "ja": "通話履歴が削除されました。"
-  },
-  "call_4_title_1": {
-    "ko": "{artist_name}님과 통화 시간",
-    "en": "Calls with {artist_name}",
-    "zh": "{artist_name}通话时间",
-    "es": "Llamadas con {artist_name}",
-    "ja": "{artist_name}との通話時間"
-  },
-  "call_3_toast_1": {
-    "ko": "통화 내용을 저장하는 동안 앱을 종료하지 마세요.",
-    "en": "Do not close the app while saving your call history.",
-    "zh": "在保存通话记录时不要关闭应用程序。",
-    "es": "No cierre la aplicación mientras guarda su historial de llamadas.",
-    "ja": "通話履歴を保存している間はアプリを閉じないでください。"
-  },
   "call_2_toast_1": {
     "ko": "다시 듣기를 준비하는 동안 앱을 종료하지 마세요.",
     "en": "Do not turn off the app while getting ready to listen again.",
-    "zh": "在准备再次收听时不要关闭应用程序。",
+    "zh": "准备再次收听时，请不要关闭应用程序。",
     "es": "No apagues la aplicación mientras te preparas para escuchar de nuevo.",
     "ja": "再度聞く準備をしている間、アプリを終了しないでください。"
-  },
-  "call_popup_3_1": {
-    "ko": "마이크 접근이 허용되지 않아서, 음성통화를 할 수 없어요.",
-    "en": "As microphone access is not allowed, you cannot have a voice call.",
-    "zh": "由于不允许访问麦克风，您无法进行语音通话。",
-    "es": "Como no se permite el acceso al micrófono, no puedes hacer una llamada de voz.",
-    "ja": "マイクへのアクセスが許可されていないため、音声通話ができません。"
-  },
-  "call_popup_2_3": {
-    "ko": "허용",
-    "en": "Allow",
-    "zh": "允许",
-    "es": "Permitir",
-    "ja": "許可"
-  },
-  "call_popup_4_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
-  },
-  "call_1_label_1": {
-    "ko": "발신중...",
-    "en": "Calling...",
-    "zh": "正在呼叫...",
-    "es": "Llamando...",
-    "ja": "発信中..."
-  },
-  "call_popup_3_2": {
-    "ko": "확인",
-    "en": "OK",
-    "zh": "确认",
-    "es": "OK",
-    "ja": "確認"
   },
   "call_popup_1_1": {
     "ko": "통화가 정상적으로 저장되지 않았습니다.\n해당 통화를 삭제할까요?",
@@ -111,25 +76,60 @@
     "es": "La llamada no se guardó correctamente.\n¿Quieres eliminar la llamada?",
     "ja": "通話が正常に保存されませんでした。\nこの通話を削除しますか？"
   },
+  "call_popup_2_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
+  },
+  "call_popup_4_1": {
+    "ko": "마이크 접근이 허용되어 있지 않아서, 음성 통화가 불가능합니다. 마이크 접근에 허용할까요?",
+    "en": "As microphone access is not allowed, you cannot have a voice call. Do you want to allow Blooming to access your microphone?",
+    "zh": "由于不允许访问麦克风，无法进行语音通话。您想允许麦克风访问吗？",
+    "es": "Como no se permite el acceso al micrófono, no puedes hacer una llamada de voz. ¿Quieres permitir que Blooming acceda a tu micrófono?",
+    "ja": "マイクへのアクセスが許可されていないため、音声通話ができません。マイクへのアクセスを許可しますか？"
+  },
   "call_1_toast_1": {
     "ko": "통화 1분당 메시지 10개가 차감됩니다.",
     "en": "10 messages will be used per minute of call.",
     "zh": "每分钟通话将扣除10条消息。",
     "es": "Se utilizarán 10 mensajes por minuto de llamada.",
-    "ja": "通話1分あたり10メッセージが消費されます。"
+    "ja": "通話1分ごとに10メッセージが消費されます。"
+  },
+  "call_1_label_1": {
+    "ko": "발신중...",
+    "en": "Calling...",
+    "zh": "正在拨号...",
+    "es": "Llamando...",
+    "ja": "発信中..."
+  },
+  "call_popup_4_3": {
+    "ko": "허용",
+    "en": "Allow",
+    "zh": "允许",
+    "es": "Permitir",
+    "ja": "許可"
+  },
+  "call_4_title_1": {
+    "ko": "{artist_name}님과 통화 시간",
+    "en": "Calls with {artist_name}",
+    "zh": "{artist_name}通话时间",
+    "es": "Llamadas con {artist_name}",
+    "ja": "{artist_name}との通話時間"
   },
   "call_popup_2_1": {
     "ko": "음성 통화를 위해 블루밍이 마이크에 접근하도록 허용해주세요.",
     "en": "Please allow Blooming to access your microphone for voice calls.",
-    "zh": "请允许 Blooming 访问您的麦克风以进行语音通话。",
+    "zh": "请允许Blooming访问您的麦克风以进行语音通话。",
     "es": "Por favor, permita que Blooming acceda a su micrófono para llamadas de voz.",
     "ja": "音声通話のために、Bloomingがマイクにアクセスすることを許可してください。"
   },
-  "call_popup_4_1": {
-    "ko": "마이크 접근이 허용되어 있지 않아서, 음성 통화가 불가능합니다. 마이크 접근에 허용할까요?",
-    "en": "As microphone access is not allowed, you cannot have a voice call. Do you want to allow Blooming to access your microphone?",
-    "zh": "由于不允许访问麦克风，您无法进行语音通话。您想允许访问麦克风吗？",
-    "es": "Como no se permite el acceso al micrófono, no puedes hacer una llamada de voz. ¿Quieres permitir que Blooming acceda a tu micrófono?",
-    "ja": "マイクへのアクセスが許可されていないため、音声通話ができません。マイクへのアクセスを許可しますか？"
+  "call_popup_3_1": {
+    "ko": "마이크 접근이 허용되지 않아서, 음성통화를 할 수 없어요.",
+    "en": "As microphone access is not allowed, you cannot have a voice call.",
+    "zh": "由于不允许访问麦克风，您无法进行语音通话。",
+    "es": "Como no se permite el acceso al micrófono, no puedes hacer una llamada de voz.",
+    "ja": "マイクへのアクセスが許可されていないため、音声通話ができません。"
   }
 }

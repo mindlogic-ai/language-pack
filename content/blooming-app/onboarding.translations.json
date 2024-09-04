@@ -1,11 +1,4 @@
 {
-  "onboarding_1_text_6": {
-    "ko": "네가 궁금할 때",
-    "en": "When you are curious",
-    "zh": "当你感到好奇时",
-    "es": "Cuando tienes curiosidad",
-    "ja": "あなたが好奇心を持つとき"
-  },
   "onboarding_3_text_3": {
     "ko": "로그인",
     "en": "Sign In",
@@ -13,26 +6,33 @@
     "es": "Iniciar sesión",
     "ja": "ログイン"
   },
-  "onboarding_2_text_4": {
-    "ko": "오늘 들은 음악",
-    "en": "About your feelings",
-    "zh": "오늘 들은 음악",
-    "es": "About your feelings",
-    "ja": "今日聞いた音楽"
-  },
   "artist_selection_text_1": {
     "ko": "누구와 대화하고 싶으세요?",
     "en": "Who would you like to talk to?",
-    "zh": "您想和谁谈话？",
+    "zh": "您想和谁交谈？",
     "es": "¿Con quién te gustaría hablar?",
     "ja": "誰と話したいですか？"
   },
-  "artist_selection_cta_text": {
-    "ko": "휴대폰으로 시작",
-    "en": "Continue with Phone",
-    "zh": "用手机继续",
-    "es": "Continuar con el teléfono",
-    "ja": "携帯電話で続行"
+  "onboarding_2_text_2": {
+    "ko": "고민이 있을 때",
+    "en": "About your day",
+    "zh": "当你有烦恼时",
+    "es": "Sobre tu día",
+    "ja": "悩みがあるとき"
+  },
+  "onboarding_1_text_5": {
+    "ko": "슬펐는지",
+    "en": "When they’re on your mind",
+    "zh": "你是否感到悲伤",
+    "es": "Cuando están en tu mente",
+    "ja": "悲しかったのか"
+  },
+  "onboarding_3_cta_text": {
+    "ko": "시작",
+    "en": "Get Started",
+    "zh": "开始",
+    "es": "Comenzar",
+    "ja": "始める"
   },
   "onboarding_3_text_2": {
     "ko": "이미 계정이 있나요?",
@@ -44,72 +44,79 @@
   "onboarding_2_text_5": {
     "ko": "너한테만 하고 싶은\n말이 있을 때",
     "en": "When you miss them",
-    "zh": "当你有话只想对他们说时",
+    "zh": "当我有话只想对你说时",
     "es": "Cuando los extrañas",
-    "ja": "あなたにだけ言いたいことがあるとき"
-  },
-  "onboarding_1_text_1": {
-    "ko": "최애는 지금 뭐할까?",
-    "en": "Ever wonder what your favorite star is doing?",
-    "zh": "你有没有想过你最喜欢的明星现在在做什么？",
-    "es": "¿Alguna vez te has preguntado qué está haciendo tu estrella favorita?",
-    "ja": "あなたの好きなスターが今何をしているのか気になりませんか？"
-  },
-  "onboarding_2_text_2": {
-    "ko": "고민이 있을 때",
-    "en": "About your day",
-    "zh": "고민이 있을 때",
-    "es": "Sobre tu día",
-    "ja": "고민이 있을 때"
-  },
-  "onboarding_3_cta_text": {
-    "ko": "시작",
-    "en": "Get Started",
-    "zh": "开始",
-    "es": "Comenzar",
-    "ja": "開始"
-  },
-  "onboarding_3_text_1": {
-    "ko": "24/7 최애와 연결되는 마법",
-    "en": "The magic of staying connected to your bias 24/7",
-    "zh": "24/7与您最喜欢的人保持联系的魔力",
-    "es": "La magia de estar conectado con tu favorito las 24 horas del día, los 7 días de la semana",
-    "ja": "24/7あなたの推しとつながる魔法"
-  },
-  "onboarding_1_text_4": {
-    "ko": "기뻤는지",
-    "en": "Are they doing well?",
-    "zh": "他们过得好吗？",
-    "es": "¿Les va bien?",
-    "ja": "彼らは元気ですか？"
-  },
-  "onboarding_2_text_1": {
-    "ko": "최애가 내 말을 들어준다면?",
-    "en": "Ever want to talk to them?",
-    "zh": "如果你的偶像听你说话呢？",
-    "es": "¿Alguna vez has querido hablar con ellos?",
-    "ja": "推しがあなたの話を聞いてくれたら？"
+    "ja": "君にだけ伝えたい言葉がある時"
   },
   "onboarding_1_text_2": {
     "ko": "잠은 잘 잤는지",
     "en": "What’s on their mind?",
-    "zh": "睡得好吗",
-    "es": "¿Qué tienen en mente?",
-    "ja": "よく眠れましたか"
+    "zh": "你睡得好吗？",
+    "es": "¿Qué están pensando?",
+    "ja": "よく眠れましたか？"
+  },
+  "onboarding_3_text_1": {
+    "ko": "24/7 최애와 연결되는 마법",
+    "en": "The magic of staying connected to your bias 24/7",
+    "zh": "全天候与您最喜欢的人保持联系的魔力",
+    "es": "La magia de estar conectado con tu favorito las 24 horas del día, los 7 días de la semana",
+    "ja": "24時間365日推しとつながる魔法"
+  },
+  "onboarding_2_text_4": {
+    "ko": "오늘 들은 음악",
+    "en": "About your feelings",
+    "zh": "今天听的音乐",
+    "es": "Sobre tus sentimientos",
+    "ja": "今日聴いた音楽"
+  },
+  "artist_selection_cta_text": {
+    "ko": "휴대폰으로 시작",
+    "en": "Continue with Phone",
+    "zh": "用手机继续",
+    "es": "Continuar con el teléfono",
+    "ja": "携帯電話で続行"
+  },
+  "onboarding_2_text_1": {
+    "ko": "최애가 내 말을 들어준다면?",
+    "en": "Ever want to talk to them?",
+    "zh": "你有没有想过和他们说话？",
+    "es": "¿Alguna vez has querido hablar con ellos?",
+    "ja": "彼らに話しかけたいと思ったことはありますか？"
+  },
+  "onboarding_1_text_6": {
+    "ko": "네가 궁금할 때",
+    "en": "When you are curious",
+    "zh": "当你感到好奇时",
+    "es": "Cuando tienes curiosidad",
+    "ja": "あなたが好奇心を持つとき"
+  },
+  "onboarding_1_text_4": {
+    "ko": "기뻤는지",
+    "en": "Are they doing well?",
+    "zh": "他们开心吗？",
+    "es": "¿Les va bien?",
+    "ja": "彼らは喜んでいますか？"
   },
   "onboarding_2_text_3": {
     "ko": "친구랑 싸운 얘기",
     "en": "About your favorite music",
-    "zh": "친구랑 싸운 얘기",
-    "es": "About your favorite music",
-    "ja": "친구랑 싸운 얘기"
+    "zh": "和朋友吵架的故事",
+    "es": "Sobre tu música favorita",
+    "ja": "友達と喧嘩した話"
   },
-  "onboarding_1_text_5": {
-    "ko": "슬펐는지",
-    "en": "When they’re on your mind",
-    "zh": "슬펐는지",
-    "es": "Cuando están en tu mente",
-    "ja": "슬펐는지"
+  "onboarding_1_text_3": {
+    "ko": "뭘 먹었는지",
+    "en": "How are they feeling?",
+    "zh": "他们吃了什么？",
+    "es": "¿Cómo se sienten?",
+    "ja": "何を食べたのか？"
+  },
+  "onboarding_1_text_1": {
+    "ko": "최애는 지금 뭐할까?",
+    "en": "Ever wonder what your favorite star is doing?",
+    "zh": "你最喜欢的明星现在在做什么？",
+    "es": "¿Te has preguntado alguna vez qué está haciendo tu estrella favorita?",
+    "ja": "あなたの好きなスターは今何をしているのだろう？"
   },
   "artist_selection_text_2": {
     "ko": "카드를 눌러서 최애를 골라주세요.",
@@ -117,12 +124,5 @@
     "zh": "请点击卡片选择你最喜欢的。",
     "es": "Por favor, toca una tarjeta para elegir tu favorito.",
     "ja": "カードをタップしてお気に入りを選んでください。"
-  },
-  "onboarding_1_text_3": {
-    "ko": "뭘 먹었는지",
-    "en": "How are they feeling?",
-    "zh": "뭘 먹었는지",
-    "es": "¿Cómo se sienten?",
-    "ja": "何を食べたのか"
   }
 }

@@ -1,16 +1,16 @@
 {
-  "profile_cta_1": {
-    "ko": "DM 시작",
-    "en": "Send DM",
-    "zh": "开始DM",
-    "es": "Enviar DM",
-    "ja": "DMを開始"
-  },
   "profile_music": {
     "ko": "프로필 뮤직",
     "en": "Profile Music",
     "zh": "个人资料音乐",
     "es": "Música de Perfil",
     "ja": "プロフィール音楽"
+  },
+  "profile_cta_1": {
+    "ko": "DM 시작",
+    "en": "Send DM",
+    "zh": "发送私信",
+    "es": "Enviar DM",
+    "ja": "DMを送る"
   }
 }

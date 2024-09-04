@@ -1,5 +1,5 @@
 {
-  "signin_popup_location_2": {
+  "signin_popup_no_account_2": {
     "ko": "취소",
     "en": "Cancel",
     "zh": "取消",
@@ -13,20 +13,6 @@
     "es": "Cancelar",
     "ja": "キャンセル"
   },
-  "signin_popup_location_3": {
-    "ko": "허용",
-    "en": "Allow",
-    "zh": "允许",
-    "es": "Permitir",
-    "ja": "許可"
-  },
-  "signin_popup_no_account_2": {
-    "ko": "취소",
-    "en": "Cancel",
-    "zh": "取消",
-    "es": "Cancelar",
-    "ja": "キャンセル"
-  },
   "signin_cta_1": {
     "ko": "로그인",
     "en": "Sign In",
@@ -34,26 +20,26 @@
     "es": "Iniciar sesión",
     "ja": "ログイン"
   },
-  "signin_popup_no_account_3": {
-    "ko": "회원가입",
-    "en": "Sign Up",
-    "zh": "注册",
-    "es": "Registrarse",
-    "ja": "サインアップ"
+  "signin_popup_location_3": {
+    "ko": "허용",
+    "en": "Allow",
+    "zh": "允许",
+    "es": "Permitir",
+    "ja": "許可"
   },
-  "signin_popup_location_1": {
-    "ko": "아티스트와 더 자연스러운 대화를 위해 블루밍이 위치에 접근하도록 허용해주세요.",
-    "en": "Please allow Blooming to access your location for a better conversation with your artist.",
-    "zh": "请允许 Blooming 访问您的位置，以便与您的艺术家进行更好的对话。",
-    "es": "Por favor, permita que Blooming acceda a su ubicación para una mejor conversación con su artista.",
-    "ja": "アーティストとのより自然な会話のために、Bloomingがあなたの位置情報にアクセスすることを許可してください。"
+  "signin_popup_photo_3": {
+    "ko": "허용",
+    "en": "Allow",
+    "zh": "允许",
+    "es": "Permitir",
+    "ja": "許可"
   },
-  "signin_popup_photo_1": {
-    "ko": "아티스트의 포토카드를 저장하도록 블루밍이 사진에 접근하도록 허용해주세요.",
-    "en": "Please allow Blooming access to your photos to save your artist's photocard.",
-    "zh": "请允许 Blooming 访问您的照片以保存您的艺术家照片卡。",
-    "es": "Por favor, permita que Blooming acceda a sus fotos para guardar la fototarjeta de su artista.",
-    "ja": "アーティストのフォトカードを保存するために、Bloomingが写真にアクセスすることを許可してください。"
+  "signin_popup_location_2": {
+    "ko": "취소",
+    "en": "Cancel",
+    "zh": "取消",
+    "es": "Cancelar",
+    "ja": "キャンセル"
   },
   "signin_popup_no_account_1": {
     "ko": "회원 정보가 없어요.\n다른 번호로 로그인하거나 가입해 주세요.",
@@ -62,11 +48,25 @@
     "es": "No hay información de la cuenta.\nPor favor, regístrate o inicia sesión con un número diferente.",
     "ja": "会員情報がありません。\n別の番号でログインするか、登録してください。"
   },
-  "signin_popup_photo_3": {
-    "ko": "허용",
-    "en": "Allow",
-    "zh": "允许",
-    "es": "Permitir",
-    "ja": "許可"
+  "signin_popup_location_1": {
+    "ko": "아티스트와 더 자연스러운 대화를 위해 블루밍이 위치에 접근하도록 허용해주세요.",
+    "en": "Please allow Blooming to access your location for a better conversation with your artist.",
+    "zh": "请允许Blooming访问您的位置，以便与艺术家进行更自然的对话。",
+    "es": "Por favor, permita que Blooming acceda a su ubicación para una mejor conversación con su artista.",
+    "ja": "アーティストとのより自然な会話のために、ブルーミングがあなたの位置情報にアクセスすることを許可してください。"
+  },
+  "signin_popup_photo_1": {
+    "ko": "아티스트의 포토카드를 저장하도록 블루밍이 사진에 접근하도록 허용해주세요.",
+    "en": "Please allow Blooming access to your photos to save your artist's photocard.",
+    "zh": "请允许Blooming访问您的照片以保存艺术家的照片卡。",
+    "es": "Por favor, permite que Blooming acceda a tus fotos para guardar la fototarjeta de tu artista.",
+    "ja": "アーティストのフォトカードを保存するために、Bloomingが写真にアクセスすることを許可してください。"
+  },
+  "signin_popup_no_account_3": {
+    "ko": "회원가입",
+    "en": "Sign Up",
+    "zh": "注册",
+    "es": "Registrarse",
+    "ja": "登録"
   }
 }
