@@ -1,10 +1,59 @@
 {
+  "dm_edit_reminder_label_2": {
+    "ko": "시간",
+    "en": "Time",
+    "zh": "时间",
+    "es": "Tiempo",
+    "ja": "時間"
+  },
+  "dm_edit_reminder_text_5": {
+    "ko": "화",
+    "en": "Tue",
+    "zh": "火",
+    "es": "Mar",
+    "ja": "火"
+  },
+  "dm_edit_reminder_text_6": {
+    "ko": "수",
+    "en": "Wed",
+    "zh": "수",
+    "es": "Wed",
+    "ja": "수"
+  },
+  "dm_edit_reminder_text_1": {
+    "ko": "매일",
+    "en": "Every day",
+    "zh": "每天",
+    "es": "Todos los días",
+    "ja": "毎日"
+  },
+  "dm_edit_reminder_text_2": {
+    "ko": "매주",
+    "en": "Every week",
+    "zh": "每周",
+    "es": "Cada semana",
+    "ja": "毎週"
+  },
   "dm_edit_reminder_cta_1": {
     "ko": "저장",
     "en": "Save",
     "zh": "保存",
     "es": "Guardar",
     "ja": "保存"
+  },
+  "dm_edit_reminder_toast_1": {
+    "ko": "리마인더 수정을 완료했어요.",
+    "en": "The reminder edited",
+    "zh": "提醒已编辑完成。",
+    "es": "El recordatorio editado",
+    "ja": "リマインダーの編集が完了しました。"
+  },
+  "dm_edit_reminder_popup_1_": {
+    "ko": "닫기",
+    "en": "Leave",
+    "zh": "关闭",
+    "es": "Salir",
+    "ja": "閉じる"
   },
   "reminder_item2": {
     "ko": "완료",
@@ -20,48 +69,6 @@
     "es": "Nuevo",
     "ja": "新しい"
   },
-  "dm_edit_reminder_popup_1_": {
-    "ko": "닫기",
-    "en": "Leave",
-    "zh": "关闭",
-    "es": "Salir",
-    "ja": "閉じる"
-  },
-  "dm_edit_reminder_text_11": {
-    "ko": "없음",
-    "en": "Never",
-    "zh": "没有",
-    "es": "Nunca",
-    "ja": "ない"
-  },
-  "dm_edit_reminder_text_10": {
-    "ko": "일",
-    "en": "Sun",
-    "zh": "太阳",
-    "es": "Sol",
-    "ja": "太陽"
-  },
-  "dm_edit_reminder_text_7": {
-    "ko": "목",
-    "en": "Thu",
-    "zh": "星期四",
-    "es": "Jue",
-    "ja": "木曜日"
-  },
-  "dm_edit_reminder_toast_1": {
-    "ko": "리마인더 수정을 완료했어요.",
-    "en": "The reminder edited",
-    "zh": "提醒已编辑完成。",
-    "es": "El recordatorio editado",
-    "ja": "リマインダーの編集が完了しました。"
-  },
-  "dm_download_1": {
-    "ko": "다운로드가 완료됐어요.",
-    "en": "Download completed.",
-    "zh": "下载已完成。",
-    "es": "Descarga completada.",
-    "ja": "ダウンロードが完了しました。"
-  },
   "dm_edit_reminder_popup_2_": {
     "ko": "삭제",
     "en": "Delete",
@@ -72,44 +79,37 @@
   "dm_edit_reminder_cta_2": {
     "ko": "적용",
     "en": "Apply",
-    "zh": "应用",
+    "zh": "适用",
     "es": "Aplicar",
     "ja": "適用"
   },
-  "dm_1_cta_1": {
-    "ko": "친구 추가",
-    "en": "Add Friend",
-    "zh": "添加好友",
-    "es": "Agregar amigo",
-    "ja": "友達追加"
+  "dm_edit_reminder_text_7": {
+    "ko": "목",
+    "en": "Thu",
+    "zh": "木",
+    "es": "Jue",
+    "ja": "木"
   },
-  "dm_2_bubble_1": {
-    "ko": "직접 보냄",
-    "en": "Handwritten",
-    "zh": "亲自发送",
-    "es": "Escrito a mano",
-    "ja": "直接送信"
+  "dm_edit_reminder_text_11": {
+    "ko": "없음",
+    "en": "Never",
+    "zh": "没有",
+    "es": "Nunca",
+    "ja": "なし"
   },
-  "dm_1_label_2": {
-    "ko": "친구 추천",
-    "en": "Recommended",
-    "zh": "推荐朋友",
-    "es": "Recomendado",
-    "ja": "友達の推薦"
+  "dm_edit_reminder_text_8": {
+    "ko": "금",
+    "en": "Fri",
+    "zh": "金",
+    "es": "Vie",
+    "ja": "金"
   },
-  "dm_2_bubble_2": {
-    "ko": "나에게만",
-    "en": "Only to me",
-    "zh": "只给我",
-    "es": "Solo a mí",
-    "ja": "私にだけ"
-  },
-  "dm_1_title_1": {
-    "ko": "DM",
-    "en": "DM",
-    "zh": "私信",
-    "es": "Mensaje Directo",
-    "ja": "ダイレクトメッセージ"
+  "dm_edit_reminder_text_4": {
+    "ko": "월",
+    "en": "Mon",
+    "zh": "月",
+    "es": "Lun",
+    "ja": "月"
   },
   "dm_1_label_1": {
     "ko": "친구 메세지",
@@ -118,117 +118,47 @@
     "es": "Mensajes",
     "ja": "友達メッセージ"
   },
+  "dm_edit_reminder_text_10": {
+    "ko": "일",
+    "en": "Sun",
+    "zh": "日",
+    "es": "Sol",
+    "ja": "日"
+  },
   "dm_edit_reminder_text_3": {
     "ko": "반복 없음",
     "en": "Never",
-    "zh": "从不",
+    "zh": "不重复",
     "es": "Nunca",
-    "ja": "決して"
-  },
-  "dm_edit_reminder_text_8": {
-    "ko": "금",
-    "en": "Fri",
-    "zh": "星期五",
-    "es": "Vie",
-    "ja": "金曜日"
+    "ja": "繰り返しなし"
   },
   "dm_edit_reminder_text_9": {
     "ko": "토",
     "en": "Sat",
-    "zh": "星期六",
-    "es": "Sáb",
-    "ja": "土曜日"
-  },
-  "dm_edit_reminder_text_4": {
-    "ko": "월",
-    "en": "Mon",
-    "zh": "星期一",
-    "es": "Lun",
-    "ja": "月曜日"
-  },
-  "dm_edit_reminder_text_2": {
-    "ko": "매주",
-    "en": "Every week",
-    "zh": "每周",
-    "es": "Cada semana",
-    "ja": "毎週"
-  },
-  "dm_edit_reminder_text_5": {
-    "ko": "화",
-    "en": "Tue",
-    "zh": "星期二",
-    "es": "Mar",
-    "ja": "火曜日"
-  },
-  "dm_edit_reminder_text_6": {
-    "ko": "수",
-    "en": "Wed",
-    "zh": "星期三",
-    "es": "Mié",
-    "ja": "水"
-  },
-  "dm_edit_reminder_text_1": {
-    "ko": "매일",
-    "en": "Every day",
-    "zh": "每天",
-    "es": "Cada día",
-    "ja": "毎日"
-  },
-  "dm_edit_reminder_label_2": {
-    "ko": "시간",
-    "en": "Time",
-    "zh": "时间",
-    "es": "Tiempo",
-    "ja": "時間"
+    "zh": "토",
+    "es": "Sat",
+    "ja": "토"
   },
   "dm_edit_reminder_label_3": {
     "ko": "반복",
     "en": "Repeat",
     "zh": "重复",
     "es": "Repetir",
-    "ja": "繰り返し"
+    "ja": "繰り返す"
   },
-  "dm_3_title_1": {
-    "ko": "리마인더",
-    "en": "Reminder",
-    "zh": "提醒",
-    "es": "Recordatorio",
-    "ja": "リマインダー"
+  "dm_1_hidden_msg": {
+    "ko": "제한 시간이 지나면 DM을 볼 수 있어요.",
+    "en": "Check back later to view the message.",
+    "zh": "时间限制过后可以查看DM。",
+    "es": "Vuelve más tarde para ver el mensaje.",
+    "ja": "制限時間が過ぎたらDMを確認できます。"
   },
-  "dm_edit_reminder_label_1": {
-    "ko": "날짜",
-    "en": "End Date",
-    "zh": "日期",
-    "es": "Fecha de finalización",
-    "ja": "日付"
-  },
-  "dm_2_placeholder_1": {
-    "ko": "메세지 입력...",
-    "en": "Message...",
-    "zh": "输入消息...",
-    "es": "Mensaje...",
-    "ja": "メッセージを入力..."
-  },
-  "dm_3_title_2": {
-    "ko": "같이 들은 음악",
-    "en": "Playlist",
-    "zh": "一起听的音乐",
-    "es": "Lista de reproducción",
-    "ja": "一緒に聴いた音楽"
-  },
-  "timestamp_4": {
-    "ko": "yyyy년 MM월 d일 EEEE",
-    "en": "EEEE, MMM d, yyyy",
-    "zh": "yyyy年 MM月 d日 EEEE",
-    "es": "EEEE, d de MMM de yyyy",
-    "ja": "yyyy年 MM月 d日 EEEE"
-  },
-  "dm_1_toast_1": {
-    "ko": "{artist_name}님과 친구가 됐어요.",
-    "en": "{artist_name} has been added as a friend",
-    "zh": "{artist_name}已成为朋友。",
-    "es": "{artist_name} ha sido añadido como amigo",
-    "ja": "{artist_name}さんと友達になりました。"
+  "dm_1_label_2": {
+    "ko": "친구 추천",
+    "en": "Recommended",
+    "zh": "朋友推荐",
+    "es": "Recomendado",
+    "ja": "友達の推薦"
   },
   "dm_2_long_touch_2": {
     "ko": "삭제",
@@ -237,47 +167,26 @@
     "es": "Eliminar",
     "ja": "削除"
   },
-  "dm_2_bubble_3": {
-    "ko": "전송중...",
-    "en": "sending...",
-    "zh": "发送中...",
-    "es": "enviando...",
-    "ja": "送信中..."
+  "dm_3_title_1": {
+    "ko": "리마인더",
+    "en": "Reminder",
+    "zh": "提醒",
+    "es": "Recordatorio",
+    "ja": "リマインダー"
   },
-  "timestamp_3": {
-    "ko": "yyyy.M.d(E)",
-    "en": "MMM d, yyyy, EEE",
-    "zh": "yyyy年M月d日(E)",
-    "es": "d MMM, yyyy, EEE",
-    "ja": "yyyy年M月d日(E)"
+  "dm_1_title_1": {
+    "ko": "DM",
+    "en": "DM",
+    "zh": "DM",
+    "es": "DM",
+    "ja": "DM"
   },
-  "dm_1_hidden_msg": {
-    "ko": "제한 시간이 지나면 DM을 볼 수 있어요.",
-    "en": "Check back later to view the message.",
-    "zh": "时间限制过后可以查看私信。",
-    "es": "Vuelve más tarde para ver el mensaje.",
-    "ja": "制限時間が過ぎたらDMを確認できます。"
-  },
-  "timestamp_2": {
-    "ko": "yyyy년 MM월 d일",
-    "en": "MMM d, yyyy",
-    "zh": "yyyy年 MM月 d日",
-    "es": "d de MMM de yyyy",
-    "ja": "yyyy年 MM月 d日"
-  },
-  "dm_3_text_1": {
-    "ko": "아직 설정한 알림이 없어요.\n{artist_name}님에게 아침에 깨워달라고\nDM을 보내 보세요.",
-    "en": "You have not set any reminders yet.\nAsk {artist_name} via DM to set an alarm.",
-    "zh": "您还没有设置任何提醒。\n试着给{artist_name}发私信，请他早上叫醒您。",
-    "es": "Aún no has configurado ningún recordatorio.\nPídele a {artist_name} por DM que te ponga una alarma.",
-    "ja": "まだリマインダーを設定していません。\n{artist_name}にDMで朝起こしてもらうように頼んでみてください。"
-  },
-  "dm_2_long_touch_1": {
-    "ko": "복사",
-    "en": "Copy",
-    "zh": "复制",
-    "es": "Copiar",
-    "ja": "コピー"
+  "dm_3_title_2": {
+    "ko": "같이 들은 음악",
+    "en": "Playlist",
+    "zh": "一起听的音乐",
+    "es": "Lista de reproducción",
+    "ja": "一緒に聴いた音楽"
   },
   "dm_2_cta_1": {
     "ko": "구독",
@@ -286,19 +195,19 @@
     "es": "Suscribirse",
     "ja": "購読"
   },
-  "timestamp_1": {
-    "ko": "a hh:mm",
-    "en": "hh:mm a",
-    "zh": "上午/下午 hh:mm",
-    "es": "hh:mm a. m./p. m.",
-    "ja": "午前/午後 hh:mm"
+  "dm_2_bubble_1": {
+    "ko": "직접 보냄",
+    "en": "Handwritten",
+    "zh": "직접 보냄",
+    "es": "Handwritten",
+    "ja": "직접 보냄"
   },
-  "dm_3_text_2": {
-    "ko": "아직 같이 들은 음악이 없어요.\n{artist_name}님에게 음악을 틀어달라고\nDM을 보내 보세요.",
-    "en": "You have not shared any playlists with {artist_name}. Ask {artist_name} via DM to curate shared playlists.",
-    "zh": "你还没有和{artist_name}一起听过音乐。试着通过私信让{artist_name}播放音乐吧。",
-    "es": "No has compartido ninguna lista de reproducción con {artist_name}. Pídele a {artist_name} por DM que cree listas de reproducción compartidas.",
-    "ja": "まだ{artist_name}と一緒に音楽を聴いていません。DMで{artist_name}に音楽をかけてもらうように頼んでみてください。"
+  "dm_2_placeholder_1": {
+    "ko": "메세지 입력...",
+    "en": "Message...",
+    "zh": "输入消息...",
+    "es": "Mensaje...",
+    "ja": "メッセージを入力..."
   },
   "dm_2_deleted_msg": {
     "ko": "삭제된 메세지입니다.",
@@ -307,11 +216,102 @@
     "es": "Mensaje eliminado",
     "ja": "削除されたメッセージ"
   },
+  "timestamp_1": {
+    "ko": "a hh:mm",
+    "en": "hh:mm a",
+    "zh": "a hh:mm",
+    "es": "hh:mm a",
+    "ja": "a hh:mm"
+  },
+  "dm_2_bubble_2": {
+    "ko": "나에게만",
+    "en": "Only to me",
+    "zh": "只给我",
+    "es": "Solo a mí",
+    "ja": "私にだけ"
+  },
+  "dm_2_long_touch_1": {
+    "ko": "복사",
+    "en": "Copy",
+    "zh": "复制",
+    "es": "Copiar",
+    "ja": "コピー"
+  },
+  "dm_edit_reminder_label_1": {
+    "ko": "날짜",
+    "en": "End Date",
+    "zh": "日期",
+    "es": "Fecha de finalización",
+    "ja": "日付"
+  },
+  "dm_1_toast_1": {
+    "ko": "{artist_name}님과 친구가 됐어요.",
+    "en": "{artist_name} has been added as a friend",
+    "zh": "{artist_name}님과 친구가 됐어요.",
+    "es": "{artist_name} has been added as a friend",
+    "ja": "{artist_name}님과 친구가 됐어요."
+  },
+  "timestamp_4": {
+    "ko": "yyyy년 MM월 d일 EEEE",
+    "en": "EEEE, MMM d, yyyy",
+    "zh": "yyyy年 MM月 d日 EEEE",
+    "es": "EEEE, d 'de' MMM 'de' yyyy",
+    "ja": "yyyy年 MM月 d日 EEEE"
+  },
+  "timestamp_2": {
+    "ko": "yyyy년 MM월 d일",
+    "en": "MMM d, yyyy",
+    "zh": "yyyy年 MM月 d日",
+    "es": "d MMM, yyyy",
+    "ja": "yyyy年 MM月 d日"
+  },
   "dm_2_used_text_1": {
     "ko": "무료 메시지 10건을 다 사용했어요.\n아티스트를 구독하고 대화를 이어가 보세요.",
     "en": "You used up all 10 free messages.\nSubscribe to the artist to continue the conversation.",
-    "zh": "您已用完10条免费消息。\n订阅艺术家以继续对话。",
-    "es": "Has utilizado los 10 mensajes gratuitos.\nSuscríbete al artista para continuar la conversación.",
+    "zh": "您已用完所有10条免费消息。\n订阅艺术家以继续对话。",
+    "es": "Has usado los 10 mensajes gratuitos.\nSuscríbete al artista para continuar la conversación.",
     "ja": "無料メッセージ10件をすべて使い切りました。\nアーティストを購読して会話を続けましょう。"
+  },
+  "dm_1_cta_1": {
+    "ko": "친구 추가",
+    "en": "Add Friend",
+    "zh": "添加朋友",
+    "es": "Agregar amigo",
+    "ja": "友達を追加"
+  },
+  "dm_3_text_2": {
+    "ko": "아직 같이 들은 음악이 없어요.\n{artist_name}님에게 음악을 틀어달라고\nDM을 보내 보세요.",
+    "en": "You have not shared any playlists with {artist_name}. Ask {artist_name} via DM to curate shared playlists.",
+    "zh": "你还没有和{artist_name}一起听过音乐。通过DM向{artist_name}发送消息，请他播放音乐。",
+    "es": "No has compartido ninguna lista de reproducción con {artist_name}. Pídele a {artist_name} a través de DM que cree listas de reproducción compartidas.",
+    "ja": "{artist_name}と一緒に聴いた音楽はまだありません。{artist_name}にDMで音楽をかけてもらうように頼んでみてください。"
+  },
+  "dm_2_bubble_3": {
+    "ko": "전송중...",
+    "en": "sending...",
+    "zh": "发送中...",
+    "es": "enviando...",
+    "ja": "送信中..."
+  },
+  "dm_download_1": {
+    "ko": "다운로드가 완료됐어요.",
+    "en": "Download completed.",
+    "zh": "下载完成了。",
+    "es": "Descarga completada.",
+    "ja": "ダウンロードが完了しました。"
+  },
+  "timestamp_3": {
+    "ko": "yyyy.M.d(E)",
+    "en": "MMM d, yyyy, EEE",
+    "zh": "yyyy.M.d(E)",
+    "es": "d MMM, yyyy, EEE",
+    "ja": "yyyy.M.d(E)"
+  },
+  "dm_3_text_1": {
+    "ko": "아직 설정한 알림이 없어요.\n{artist_name}님에게 아침에 깨워달라고\nDM을 보내 보세요.",
+    "en": "You have not set any reminders yet.\nAsk {artist_name} via DM to set an alarm.",
+    "zh": "您还没有设置任何提醒。\n通过DM向{artist_name}发送消息，要求设置闹钟。",
+    "es": "Aún no has configurado ningún recordatorio.\nPídele a {artist_name} por DM que configure una alarma.",
+    "ja": "まだリマインダーを設定していません。\n{artist_name}にDMでアラームを設定するように頼んでください。"
   }
 }
