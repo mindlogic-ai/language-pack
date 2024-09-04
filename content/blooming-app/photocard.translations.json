@@ -68,5 +68,26 @@
     "zh": "我们成为特别朋友已经n天了！送给您一张限量照片卡。",
     "es": "Se ha proporcionado una tarjeta de foto limitada ya que han pasado %@ días desde que nos hicimos amigos.",
     "ja": "アーティストと特別な友達になってからn日が経ちました！限定フォトカードをプレゼントしました。"
+  },
+  "photocard_4_dialog_1": {
+    "ko": "포토카드 획득",
+    "en": "Photocard Collected",
+    "zh": "获得照片卡",
+    "es": "Fototarjeta Recogida",
+    "ja": "フォトカード獲得"
+  },
+  "photocard_cta_4": {
+    "ko": "콜렉트북 열기",
+    "en": "Open Collectbook",
+    "zh": "打开收藏册",
+    "es": "Abrir libro de colección",
+    "ja": "コレクトブックを開く"
+  },
+  "photocard_4_dialog_2": {
+    "ko": "{heart_name}  하트 달성 기념으로\n한정 포토카드를 드렸어요 💝",
+    "en": "A limited photo card has been provided as you've become a {heart_name}  heart.",
+    "zh": "{heart_name} 心达成纪念\n赠送限量照片卡 💝",
+    "es": "Se ha proporcionado una tarjeta de foto limitada ya que te has convertido en un corazón {heart_name}.",
+    "ja": "{heart_name} ハート達成記念として\n限定フォトカードを差し上げました 💝"
   }
 }
