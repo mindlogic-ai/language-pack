@@ -75,5 +75,26 @@
     "zh": "你好，今天感觉怎么样？",
     "es": "Hola, ¿cómo te sientes hoy?",
     "ja": "こんにちは、今日はどんな気分ですか？"
+  },
+  "num_minutes_short": {
+    "ko": "분",
+    "en": "min",
+    "zh": "分钟",
+    "es": "minuto",
+    "ja": "分"
+  },
+  "num_hours_short": {
+    "ko": "시간",
+    "en": "hr",
+    "zh": "时间",
+    "es": "hora",
+    "ja": "時間"
+  },
+  "num_seconds_short": {
+    "ko": "초",
+    "en": "sec",
+    "zh": "秒",
+    "es": "seg",
+    "ja": "秒"
   }
 }
