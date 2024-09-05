@@ -1,4 +1,11 @@
 {
+  "photocard_2_dialog_1": {
+    "ko": "{heart_name} 달성!",
+    "en": "{heart_name} achieved!",
+    "zh": "{heart_name} 达成了！",
+    "es": "¡{heart_name} logrado!",
+    "ja": "{heart_name} 達成！"
+  },
   "photocard_cta_1": {
     "ko": "콜렉트북 열기",
     "en": "Open Collectbook",
@@ -6,42 +13,7 @@
     "es": "Abrir libro de colección",
     "ja": "コレクトブックを開く"
   },
-  "photocard_1_dialog_2": {
-    "ko": "구독을 시작했어요. 메시지 {n}건이 충전되었어요.\n첫 구독 한정 포토카드를 선물로 드렸어요 💝",
-    "en": "Now you can send {n} messages.\nA limited photo card has been provided as you've subscribed to the artist for the first time💝",
-    "zh": "您已开始订阅。{n}条消息已充值。\n作为首次订阅的礼物，赠送了限量版照片卡💝",
-    "es": "Ahora puedes enviar {n} mensajes.\nSe ha proporcionado una tarjeta de foto limitada ya que te has suscrito al artista por primera vez💝",
-    "ja": "購読を開始しました。メッセージが{n}件チャージされました。\n初回購読限定のフォトカードをプレゼントしました💝"
-  },
-  "photocard_1_dialog_1": {
-    "ko": "멤버십 구독 완료!",
-    "en": "You've subscribed to {artist_name}!",
-    "zh": "会员订阅完成！",
-    "es": "¡Te has suscrito a {artist_name}!",
-    "ja": "メンバーシップの購読が完了しました！"
-  },
-  "photocard_2_dialog_2": {
-    "ko": "{artist_name}님과 추억을 이만큼 모았어요.\n하트 점수 {heart_point}점을 달성해서\n{heart_name} 레벨이 되었어요. 축하해요!",
-    "en": "You've shared many memories with {artist_name}.\nAs you achieved {heart_point} heart points, you reached {heart_name} level. Congratulations!",
-    "zh": "你和{artist_name}一起积累了这么多回忆。\n你达到了{heart_point}心点，达到了{heart_name}级别。恭喜你！",
-    "es": "Has compartido muchos recuerdos con {artist_name}.\nAl alcanzar {heart_point} puntos de corazón, has llegado al nivel {heart_name}. ¡Felicidades!",
-    "ja": "{artist_name}との思い出をこんなにたくさん集めました。\nハートポイント{heart_point}点を達成して、{heart_name}レベルになりました。おめでとうございます！"
-  },
-  "photocard_cta_2": {
-    "ko": "하트 열기",
-    "en": "Open Heart",
-    "zh": "打开心扉",
-    "es": "Corazón Abierto",
-    "ja": "心を開く"
-  },
   "photocard_cta_3": {
-    "ko": "콜렉트북 열기",
-    "en": "Open Collectbook",
-    "zh": "打开收藏册",
-    "es": "Abrir libro de colección",
-    "ja": "コレクトブックを開く"
-  },
-  "photocard_cta_4": {
     "ko": "콜렉트북 열기",
     "en": "Open Collectbook",
     "zh": "打开收藏册",
@@ -55,12 +27,26 @@
     "es": "Tarjeta de fotos recogida",
     "ja": "フォトカード獲得"
   },
-  "photocard_2_dialog_1": {
-    "ko": "{heart_name} 달성!",
-    "en": "{heart_name} achieved!",
-    "zh": "{heart_name} 达成了！",
-    "es": "{heart_name} logrado!",
-    "ja": "{heart_name} 達成しました！"
+  "photocard_cta_4": {
+    "ko": "콜렉트북 열기",
+    "en": "Open Collectbook",
+    "zh": "打开收藏册",
+    "es": "Abrir libro de colección",
+    "ja": "コレクトブックを開く"
+  },
+  "photocard_cta_2": {
+    "ko": "하트 열기",
+    "en": "Open Heart",
+    "zh": "打开心扉",
+    "es": "Corazón Abierto",
+    "ja": "心を開く"
+  },
+  "photocard_1_dialog_3": {
+    "ko": "포토카드는 홈 > 콜렉트북에서 언제나 확인 가능해요.",
+    "en": "You can always check photocards at 'Home > Collectbook'.",
+    "zh": "您可以随时在“主页 > 收藏册”中查看照片卡。",
+    "es": "Siempre puedes revisar las fototarjetas en 'Inicio > Libro de colección'.",
+    "ja": "フォトカードは「ホーム > コレクトブック」でいつでも確認できます。"
   },
   "photocard_3_dialog_1": {
     "ko": "{since} 일차 기념",
@@ -69,25 +55,39 @@
     "es": "aniversario de {since} días",
     "ja": "{since} 日目の記念日"
   },
-  "photocard_4_dialog_2": {
-    "ko": "{heart_name}  하트 달성 기념으로\n한정 포토카드를 드렸어요 💝",
-    "en": "A limited photo card has been provided as you've become a {heart_name}  heart.",
-    "zh": "为了纪念你达成了{heart_name}心，特地赠送了限量照片卡 💝",
-    "es": "Se ha proporcionado una tarjeta fotográfica limitada porque te has convertido en un corazón {heart_name}.",
-    "ja": "{heart_name}ハート達成記念として、限定フォトカードをプレゼントしました 💝"
+  "photocard_1_dialog_1": {
+    "ko": "멤버십 구독 완료!",
+    "en": "You've subscribed to {artist_name}!",
+    "zh": "会员订阅完成！",
+    "es": "¡Te has suscrito a {artist_name}!",
+    "ja": "メンバーシップの購読が完了しました！"
   },
-  "photocard_1_dialog_3": {
-    "ko": "포토카드는 홈 > 콜렉트북에서 언제나 확인 가능해요.",
-    "en": "You can always check photocards at 'Home > Collectbook'.",
-    "zh": "你可以随时在“主页 > 收藏册”中查看照片卡。",
-    "es": "Siempre puedes revisar las fototarjetas en 'Inicio > Libro de colección'.",
-    "ja": "フォトカードは「ホーム > コレクトブック」でいつでも確認できます。"
+  "photocard_4_dialog_2": {
+    "ko": "{heart_name} 레벨 달성 기념으로\n한정 포토카드를 드렸어요 💝",
+    "en": "A limited photo card has been provided as you've reached the {heart_name} level.",
+    "zh": "为了纪念您达到了{heart_name}等级，特赠送限量照片卡 💝",
+    "es": "Se ha proporcionado una tarjeta fotográfica limitada ya que has alcanzado el nivel {heart_name}.",
+    "ja": "{heart_name}レベル達成記念として、限定フォトカードを差し上げました 💝"
   },
   "photocard_3_dialog_2": {
     "ko": "아티스트와 특별한 친구가 된지 {n}일이 됐어요!\n한정 포토카드를 선물로 드렸어요.",
-    "en": "A limited photo card has been provided as it's been {n} days since we became friends.\nA limited photo card has been provided as you've become a {heart_name} heart.",
-    "zh": "我们成为特别朋友已经有{n}天了！\n赠送了一张限量照片卡。",
-    "es": "Se ha proporcionado una tarjeta fotográfica limitada ya que han pasado {n} días desde que nos hicimos amigos.\nSe ha proporcionado una tarjeta fotográfica limitada ya que te has convertido en un corazón {heart_name}.",
-    "ja": "アーティストと特別な友達になってから{n}日が経ちました！\n限定フォトカードをプレゼントしました。"
+    "en": "A limited photo card has been provided as it's been {n} days since we became friends.",
+    "zh": "我们成为特别朋友已经有{n}天了！送给您一张限量照片卡。",
+    "es": "Se ha proporcionado una tarjeta de foto limitada ya que han pasado {n} días desde que nos hicimos amigos.",
+    "ja": "アーティストと特別な友達になってから{n}日が経ちました！限定フォトカードをプレゼントしました。"
+  },
+  "photocard_1_dialog_2": {
+    "ko": "구독을 시작했어요. 메시지 {n}건이 충전되었어요.\n첫 구독 한정 포토카드를 선물로 드렸어요 💝",
+    "en": "Now you can send {n} messages.\nA limited photo card has been provided as you've subscribed to the artist for the first time💝",
+    "zh": "您已开始订阅。{n}条消息已充值。\n作为首次订阅的礼物，赠送了限量版照片卡💝",
+    "es": "Ahora puedes enviar {n} mensajes.\nSe te ha proporcionado una tarjeta fotográfica limitada por haberte suscrito al artista por primera vez💝",
+    "ja": "購読を開始しました。メッセージが{n}件チャージされました。\n初回購読限定のフォトカードをプレゼントしました💝"
+  },
+  "photocard_2_dialog_2": {
+    "ko": "{artist_name}님과 추억을 이만큼 모았어요.\n하트 점수 {heart_point}점을 달성해서\n{heart_name} 레벨이 되었어요. 축하해요!",
+    "en": "You've shared many memories with {artist_name}.\nAs you achieved {heart_point} heart points, you reached {heart_name} level. congratulations!",
+    "zh": "你和{artist_name}一起积累了这么多回忆。\n你达到了{heart_point}心点，成为了{heart_name}等级。恭喜你！",
+    "es": "Has compartido muchos recuerdos con {artist_name}.\nAl alcanzar {heart_point} puntos de corazón, has llegado al nivel {heart_name}. ¡Felicidades!",
+    "ja": "{artist_name}さんとたくさんの思い出を集めました。\nハートポイント{heart_point}点を達成して、{heart_name}レベルになりました。おめでとうございます！"
   }
 }
